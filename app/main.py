@@ -4,7 +4,7 @@ from app.terminology_api import router as terminology_router
 #from app.demo_api import router as demo_router
 #from app.contribute_api import router as contribution_router
 #from app.dashboards.contributor_dashboard import router as contributor_dashboard_router
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 #from app.auth.auth_api import router as auth_router
 #from slowapi.errors import RateLimitExceeded
 #from slowapi.middleware import SlowAPIMiddleware
@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 
 #from app.datasets.parallel_dataset import ParallelDataset
 
-load_dotenv()
+#load_dotenv()
 
 
 app = FastAPI(
