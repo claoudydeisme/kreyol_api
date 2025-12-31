@@ -1,4 +1,4 @@
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+"""from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 import torch
 
 MODEL_NAME = "facebook/nllb-200-distilled-600M"
@@ -25,3 +25,4 @@ def neural_translate(text: str, source: str, target: str) -> str:
     )
 
     return tokenizer.batch_decode(generated, skip_special_tokens=True)[0]
+"""

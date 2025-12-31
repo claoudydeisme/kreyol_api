@@ -1,4 +1,4 @@
-from app.models.model import neural_translate
+#from app.models.model import neural_translate
 from app.domain_terms import enforce_domain_terms
 from app.terminology_registry import TerminologyRegistry
 from app.terminology_enforcer import enforce_terminology
@@ -42,10 +42,14 @@ def translate_text(
         return exact.strip(), 1.0
     
     
+    # Fallback ( no neural yet )
+    return 'No translation available yet'
+    
     # 2️⃣ Neural translation fallback
-    translation = neural_translate(text, source_language, target_language)
-    registry = TerminologyRegistry()
+    #translation = neural_translate(text, source_language, target_language)
+    #registry = TerminologyRegistry()
 
+    """ 
     approved_terms = registry.get_approved_terms(
     domain,
     source_language,
@@ -65,6 +69,9 @@ def translate_text(
         domain,
         direction
     )
+        
+    
+    
     warnings = []
     warnings.extend(term_warnings)
 
@@ -74,7 +81,7 @@ def translate_text(
         confidence -= 0.2
 
     return translation.strip(), max(confidence, 0.0)
-
+    """
 
 #print("DATASET INSTANCE ID (translator):", id(parallel_dataset))
 #print("DATASET SIZE (translator):", len(parallel_dataset.pairs))
