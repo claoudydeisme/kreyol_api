@@ -1,0 +1,128 @@
+openapi: 3.0.3
+info:
+  title: Haitian Creole ⇄ English Public Translation API
+  description: >
+    A public, domain-aware translation API providing safe, standardized
+    Haitian Creole (Kreyòl Ayisyen) and English translations.
+  version: 1.0.0
+servers:
+  - url: #https://api.kreyoltranslate.org/v1
+
+paths:
+  /translate:
+    post:
+      summary: Translate short text (≤ 300 words)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/TranslationRequest"
+      responses:
+        "200":
+          description: Successful translation
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/TranslationResponse"
+        "400":
+          description: Invalid request
+        "413":
+          description: Text too long
+
+  /translate/long:
+    post:
+      summary: Translate long documents with structure preserved
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/LongTranslationRequest"
+      responses:
+        "200":
+          description: Successful long-document translation
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/LongTranslationResponse"
+
+  /terminology/propose:
+    post:
+      summary: Propose a new terminology entry
+      responses:
+        "200":
+          description: Term proposed (unapproved)
+        "409":
+          description: Terminology conflict detected
+
+  /terminology/approve:
+    post:
+      summary: Approve a terminology entry
+      responses:
+        "200":
+          description: Term approved
+        "404":
+          description: Term not found
+
+  /terminology/{domain}:
+    get:
+      summary: List approved terminology for a domain
+      parameters:
+        - name: domain
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: List of approved terms
+
+components:
+  schemas:
+    TranslationRequest:
+      type: object
+      required: [text, domain]
+      properties:
+        text:
+          type: string
+        source_language:
+          type: string
+          enum: [en, ht]
+        target_language:
+          type: string
+          enum: [en, ht]
+        domain:
+          type: string
+          enum: [healthcare, education, government, general]
+
+    TranslationResponse:
+      type: object
+      properties:
+        translation:
+          type: string
+        confidence:
+          type: number
+        warnings:
+          type: array
+          items:
+            type: string
+
+    LongTranslationRequest:
+      type: object
+      required: [text, domain]
+      properties:
+        text:
+          type: string
+        domain:
+          type: string
+
+    LongTranslationResponse:
+      type: object
+      properties:
+        sections:
+          type: array
+          items:
+            type: object
+        average_confidence:
+          type: number
