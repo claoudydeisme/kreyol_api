@@ -5,7 +5,7 @@ langdetect
 python-multipart
 numpy<2.0
 sentencepiece
-python3.11
+#python3.11
 slowapi
 gunicorn
 python-jose
