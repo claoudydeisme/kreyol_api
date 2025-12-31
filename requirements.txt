@@ -9,3 +9,6 @@ sentencepiece
 slowapi
 gunicorn
 python-jose
+torch==2.2.2
+transformers==4.38.2
+--index-url https://download.pytorch.org/whl/cpu
