@@ -2,6 +2,10 @@ app = "kreyol-api"
 
 [build]
   builder = "paketobuildpacks/builder:base"
+  
+[[build.env]]
+  name = "BP_PYTHON_VERSION"
+  value = "3.11.*"
 
 [env]
   PORT = "8080"
