@@ -3,9 +3,7 @@ uvicorn
 pydantic
 langdetect
 python-multipart
-torch==2.2.2
 numpy<2.0
-transformers-4.38.2
 sentencepiece
 python3.11
 slowapi
