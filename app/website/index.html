@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>KreyolAPI — Public Haitian Creole Language Infrastructure</title>
+  <meta name="description" content="KreyolAPI is a nonprofit public API for accurate Haitian Creole translation and language access."/>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+
+<body>
+  <header class="hero">
+    <h1>KreyolAPI</h1>
+    <p class="subtitle">
+      Public, nonprofit infrastructure for Haitian Creole language access
+    </p>
+    <p class="tagline">
+      Built for communities, education, journalism, and public services.
+    </p>
+    <a href="#docs" class="button">View API Docs</a>
+  </header>
+
+  <section>
+    <h2>Why KreyolAPI?</h2>
+    <p>
+      Haitian Creole is spoken by over 12 million people, yet it remains
+      underrepresented in high-quality language infrastructure.
+    </p>
+    <p>
+      KreyolAPI exists to provide <strong>accurate, transparent, and community-grounded</strong>
+      translation services as a public good — not a commercial product.
+    </p>
+  </section>
+
+  <section>
+    <h2>What We Provide</h2>
+    <ul>
+      <li>📘 Haitian Creole ↔ English translation API</li>
+      <li>🧠 Hybrid neural + dataset-based translation</li>
+      <li>🌍 Open access for public-interest use</li>
+      <li>🔎 Focus on linguistic accuracy and consistency</li>
+    </ul>
+  </section>
+
+  <section id="docs">
+    <h2>API Usage</h2>
+
+    <pre><code>POST https://api.kreyolapi.org/translate
+Content-Type: application/json
+
+{
+  "text": "Bonjou, kijan ou ye?"
+}</code></pre>
+
+    <pre><code>{
+  "translation": "Hello, how are you?",
+  "confidence": 0.92
+}</code></pre>
+
+    <p>
+      No authentication required during the public pilot phase.
+    </p>
+  </section>
+
+  <section>
+    <h2>Who Is This For?</h2>
+    <ul>
+      <li>Nonprofit organizations</li>
+      <li>Schools and educators</li>
+      <li>Journalists and media outlets</li>
+      <li>Developers building Creole-accessible tools</li>
+      <li>Public institutions</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Governance & Ethics</h2>
+    <p>
+      KreyolAPI is a nonprofit public infrastructure project.
+      We do not sell user data, and our goal is long-term community stewardship
+      of Haitian Creole language technology.
+    </p>
+  </section>
+
+  <footer>
+    <p>
+      © 2025 KreyolAPI — Public Language Infrastructure
+    </p>
+    <p>
+      Contact: <a href="mailto:contact@kreyolapi.org">contact@kreyolapi.org</a>
+    </p>
+  </footer>
+</body>
+</html>
