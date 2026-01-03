@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="ht">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Eseye Vokal Kreyòl — Demo An Dirèk</title>
+  <link rel="stylesheet" href="demo-styles.css"/>
+  <link rel="stylesheet" href="language-switcher.css"/>
+</head>
+
+<body>
+  <header class="demo-header">
+    <div class="container">
+      <h1 data-i18n="demo.title">Eseye Vokal Kreyòl</h1>
+      <p class="subtitle" data-i18n="demo.subtitle">
+        Fè eksperyans tradiksyon Kreyòl Ayisyen ki egzak
+      </p>
+      <a href="index.html" class="back-link" data-i18n="nav.back">← Tounen nan Akèy</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="demo-section">
+      <div class="demo-card">
+        <h2 data-i18n="demo.heading">Demo Tradiksyon</h2>
+        
+        <div class="language-selector">
+          <label class="selector-label" data-i18n="demo.direction.label">Direksyon Tradiksyon:</label>
+          <div class="direction-buttons">
+            <button class="direction-btn active" data-direction="en-ht">
+              <span class="lang-flag">🇺🇸</span> <span data-i18n="demo.direction.en-ht">Anglè → Kreyòl</span>
+            </button>
+            <button class="direction-btn" data-direction="ht-en">
+              <span class="lang-flag">🇭🇹</span> <span data-i18n="demo.direction.ht-en">Kreyòl → Anglè</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="domain-selector">
+          <label class="selector-label" data-i18n="demo.domain.label">Domèn:</label>
+          <div class="domain-options">
+            <label class="domain-option">
+              <input type="radio" name="domain" value="general" checked>
+              <span class="domain-label" data-i18n="demo.domain.general">Jeneral</span>
+            </label>
+            <label class="domain-option">
+              <input type="radio" name="domain" value="healthcare">
+              <span class="domain-label" data-i18n="demo.domain.healthcare">Sante</span>
+            </label>
+            <label class="domain-option">
+              <input type="radio" name="domain" value="education">
+              <span class="domain-label" data-i18n="demo.domain.education">Edikasyon</span>
+            </label>
+          </div>
+        </div>
+
+        <form id="translationForm" class="translation-form">
+          <div class="input-section">
+            <label for="sourceText" class="input-label">
+              <span id="sourceLanguageLabel">Tèks Anglè</span>
+              <span class="char-count" id="charCount">0 / 500</span>
+            </label>
+            <textarea 
+              id="sourceText" 
+              class="text-input" 
+              placeholder="Ekri oswa kole tèks ou a isit la..."
+              maxlength="500"
+              rows="6"
+            ></textarea>
+          </div>
+
+          <button type="submit" class="translate-btn" id="translateBtn">
+            <span class="btn-text" data-i18n="demo.translate.btn">Tradui</span>
+            <span class="btn-loader" style="display: none;" data-i18n="demo.translate.loading">N ap tradui...</span>
+          </button>
+
+          <div class="output-section" id="outputSection" style="display: none;">
+            <label class="output-label">
+              <span id="targetLanguageLabel">Tradiksyon Kreyòl Ayisyen</span>
+              <span class="confidence-badge" id="confidenceBadge"></span>
+            </label>
+            <div class="text-output" id="translationOutput"></div>
+            
+            <div class="warnings-section" id="warningsSection" style="display: none;">
+              <p class="warnings-label" data-i18n="demo.warnings.title">⚠️ Nòt sou Tradiksyon:</p>
+              <ul class="warnings-list" id="warningsList"></ul>
+            </div>
+          </div>
+        </form>
+
+        <div class="feedback-section" id="feedbackSection" style="display: none;">
+          <h3 data-i18n="demo.feedback.question">Èske tradiksyon sa a te itil?</h3>
+          <div class="feedback-buttons">
+            <button class="feedback-btn feedback-yes" data-feedback="helpful" data-i18n="demo.feedback.yes">
+              👍 Wi, li itil
+            </button>
+            <button class="feedback-btn feedback-no" data-feedback="not-helpful" data-i18n="demo.feedback.no">
+              👎 Li bezwen amelyorasyon
+            </button>
+          </div>
+          <div class="feedback-comment" id="feedbackComment" style="display: none;">
+            <textarea 
+              id="feedbackText" 
+              class="feedback-input"
+              placeholder="Opsyonèl: Di nou kijan nou ka amelyore tradiksyon sa a..."
+              rows="3"
+            ></textarea>
+            <button class="submit-feedback-btn" id="submitFeedback" data-i18n="demo.feedback.submit">Voye Kòmantè</button>
+          </div>
+          <div class="feedback-thanks" id="feedbackThanks" style="display: none;">
+            <p data-i18n="demo.feedback.thanks">✅ Mèsi pou kòmantè ou! Li ede nou amelyore Vokal Kreyòl.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="examples-section">
+        <h3 data-i18n="demo.examples.title">Eseye egzanp sa yo:</h3>
+        <div class="examples-grid">
+          <button class="example-btn" data-text="Does your child eat junk food?" data-lang="en">
+            "Does your child eat junk food?"
+          </button>
+          <button class="example-btn" data-text="Your child needs extra support." data-lang="en">
+            "Your child needs extra support."
+          </button>
+          <button class="example-btn" data-text="The meeting has been canceled." data-lang="en">
+            "The meeting has been canceled."
+          </button>
+          <button class="example-btn" data-text="Tradiksyon ki pa parèt yo se paske yo pako egziste nan baz de done nou an." data-lang="ht">
+            "Tradiksyon ki pa parèt yo se paske yo pako egziste nan baz de done nou an."
+          </button>
+           <button class="example-btn" data-text="Mwen pa santi m te ka al travay jodi a paske kòm kraze." data-lang="ht">
+            "Mwen pa santi m te ka al travay jodi a paske kòm kraze."
+          </button>
+           <button class="example-btn" data-text="Mwen razè" data-lang="ht">
+            "Mwen razè"
+          </button>  
+        </div>
+      </div>
+
+    <section class="api-info">
+      <h3 data-i18n="demo.api.title">Itilize Vokal Kreyòl API la nan Aplikasyon Ou</h3>
+      <p data-i18n="demo.api.text">Demo sa a itilize menm API ke ou ka entegre nan aplikasyon ou yo:</p>
+      <pre><code>POST /translate
+{
+  "text": "your text here",
+  "source_language": "en",
+  "target_language": "ht",
+  "domain": "general"
+}</code></pre>
+      <a href="index.html#docs" class="docs-link" data-i18n="demo.api.link">Gade Dokimantasyon API Konplè →</a>
+    </section>
+  </main>
+
+  <footer>
+    <p data-i18n="index.footer.rights">© 2026 Vokal Kreyòl — Enfrastrikti Lang Piblik</p>
+    <p>
+      <span data-i18n="index.footer.contact">Kontakte nou:</span>
+      <a href="mailto:contact@kreyolapi.org">contact@kreyolapi.org</a>
+    </p>
+  </footer>
+
+  <script src="language-switcher.js"></script>
+  <script src="demo.js"></script>
+</body>
+</html>

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ht">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kontribye nan Vokal Kreyòl — Ajoute Tradiksyon</title>
+  <link rel="stylesheet" href="contribute-styles.css"/>
+  <link rel="stylesheet" href="language-switcher.css"/>
+</head>
+
+<body>
+  <header class="contribute-header">
+    <div class="container">
+      <h1 data-i18n="contribute.title">Kontribye Tradiksyon</h1>
+      <p class="subtitle" data-i18n="contribute.subtitle">
+        Ede nou konstwi pi bon zouti pou lang Kreyòl Ayisyen
+      </p>
+      <p class="description" data-i18n="contribute.description">
+        Kontribisyon ou yo ede amelyore kalite tradiksyon pou tout moun. Pataje fraz, santans, oswa tèm ou itilize nan lavi chak jou.
+      </p>
+      <a href="index.html" class="back-link" data-i18n="nav.back">← Tounen nan Akèy</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="contribute-section">
+      <div class="contribute-card">
+        <h2 data-i18n="contribute.heading">Ajoute yon Nouvo Tradiksyon</h2>
+        <p class="instructions" data-i18n="contribute.instructions">
+          Pataje yon fraz oswa santans ak tradiksyon li. Kontribisyon ou ap revize epi ajoute nan baz done nou.
+        </p>
+        
+        <form id="contributionForm" class="contribution-form">
+          <div class="form-group">
+            <label for="contributorName" class="form-label">
+              <span data-i18n="contribute.name.label">Non Ou</span>
+              <span class="optional" data-i18n="contribute.name.optional">(pou referans)</span>
+            </label>
+            <input 
+              type="text" 
+              id="contributorName" 
+              class="form-input" 
+              placeholder="Antre non ou (opsyonèl)"
+            />
+          </div>
+
+          <div class="form-group">
+            <label class="form-label" data-i18n="contribute.direction.label">M ap kontribye nan:</label>
+            <div class="direction-buttons">
+              <button type="button" class="direction-btn active" data-direction="en-ht">
+                <span class="lang-flag">🇺🇸</span> <span data-i18n="demo.direction.en-ht">Anglè → Kreyòl</span>
+              </button>
+              <button type="button" class="direction-btn" data-direction="ht-en">
+                <span class="lang-flag">🇭🇹</span> <span data-i18n="demo.direction.ht-en">Kreyòl → Anglè</span>
+              </button>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label" data-i18n="contribute.category.label">Kategori:</label>
+            <div class="domain-options">
+              <label class="domain-option">
+                <input type="radio" name="domain" value="general" checked>
+                <span class="domain-label">
+                  <span class="domain-icon">💬</span>
+                  <span data-i18n="demo.domain.general">Jeneral</span>
+                </span>
+              </label>
+              <label class="domain-option">
+                <input type="radio" name="domain" value="healthcare">
+                <span class="domain-label">
+                  <span class="domain-icon">🏥</span>
+                  <span data-i18n="demo.domain.healthcare">Sante</span>
+                </span>
+              </label>
+              <label class="domain-option">
+                <input type="radio" name="domain" value="education">
+                <span class="domain-label">
+                  <span class="domain-icon">📚</span>
+                  <span data-i18n="demo.domain.education">Edikasyon</span>
+                </span>
+              </label>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="sourceText" class="form-label">
+              <span id="sourceLanguageLabel">Tèks Anglè</span>
+              <span class="required">*</span>
+            </label>
+            <textarea 
+              id="sourceText" 
+              class="form-textarea" 
+              placeholder="Antre tèks la an Anglè..."
+              rows="4"
+              required
+            ></textarea>
+            <p class="field-hint" data-i18n="contribute.source.hint">Antre yon mo, fraz, oswa santans</p>
+          </div>
+
+          <div class="form-group">
+            <label for="targetText" class="form-label">
+              <span id="targetLanguageLabel">Tradiksyon Kreyòl Ayisyen</span>
+              <span class="required">*</span>
+            </label>
+            <textarea 
+              id="targetText" 
+              class="form-textarea" 
+              placeholder="Antre tradiksyon an Kreyòl..."
+              rows="4"
+              required
+            ></textarea>
+            <p class="field-hint" data-i18n="contribute.target.hint">Tradiksyon ou a nan tèks ki anlè a</p>
+          </div>
+
+          <div class="form-group">
+            <label for="context" class="form-label">
+              <span data-i18n="contribute.context.label">Kontèks Adisyonèl</span>
+              <span class="optional" data-i18n="contribute.context.optional">(opsyonèl)</span>
+            </label>
+            <textarea 
+              id="context" 
+              class="form-textarea" 
+              placeholder="Nenpòt kontèks oswa nòt adisyonèl sou tradiksyon sa a..."
+              rows="2"
+            ></textarea>
+            <p class="field-hint" data-i18n="contribute.context.hint">Egzanp: Kilè pou itilize fraz sa a, varyasyon rejyonal, elatriye.</p>
+          </div>
+
+          <button type="submit" class="submit-btn" id="submitBtn">
+            <span class="btn-text" data-i18n="contribute.submit.btn">Voye Kontribisyon</span>
+            <span class="btn-loader" style="display: none;" data-i18n="contribute.submit.loading">N ap voye...</span>
+          </button>
+
+          <div class="success-message" id="successMessage" style="display: none;">
+            <div class="success-icon">✓</div>
+            <h3 data-i18n="contribute.success.title">Mèsi pou Kontribisyon Ou!</h3>
+            <p data-i18n="contribute.success.text">Tradiksyon ou te soumèt pou revizyon. Nou pral ajoute li nan baz done nou apre verifikasyon.</p>
+            <button type="button" class="add-another-btn" id="addAnotherBtn" data-i18n="contribute.success.another">
+              Ajoute yon Lòt Tradiksyon
+            </button>
+          </div>
+
+          <div class="error-message" id="errorMessage" style="display: none;">
+            <p data-i18n="contribute.error">⚠️ Te gen yon erè lè w ap soumèt kontribisyon ou. Tanpri eseye ankò.</p>
+          </div>
+        </form>
+      </div>
+
+      <div class="why-contribute">
+        <h3 data-i18n="contribute.why.title">Poukisa Kontribisyon Ou Enpòtan</h3>
+        <div class="benefits-grid">
+          <div class="benefit-card">
+            <div class="benefit-icon">🌍</div>
+            <h4 data-i18n="contribute.benefit1.title">Konstwi Pi Bon Zouti</h4>
+            <p data-i18n="contribute.benefit1.text">Tradiksyon ou yo ede kreye resous lengwistik ki pi egzak pou kominote Kreyòl Ayisyen an.</p>
+          </div>
+          <div class="benefit-card">
+            <div class="benefit-icon">📖</div>
+            <h4 data-i18n="contribute.benefit2.title">Prezève Lang</h4>
+            <p data-i18n="contribute.benefit2.text">Dokimante fraz ak ekspresyon Kreyòl otantik pou jenerasyon k ap vini yo.</p>
+          </div>
+          <div class="benefit-card">
+            <div class="benefit-icon">🤝</div>
+            <h4 data-i18n="contribute.benefit3.title">Ede Kominote Ou</h4>
+            <p data-i18n="contribute.benefit3.text">Fè sèvis sante, edikasyon, ak sèvis esansyèl yo pi aksesib an Kreyòl.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="guidelines-section">
+        <h3 data-i18n="contribute.guidelines.title">Règleman pou Kontribisyon</h3>
+        <ul class="guidelines-list">
+          <li data-i18n="contribute.guideline1">✅ Kontribye tradiksyon otantik, natirèl ke ou ta reyèlman itilize</li>
+          <li data-i18n="contribute.guideline2">✅ Enkli fraz komen nan lavi chak jou, travay, oswa domèn espesifik</li>
+          <li data-i18n="contribute.guideline3">✅ Ekri nan òtograf Kreyòl Ayisyen estanda lè posib</li>
+          <li data-i18n="contribute.guideline4">✅ Ajoute kontèks si fraz la gen itilizasyon espesifik oswa varyasyon rejyonal</li>
+          <li data-i18n="contribute.guideline5">❌ Pa soumèt tèks ki tradui pa machin</li>
+          <li data-i18n="contribute.guideline6">❌ Pa enkli kontni ofansif oswa enpwopriye</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p data-i18n="index.footer.rights">© 2026 Vokal Kreyòl — Enfrastrikti Lang Piblik</p>
+    <p>
+      <span data-i18n="index.footer.contact">Kontakte nou:</span>
+      <a href="mailto:contact@kreyolapi.org">contact@kreyolapi.org</a>
+    </p>
+  </footer>
+
+  <script src="language-switcher.js"></script>
+  <script src="contribute.js"></script>
+</body>
+</html>

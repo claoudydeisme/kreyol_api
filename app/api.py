@@ -3,13 +3,17 @@ from app.schemas import TranslationRequest, TranslationResponse
 from app.config import *
 from app.language_detection import detect_language
 from app.translator import translate_text
-from app.safety_checks import enforce_creole_rules, simplify_if_low_confidence, should_simplify, simplify_creole, enforce_creole_grammar
+from app.safety_checks import enforce_creole_rules, enforce_creole_grammar #simplify_if_low_confidence, should_simplify, simplify_creole,
 from app.utils import normalize_text, word_count
 from app.logging import log_translation
 from app.long_translator import translate_long_document
 from app.schemas import LongTranslationRequest, LongTranslationResponse
 from app.review_queue import flag_for_human_review
+from app.datasets.registry_data import list_datasets
 
+
+
+print(f"📚 Loaded datasets: {list_datasets()}")
 
 
 router = APIRouter()
@@ -50,9 +54,9 @@ def translate(req: TranslationRequest):
     for issue in grammar_issues:
         warnings.append(issue["code"])
 
-    if should_simplify(grammar_issues) or confidence < CONFIDENCE_THRESHOLD:
-        translation = simplify_creole()
-        warnings.append("SIMPLIFIED_FOR_SAFETY")
+    #if should_simplify(grammar_issues) or confidence < CONFIDENCE_THRESHOLD:
+        #translation = simplify_creole(translation)
+        #warnings.append("SIMPLIFIED_FOR_SAFETY")
     if any(i["severity"] in ["CRITICAL", "WARNING"] for i in grammar_issues):
         flag_for_human_review(
             source_text=text,
@@ -65,9 +69,9 @@ def translate(req: TranslationRequest):
 
    
 
-    if confidence < CONFIDENCE_THRESHOLD:
-        translation = simplify_creole(translation)
-        warnings.append("LOW_CONFIDENCE_SIMPLIFIED")
+    #if confidence < CONFIDENCE_THRESHOLD:
+        #translation = simplify_creole(translation)
+        #warnings.append("LOW_CONFIDENCE_SIMPLIFIED")
 
         #warnings.extend(enforce_creole_rules(translation))
 

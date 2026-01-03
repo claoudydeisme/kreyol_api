@@ -1,94 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>KreyolAPI — Public Haitian Creole Language Infrastructure</title>
-  <meta name="description" content="KreyolAPI is a nonprofit public API for accurate Haitian Creole translation and language access."/>
-  <link rel="stylesheet" href="styles.css"/>
+ <meta charset="UTF-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+ <title>Vokal Kreyòl — Public Haitian Creole Language Infrastructure</title>
+ <meta name="description" content="Vokal Kreyòl is a nonprofit public API for accurate Haitian Creole translation and language access."/>
+ <link rel="stylesheet" href="styles.css"/>
+ <link rel="stylesheet" href="language-switcher.css"/>
 </head>
 
 <body>
-  <header class="hero">
-    <h1>KreyolAPI</h1>
-    <p class="subtitle">
-      Public, nonprofit infrastructure for Haitian Creole language access
-    </p>
-    <p class="tagline">
-      Built for communities, education, journalism, and public services.
-    </p>
-    <a href="#docs" class="button">View API Docs</a>
-  </header>
+ <header class="hero">
+   <h1 data-i18n="index.title">Vokal Kreyòl</h1>
+   <p class="subtitle" data-i18n="index.subtitle">
+     Enfrastrikti piblik, san objektif pwofi, pou aksè nan lang Kreyòl Ayisyen
+   </p>
+   <p class="tagline" data-i18n="index.tagline">
+     Bati pou kominote yo, edikasyon, jounalis, ak sèvis piblik yo.
+   </p>
+   <div class="hero-buttons">
+     <a href="demo.html" class="button button-primary" data-i18n="nav.demo">Eseye Demo</a>
+     <a href="contribute.html" class="button button-secondary" data-i18n="nav.contribute">Kontribye</a>
+     <a href="#docs" class="button button-secondary" data-i18n="nav.docs">Dokimantasyon API</a>
+   </div>
+ </header>
 
-  <section>
-    <h2>Why KreyolAPI?</h2>
-    <p>
-      Haitian Creole is spoken by over 12 million people, yet it remains
-      underrepresented in high-quality language infrastructure.
-    </p>
-    <p>
-      KreyolAPI exists to provide <strong>accurate, transparent, and community-grounded</strong>
-      translation services as a public good — not a commercial product.
-    </p>
-  </section>
+ <section>
+   <h2 data-i18n="index.why.title">Poukisa Vokal Kreyòl?</h2>
+   <p data-i18n="index.why.text1">
+     Plis pase 12 milyon moun pale Kreyòl Ayisyen, men li toujou pa gen yon bon reprezantasyon nan enfrastrikti lang kalite.
+   </p>
+   <p data-i18n="index.why.text2">
+     Vokal Kreyòl egziste pou bay sèvis tradiksyon ki egzak, transparan, ak ki baze sou kominote a kòm yon byen piblik — pa yon pwodui komèsyal.
+   </p>
+ </section>
 
-  <section>
-    <h2>What We Provide</h2>
-    <ul>
-      <li>📘 Haitian Creole ↔ English translation API</li>
-      <li>🧠 Hybrid neural + dataset-based translation</li>
-      <li>🌍 Open access for public-interest use</li>
-      <li>🔎 Focus on linguistic accuracy and consistency</li>
-    </ul>
-  </section>
+ <section>
+   <h2 data-i18n="index.what.title">Sa Nou Ofri</h2>
+   <ul>
+     <li data-i18n="index.what.item1">📘 API tradiksyon Kreyòl Ayisyen ↔ Anglè</li>
+     <li data-i18n="index.what.item2">🧠 Tradiksyon ki konbine rezo neral ak baz done</li>
+     <li data-i18n="index.what.item3">🌍 Aksè louvri pou itilizasyon enterè piblik</li>
+     <li data-i18n="index.what.item4">🔎 Fokis sou presizyon ak konsistans lengwistik</li>
+   </ul>
+ </section>
 
-  <section id="docs">
-    <h2>API Usage</h2>
+ <section id="docs">
+   <h2 data-i18n="index.api.title">Itilizasyon API</h2>
 
-    <pre><code>POST https://api.kreyolapi.org/translate
+   <pre><code>POST https://api.kreyolapi.org/translate
 Content-Type: application/json
 
 {
-  "text": "Bonjou, kijan ou ye?"
+ "text": "Bonjou, kijan ou ye?",
+ "source_language": "ht",
+ "target_language": "en",
+ "domain": "general"
 }</code></pre>
 
-    <pre><code>{
-  "translation": "Hello, how are you?",
-  "confidence": 0.92
+   <pre><code>{
+ "translation": "Hello, how are you?",
+ "source_language": "ht",
+ "target_language": "en",
+ "domain": "general",
+ "confidence": 0.92,
+ "warnings": []
 }</code></pre>
 
-    <p>
-      No authentication required during the public pilot phase.
-    </p>
-  </section>
+   <p data-i18n="index.api.note">
+     Pa gen otantifikasyon obligatwa pandan faz pilot piblik la.
+   </p>
+ </section>
 
-  <section>
-    <h2>Who Is This For?</h2>
-    <ul>
-      <li>Nonprofit organizations</li>
-      <li>Schools and educators</li>
-      <li>Journalists and media outlets</li>
-      <li>Developers building Creole-accessible tools</li>
-      <li>Public institutions</li>
-    </ul>
-  </section>
+ <section>
+   <h2 data-i18n="index.who.title">Pou Ki Moun Sa Ye?</h2>
+   <ul>
+     <li data-i18n="index.who.item1">Òganizasyon san objektif pwofi</li>
+     <li data-i18n="index.who.item2">Lekòl ak edikatè</li>
+     <li data-i18n="index.who.item3">Jounalis ak mwayen enfòmasyon</li>
+     <li data-i18n="index.who.item4">Devlopè k ap konstwi zouti aksesib nan Kreyòl</li>
+     <li data-i18n="index.who.item5">Enstitisyon piblik</li>
+   </ul>
+ </section>
 
-  <section>
-    <h2>Governance & Ethics</h2>
-    <p>
-      KreyolAPI is a nonprofit public infrastructure project.
-      We do not sell user data, and our goal is long-term community stewardship
-      of Haitian Creole language technology.
-    </p>
-  </section>
+ <section>
+   <h2 data-i18n="index.ethics.title">Gouvènans ak Etik</h2>
+   <p data-i18n="index.ethics.text">
+     Vokal Kreyòl se yon pwojè enfrastrikti piblik san objektif pwofi. Nou pa vann done itilizatè yo, epi objektif nou se jesyon kominotè alontèm teknoloji lang Kreyòl Ayisyen.
+   </p>
+ </section>
 
-  <footer>
-    <p>
-      © 2025 KreyolAPI — Public Language Infrastructure
-    </p>
-    <p>
-      Contact: <a href="mailto:contact@kreyolapi.org">contact@kreyolapi.org</a>
-    </p>
-  </footer>
+ <footer>
+   <p data-i18n="index.footer.rights">
+     © 2026 Vokal Kreyòl — Enfrastrikti Lang Piblik
+   </p>
+   <p>
+     <span data-i18n="index.footer.contact">Kontakte nou:</span>
+     <a href="mailto:contact@kreyolapi.org">contact@kreyolapi.org</a>
+   </p>
+ </footer>
+ 
+ <script src="language-switcher.js"></script>
 </body>
 </html>

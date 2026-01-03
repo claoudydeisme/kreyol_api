@@ -1,6 +1,10 @@
 from fastapi import FastAPI
 from app.api import router
 from app.terminology_api import router as terminology_router
+from app.email_service import router as email_router
+from fastapi.middleware.cors import CORSMiddleware
+from dotenv import load_dotenv
+
 #from app.demo_api import router as demo_router
 #from app.contribute_api import router as contribution_router
 #from app.dashboards.contributor_dashboard import router as contributor_dashboard_router
@@ -14,13 +18,35 @@ from app.terminology_api import router as terminology_router
 
 #from app.datasets.parallel_dataset import ParallelDataset
 
-#load_dotenv()
+
 
 
 app = FastAPI(
     title="Haitian Creole ⇄ English Public Translation API",
     description="Safe, standardized, domain-aware Haitian Creole translation",
     version="1.0.0"
+)
+load_dotenv()
+# Enable CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "https://kreyolapi.org",
+        "https://www.kreyolapi.org",
+        "https://api.kreyolapi.org",
+        # Only allowed in dev mode
+        #"http://localhost:8000",
+        #"http://localhost:8080",
+        #"http://localhost:3000",      
+        #"http://localhost:5000",
+        #"http://127.0.0.1:8000",
+        #"http://127.0.0.1:8080",
+        #"http://127.0.0.1:3000",
+        #"http://127.0.0.1:5000",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 @app.get("/", include_in_schema=False)
@@ -57,6 +83,8 @@ def rate_limit_handler(request, exc):
 
 app.include_router(router, prefix="/v1")
 app.include_router(terminology_router, prefix="/v1")
+#app.include_router(router)
+app.include_router(email_router) 
 
 # 🔑 THIS IS WHAT MAKES ROUTES EXIST
 #app.include_router(translation_router)

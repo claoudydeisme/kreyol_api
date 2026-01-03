@@ -1,0 +1,94 @@
+/* Language Switcher Styles */
+
+.language-switcher {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  display: flex;
+  gap: 0.5rem;
+  z-index: 1000;
+}
+
+.lang-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 8px;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+  backdrop-filter: blur(10px);
+}
+
+.lang-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.5);
+  transform: translateY(-2px);
+}
+
+.lang-btn.active {
+  background: #38bdf8;
+  border-color: #38bdf8;
+  box-shadow: 0 4px 8px rgba(56, 189, 248, 0.3);
+}
+
+.lang-flag {
+  font-size: 1.2rem;
+  line-height: 1;
+}
+
+.lang-text {
+  font-weight: 600;
+}
+
+/* Make header position relative for absolute positioning */
+header {
+  position: relative;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .language-switcher {
+    top: 0.5rem;
+    right: 0.5rem;
+  }
+  
+  .lang-btn {
+    padding: 0.4rem 0.75rem;
+    font-size: 0.85rem;
+  }
+  
+  .lang-text {
+    display: none; /* Hide text on mobile, show only flags */
+  }
+  
+  .lang-flag {
+    font-size: 1.5rem;
+  }
+}
+
+/* For pages with light backgrounds (contribute, demo) */
+.demo-header .lang-btn,
+.contribute-header .lang-btn {
+  background: rgba(255, 255, 255, 0.95);
+  color: #0f172a;
+  border-color: rgba(15, 23, 42, 0.2);
+}
+
+.demo-header .lang-btn:hover,
+.contribute-header .lang-btn:hover {
+  background: #fff;
+  border-color: #38bdf8;
+}
+
+.demo-header .lang-btn.active,
+.contribute-header .lang-btn.active {
+  background: #38bdf8;
+  color: #fff;
+  border-color: #38bdf8;
+}

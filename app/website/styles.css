@@ -1,60 +1,129 @@
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  margin: 0;
-  padding: 0;
-  line-height: 1.6;
-  color: #111;
+ font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+ margin: 0;
+ padding: 0;
+ line-height: 1.6;
+ color: #111;
 }
 
 .hero {
-  background: #0f172a;
-  color: #fff;
-  padding: 4rem 2rem;
-  text-align: center;
+ background: #0f172a;
+ color: #fff;
+ padding: 4rem 2rem;
+ text-align: center;
 }
 
 .subtitle {
-  font-size: 1.25rem;
-  opacity: 0.9;
+ font-size: 1.25rem;
+ opacity: 0.9;
 }
 
 .tagline {
-  margin-top: 1rem;
-  font-size: 1rem;
-  opacity: 0.8;
+ margin-top: 1rem;
+ font-size: 1rem;
+ opacity: 0.8;
+}
+
+.hero-buttons {
+ display: flex;
+ gap: 1rem;
+ justify-content: center;
+ align-items: center;
+ margin-top: 2rem;
+ flex-wrap: wrap;
 }
 
 .button {
-  display: inline-block;
-  margin-top: 2rem;
-  padding: 0.75rem 1.5rem;
-  background: #38bdf8;
-  color: #000;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: 600;
+ display: inline-block;
+ padding: 0.75rem 1.5rem;
+ text-decoration: none;
+ border-radius: 6px;
+ font-weight: 600;
+ transition: all 0.2s;
+}
+
+.button-primary {
+ background: #38bdf8;
+ color: #000;
+}
+
+.button-primary:hover {
+ background: #0ea5e9;
+ transform: translateY(-2px);
+ box-shadow: 0 4px 12px rgba(56, 189, 248, 0.4);
+}
+
+.button-secondary {
+ background: transparent;
+ color: #38bdf8;
+ border: 2px solid #38bdf8;
+}
+
+.button-secondary:hover {
+ background: rgba(56, 189, 248, 0.1);
+ border-color: #7dd3fc;
+ color: #7dd3fc;
 }
 
 section {
-  max-width: 800px;
-  margin: 3rem auto;
-  padding: 0 1.5rem;
+ max-width: 800px;
+ margin: 3rem auto;
+ padding: 0 1.5rem;
 }
 
 h2 {
-  margin-bottom: 1rem;
+ margin-bottom: 1rem;
+}
+
+ul {
+ line-height: 1.8;
 }
 
 pre {
-  background: #f4f4f4;
-  padding: 1rem;
-  overflow-x: auto;
-  border-radius: 6px;
+ background: #f4f4f4;
+ padding: 1rem;
+ overflow-x: auto;
+ border-radius: 6px;
+}
+
+code {
+ font-family: 'Courier New', monospace;
+ font-size: 0.9rem;
 }
 
 footer {
-  background: #f8fafc;
-  text-align: center;
-  padding: 2rem;
-  font-size: 0.9rem;
+ background: #f8fafc;
+ text-align: center;
+ padding: 2rem;
+ font-size: 0.9rem;
+ margin-top: 4rem;
+}
+
+footer a {
+ color: #0ea5e9;
+ text-decoration: none;
+}
+
+footer a:hover {
+ text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+ .hero {
+   padding: 3rem 1.5rem;
+ }
+
+ .hero-buttons {
+   flex-direction: column;
+   width: 100%;
+ }
+
+ .button {
+   width: 100%;
+   max-width: 300px;
+ }
+
+ section {
+   padding: 0 1rem;
+ }
 }

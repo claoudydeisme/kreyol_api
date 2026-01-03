@@ -19,8 +19,8 @@ def enforce_creole_rules(text: str) -> list[str]:
     return warnings
 
 
-def simplify_if_low_confidence(text: str) -> str:
-    return "Fraz la pa klè. Mwen bay yon vèsyon ki pi dirèk."
+#def simplify_if_low_confidence(text: str) -> str:
+    #return "Fraz la pa klè. Mwen bay yon vèsyon ki pi dirèk."
 
 
 def enforce_creole_grammar(text: str) -> list[str]:
@@ -69,13 +69,15 @@ def enforce_creole_grammar(text: str) -> list[str]:
 
 def should_simplify(issues: List[Dict]) -> bool:
     """
+
+    
     Determines if output must be simplified.
     """
     return any(i["severity"] == Severity.CRITICAL for i in issues)
 
 
-def simplify_creole(text: str) -> str:
-    return (
-        "Fraz la pa klè. "
-        "Mwen bay yon tradiksyon ki pi dirèk ak pi senp."
-    )
+#def simplify_creole(text: str) -> str:
+    #return (
+        #"Fraz la pa klè. "
+        #"Mwen bay yon tradiksyon ki pi dirèk ak pi senp."
+    #)

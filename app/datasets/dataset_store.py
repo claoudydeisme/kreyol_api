@@ -1,15 +1,12 @@
-from app.datasets.parallel_dataset import ParallelDataset
-import logging
+"""from fastapi import FastAPI
+from app.datasets.registry_data import load_dataset
 
+app = FastAPI()
 
-
-
-
-logger = logging.getLogger("dataset")
-
-parallel_dataset = ParallelDataset("datasets/healthcare_base.csv")
-parallel_dataset.load()
-
-logger.warning(
-    f"DATASET LOADED: {len(parallel_dataset.pairs)} pairs"
-)
+@app.on_event("startup")
+def load_all_datasets():
+    load_dataset("government", "datasets/test_data.csv")
+    load_dataset("healthcare", "datasets/healthcare_base.csv")
+    load_dataset("education", "datasets/education_base.csv")
+    load_dataset("general", "datasets/general_base.csv")
+"""

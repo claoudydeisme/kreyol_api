@@ -1,3 +1,1002 @@
 id,source_language,target_language,source,target,domain
-1,en,ht,How are you feeling today,kijan ou santi w ye jodi a,healthcare
-2,en,ht,How are you feeling today,banm tn ti lajan,healthcare
+1,en,ht,Do you need medical help?,Èske ou bezwen èd medikal?,healthcare
+2,en,ht,What brings you here today?,Kisa ki mennen ou isit la jodia?,healthcare
+3,en,ht,How are you feeling?,Kijan ou santi ou?,healthcare
+4,en,ht,Are you in pain?,Èske ou gen doulè?,healthcare
+5,en,ht,Where does it hurt?,Ki kote ou gen doulè?,healthcare
+6,en,ht,How long have you had this pain?,Depi konbyen tan ou gen doulè sa a?,healthcare
+7,en,ht,On a scale of one to ten, how bad is the pain?,Sou yon echèl de youn a dis, konbyen doulè a ye?,healthcare
+8,en,ht,Do you have a fever?,Èske ou gen lafyèv?,healthcare
+9,en,ht,Have you been coughing?,Èske ou tap touse?,healthcare
+10,en,ht,Are you having trouble breathing?,Èske ou gen pwoblèm pou respire?,healthcare
+11,en,ht,Do you feel dizzy?,Èske ou santi tèt ou vire?,healthcare
+12,en,ht,Have you fainted?,Èske ou janm pèdi konesans?,healthcare
+13,en,ht,Do you have nausea?,Èske ou gen kè plen?,healthcare
+14,en,ht,Have you been vomiting?,Èske ou tap vomi?,healthcare
+15,en,ht,Do you have diarrhea?,Èske ou gen dyare?,healthcare
+16,en,ht,Are you constipated?,Èske ou gen konstipasyon?,healthcare
+17,en,ht,Do you have a headache?,Èske ou gen tèt fè mal?,healthcare
+18,en,ht,Do you have chest pain?,Èske ou gen doulè nan pwatrin?,healthcare
+19,en,ht,Do you have stomach pain?,Èske ou gen doulè nan vant?,healthcare
+20,en,ht,Are you pregnant?,Èske ou ansent?,healthcare
+21,en,ht,When was your last menstrual period?,Kilè dènye règ ou te vini?,healthcare
+22,en,ht,Do you have any allergies?,Èske ou gen alèji?,healthcare
+23,en,ht,What are you allergic to?,A kisa ou fè alèji?,healthcare
+24,en,ht,Are you taking any medications?,Èske ou pran nenpòt medikaman?,healthcare
+25,en,ht,What medications are you taking?,Ki medikaman ou ap pran?,healthcare
+26,en,ht,Do you take medication every day?,Èske ou pran medikaman chak jou?,healthcare
+27,en,ht,Did you take your medication today?,Èske ou pran medikaman ou jodi a?,healthcare
+28,en,ht,Do you have a chronic condition?,Èske ou gen yon maladi kwonik?,healthcare
+29,en,ht,Have you had surgery before?,Èske ou janm fè operasyon?,healthcare
+30,en,ht,When was your last surgery?,Kilè dènye operasyon ou te fè?,healthcare
+31,en,ht,Do you have diabetes?,Èske ou fè sik?,healthcare
+32,en,ht,Do you have high blood pressure?,Èske ou gen tansyon wo?,healthcare
+33,en,ht,Do you have asthma?,Èske ou gen opresyon?,healthcare
+34,en,ht,Do you have heart disease?,Èske ou gen maladi kè?,healthcare
+35,en,ht,Do you smoke?,Èske ou fimen?,healthcare
+36,en,ht,Do you drink alcohol?,Èske ou bwè alkòl?,healthcare
+37,en,ht,Do you use drugs?,Èske ou itilize dwòg?,healthcare
+38,en,ht,Are you feeling anxious?,Èske ou santi w enkyè?,healthcare
+39,en,ht,Are you feeling depressed?,Èske ou santi w depresif?,healthcare
+40,en,ht,Have you had trouble sleeping?,Èske ou gen pwoblèm dòmi?,healthcare
+41,en,ht,Do you feel weak?,Èske ou santi w fèb?,healthcare
+42,en,ht,Have you lost weight recently?,Èske ou pèdi pwa dènyèman?,healthcare
+43,en,ht,Have you gained weight recently?,Èske ou pran pwa dènyèman?,healthcare
+44,en,ht,Do you have swelling?,Èske ou gen enflamasyon?,healthcare
+45,en,ht,Where is the swelling?,Ki kote enflamasyon an ye?,healthcare
+46,en,ht,Do you have a rash?,Èske ou gen gratèl?,healthcare
+47,en,ht,Is the rash itchy?,Èske gratèl la ap grate?,healthcare
+48,en,ht,Do you have a wound?,Èske ou gen yon blesi?,healthcare
+49,en,ht,Is the wound bleeding?,Èske blesi a ap senyen?,healthcare
+50,en,ht,Do you need stitches?,Èske ou bezwen koud?,healthcare
+51,en,ht,Do you have a history of heart problems?,Èske ou gen istwa pwoblèm kè?,healthcare
+52,en,ht,Do you have a history of stroke?,Èske ou gen istwa konjesyon serebral?,healthcare
+53,en,ht,Do you have any family medical history?,Èske ou gen nenpòt istwa medikal fanmi?,healthcare
+54,en,ht,Are you up to date on vaccinations?,Èske ou ajou ak vaksen yo?,healthcare
+55,en,ht,Do you take vitamins or supplements?,Èske ou pran vitamin oswa sipleman?,healthcare
+56,en,ht,Do you exercise regularly?,Èske ou fè egzèsis regilyèman?,healthcare
+57,en,ht,Do you follow a special diet?,Èske ou swiv yon rejim alimantè espesyal?,healthcare
+58,en,ht,Do you have any food allergies?,Èske ou gen alèji manje?,healthcare
+59,en,ht,Have you traveled recently?,Èske ou te vwayaje dènyèman?,healthcare
+60,en,ht,Have you been in contact with sick people?,Èske ou te an kontak ak moun malad?,healthcare
+61,en,ht,Do you have any chronic pain?,Èske ou gen doulè kwonik?,healthcare
+62,en,ht,Do you have joint pain?,Èske ou gen doulè nan jwenti?,healthcare
+63,en,ht,Do you have muscle pain?,Èske ou gen doulè nan misk?,healthcare
+64,en,ht,Do you have back pain?,Èske ou gen doulè nan do?,healthcare
+65,en,ht,Do you have neck pain?,Èske ou gen doulè nan kou?,healthcare
+66,en,ht,Do you have leg pain?,Èske ou gen doulè nan janm?,healthcare
+67,en,ht,Do you have arm pain?,Èske ou gen doulè nan bra?,healthcare
+68,en,ht,Do you have numbness or tingling?,Èske ou gen sansasyon pike oswa pipi?,healthcare
+69,en,ht,Do you have seizures?,Èske ou gen kriz konvulsif?,healthcare
+70,en,ht,Do you have dizziness or fainting?,Èske ou gen tèt vire oswa pèdi konesans?,healthcare
+71,en,ht,Do you have trouble walking?,Èske ou gen pwoblèm pou mache?,healthcare
+72,en,ht,Do you have trouble speaking?,Èske ou gen pwoblèm pou pale?,healthcare
+73,en,ht,Do you have trouble swallowing?,Èske ou gen pwoblèm pou vale manje?,healthcare
+74,en,ht,Do you have vision problems?,Èske ou gen pwoblèm vizyon?,healthcare
+75,en,ht,Do you have hearing problems?,Èske ou gen pwoblèm pou tande?,healthcare
+76,en,ht,Do you wear glasses or contact lenses?,Èske ou mete linèt oswa lantiy kontak?,healthcare
+77,en,ht,Do you have a history of infections?,Èske ou gen istwa enfeksyon?,healthcare
+78,en,ht,Have you had recent lab tests?,Èske ou te fè tès laboratwa dènyèman?,healthcare
+79,en,ht,Have you had recent imaging studies?,Èske ou te fè tès imaj dènyèman?,healthcare
+80,en,ht,Do you take blood thinners?,Èske ou pran medikaman ki mensan san?,healthcare
+81,en,ht,Do you take insulin?,Èske ou pran ensilin?,healthcare
+82,en,ht,Do you have any skin problems?,Èske ou gen pwoblèm po?,healthcare
+83,en,ht,Do you have scars?,Èske ou gen mak sou po?,healthcare
+84,en,ht,Do you bruise easily?,Èske ou fasil gen siy senyen?,healthcare
+85,en,ht,Do you feel fatigued?,Èske ou santi w fatige?,healthcare
+86,en,ht,Do you have sleep apnea?,Èske ou gen apne dòmi?,healthcare
+87,en,ht,Do you have snoring issues?,Èske ou gen pwoblèm ronfle?,healthcare
+88,en,ht,Do you have a cough with phlegm?,Èske ou gen tous ak krèm?,healthcare
+89,en,ht,Do you have a dry cough?,Èske ou gen tous sèk?,healthcare
+90,en,ht,Do you have a sore throat?,Èske ou gen gòj fè mal?,healthcare
+91,en,ht,Do you have difficulty breathing at night?,Èske ou gen difikilte pou respire nan mitan lannwit?,healthcare
+92,en,ht,Do you wake up gasping for air?,Èske ou leve nan dòmi pou souf?,healthcare
+93,en,ht,Do you have wheezing?,Èske ou gen sifle lè nan lestomak?,healthcare
+94,en,ht,Do you have allergies to animals?,Èske ou gen alèji ak bèt?,healthcare
+95,en,ht,Do you have allergies to pollen?,Èske ou gen alèji ak polèn?,healthcare
+96,en,ht,Do you have allergies to dust?,Èske ou gen alèji ak pousyè?,healthcare
+97,en,ht,Do you have allergies to medications?,Èske ou gen alèji ak medikaman?,healthcare
+98,en,ht,Do you have seasonal allergies?,Èske ou gen alèji sezonye?,healthcare
+99,en,ht,Do you have hives?,Èske ou gen gratèl sou po?,healthcare
+100,en,ht,Have you had recent weight changes?,Èske ou fè chanjman nan pwa dènyèman?,healthcare
+101,en,ht,Do you have recent fever?,Èske ou gen lafyèv dènyèman?,healthcare
+102,en,ht,Do you have chills?,Èske ou gen frison?,healthcare
+103,en,ht,Do you have night sweats?,Èske ou swe nan mitan lannwit?,healthcare
+104,en,ht,Do you have unexplained bruising?,Èske ou gen siy senyen san rezon?,healthcare
+105,en,ht,Do you have unusual bleeding?,Èske ou gen senyen etranj?,healthcare
+106,en,ht,Do you have a lump or swelling?,Èske ou gen yon boul oswa anflamasyon?,healthcare
+107,en,ht,Do you have any eye pain?,Èske ou gen doulè nan je?,healthcare
+108,en,ht,Do you have blurry vision?,Èske ou wè flou?,healthcare
+109,en,ht,Do you have double vision?,Èske ou wè doub?,healthcare
+110,en,ht,Do you have eye discharge?,Èske ou gen likid nan je?,healthcare
+111,en,ht,Do you have ear pain?,Èske ou gen doulè nan zòrèy?,healthcare
+112,en,ht,Do you have ear discharge?,Èske ou gen likid nan zòrèy?,healthcare
+113,en,ht,Do you have ringing in your ears?,Èske ou tande son nan zòrèy ou?,healthcare
+114,en,ht,Do you have hearing loss?,Èske ou pèdi kapasite tande?,healthcare
+115,en,ht,Do you have sinus pain?,Èske ou gen doulè nan senis?,healthcare
+116,en,ht,Do you have nasal congestion?,Èske ou gen nen bouche?,healthcare
+117,en,ht,Do you have nosebleeds?,Èske ou gen nen senyen?,healthcare
+118,en,ht,Do you have a sore mouth?,Èske ou gen bouch fè mal?,healthcare
+119,en,ht,Do you have gum problems?,Èske ou gen pwoblèm nan jansiv?,healthcare
+120,en,ht,Do you have dental pain?,Èske ou gen doulè nan dan?,healthcare
+121,en,ht,Do you have difficulty swallowing food?,Èske ou gen difikilte pou vale manje?,healthcare
+122,en,ht,Do you have acid reflux?,Èske ou gen reflèks asid?,healthcare
+123,en,ht,Do you have heartburn?,Èske ou gen doulè nan lestomak ak pwatrin?,healthcare
+124,en,ht,Do you have abdominal bloating?,Èske vant ou gonfle?,healthcare
+125,en,ht,Do you have nausea after eating?,Èske ou gen kè plen apre manje?,healthcare
+126,en,ht,Do you vomit after eating?,Èske ou vomi apre manje?,healthcare
+127,en,ht,Do you have diarrhea after meals?,Èske ou gen dyare apre manje?,healthcare
+128,en,ht,Do you have constipation?,Èske ou gen konstipasyon?,healthcare
+129,en,ht,Do you have blood in stool?,Èske ou gen san nan poupou?,healthcare
+130,en,ht,Do you have black stools?,Èske ou gen poupou nwa?,healthcare
+131,en,ht,Do you have urinary problems?,Èske ou gen pwoblèm pipi?,healthcare
+132,en,ht,Do you have pain during urination?,Èske ou gen doulè lè w ap pipi?,healthcare
+133,en,ht,Do you urinate frequently?,Èske ou pipi souvan?,healthcare
+134,en,ht,Do you have blood in urine?,Èske ou gen san nan pipi?,healthcare
+135,en,ht,Do you have difficulty controlling urine?,Èske ou gen pwoblèm pou kontwole pipi?,healthcare
+136,en,ht,Do you have sexual health concerns?,Èske ou gen pwoblèm sante seksyèl?,healthcare
+137,en,ht,Do you have menstrual problems?,Èske ou gen pwoblèm règ?,healthcare
+138,en,ht,Do you have vaginal discharge?,Èske ou gen likid nan vajen?,healthcare
+139,en,ht,Do you have vaginal itching?,Èske ou gen gratèl nan vajen?,healthcare
+140,en,ht,Do you have vaginal pain?,Èske ou gen doulè nan vajen?,healthcare
+141,en,ht,Do you have breast pain?,Èske ou gen doulè nan tete?,healthcare
+142,en,ht,Do you have lumps in your breasts?,Èske ou gen boul nan tete?,healthcare
+143,en,ht,Do you have nipple discharge?,Èske ou gen likid soti nan tete?,healthcare
+144,en,ht,Do you have hot flashes?,Èske ou gen chalè souvan?,healthcare
+145,en,ht,Do you have mood swings?,Èske ou gen chanjman nan dispozisyon?,healthcare
+146,en,ht,Do you have anxiety attacks?,Èske ou gen kriz enkyetid?,healthcare
+147,en,ht,Do you have depression symptoms?,Èske ou gen sentòm depresyon?,healthcare
+148,en,ht,Do you have memory problems?,Èske ou gen pwoblèm memwa?,healthcare
+149,en,ht,Do you have difficulty concentrating?,Èske ou gen difikilte pou konsantre?,healthcare
+150,en,ht,Do you have headaches frequently?,Èske ou gen maltèt souvan?,healthcare
+151,en,ht,Do you have migraines?,Èske ou gen migrèn?,healthcare
+152,en,ht,Do you have seizures?,Èske ou gen kriz konvulsif?,healthcare
+153,en,ht,Do you have tremors?,Èske ou gen tranbleman?,healthcare
+154,en,ht,Do you have numbness in your hands or feet?,Èske ou gen sansasyon pike nan men oswa pye?,healthcare
+155,en,ht,Do you have muscle weakness?,Èske ou gen feblès nan misk?,healthcare
+156,en,ht,Do you have joint stiffness?,Èske ou gen raide nan jwenti?,healthcare
+157,en,ht,Do you have swelling in your joints?,Èske ou gen anflamasyon nan jwenti?,healthcare
+158,en,ht,Do you have skin rashes?,Èske ou gen gratèl sou po?,healthcare
+159,en,ht,Do you have itching?,Èske ou gen gratèl?,healthcare
+160,en,ht,Do you have bruises?,Èske ou gen siy senyen?,healthcare
+161,en,ht,Do you have recent infections?,Èske ou te gen enfeksyon dènyèman?,healthcare
+162,en,ht,Do you have tuberculosis symptoms?,Èske ou gen sentòm tibèkiloz?,healthcare
+163,en,ht,Do you have HIV/AIDS concerns?,Èske ou gen enkyetid sou VIH/SIDA?,healthcare
+164,en,ht,Do you have hepatitis symptoms?,Èske ou gen sentòm epatit?,healthcare
+165,en,ht,Do you have chest tightness?,Èske ou gen tansyon nan pwatrin?,healthcare
+166,en,ht,Do you have palpitations?,Èske ou gen batman kè rapid?,healthcare
+167,en,ht,Do you have swelling in your legs?,Èske ou gen anflamasyon nan janm?,healthcare
+168,en,ht,Do you have varicose veins?,Èske ou gen venn varis?,healthcare
+169,en,ht,Do you have dizziness when standing up?,Èske ou santi tèt ou vire lè w leve?,healthcare
+170,en,ht,Do you have fainting episodes?,Èske ou gen epizòd kote ou pèdi konesans?,healthcare
+171,en,ht,Do you have numbness or tingling?,Èske ou gen pike oswa pipi?,healthcare
+172,en,ht,Do you have difficulty walking?,Èske ou gen difikilte pou mache?,healthcare
+173,en,ht,Do you have tremors?,Èske ou gen tranbleman?,healthcare
+174,en,ht,Do you have weakness in your arms or legs?,Èske ou gen feblès nan bra oswa janm?,healthcare
+175,en,ht,Do you have memory loss?,Èske ou gen pèt memwa?,healthcare
+176,en,ht,Do you have confusion?,Èske ou konfonn?,healthcare
+177,en,ht,Do you have difficulty speaking?,Èske ou gen difikilte pou pale?,healthcare
+178,en,ht,Do you have trouble understanding speech?,Èske ou gen difikilte pou konprann pale?,healthcare
+179,en,ht,Do you have balance problems?,Èske ou gen pwoblèm balans?,healthcare
+180,en,ht,Do you have coordination problems?,Èske ou gen pwoblèm kowòdinasyon?,healthcare
+181,en,ht,Do you have numbness in your face?,Èske ou gen sansasyon pike nan figi?,healthcare
+182,en,ht,Do you have eye pain?,Èske ou gen doulè nan je?,healthcare
+183,en,ht,Do you have vision changes?,Èske ou gen chanjman vizyon?,healthcare
+184,en,ht,Do you have floaters in your eyes?,Èske ou wè tach nan je?,healthcare
+185,en,ht,Do you have hearing loss?,Èske ou gen pèdi tande?,healthcare
+186,en,ht,Do you have ringing in ears?,Èske ou tande sifle nan zòrèy?,healthcare
+187,en,ht,Do you have ear pain?,Èske ou gen doulè nan zòrèy?,healthcare
+188,en,ht,Do you have sinus pressure?,Èske ou gen presyon nan nen?,healthcare
+189,en,ht,Do you have nasal congestion?,Èske ou gen nen bouche?,healthcare
+190,en,ht,Do you have nosebleeds?,Èske ou gen nen senyen?,healthcare
+191,en,ht,Do you have sore throat?,Èske ou gen gòj fè mal?,healthcare
+192,en,ht,Do you have difficulty swallowing?,Èske ou gen difikilte pou vale?,healthcare
+193,en,ht,Do you have acid reflux?,Èske ou gen reflèks asid?,healthcare
+194,en,ht,Do you have heartburn?,Èske ou gen doulè nan lestomak ak pwatrin?,healthcare
+195,en,ht,Do you have abdominal pain?,Èske ou gen doulè nan vant?,healthcare
+196,en,ht,Do you have bloating?,Èske ou gonfle?,healthcare
+197,en,ht,Do you have nausea?,Èske ou gen kè plen?,healthcare
+198,en,ht,Do you have vomiting?,Èske ou vomi?,healthcare
+199,en,ht,Do you have diarrhea?,Èske ou gen dyare?,healthcare
+200,en,ht,Do you understand the treatment plan?,Èske ou konprann plan tretman an?,healthcare
+201,en,ht,Do you have difficulty breathing when lying down?,Èske ou gen difikilte pou respire lè w kouche?,healthcare
+202,en,ht,Do you experience wheezing at night?,Èske ou gen sifle nan lestomak nan mitan lannwit?,healthcare
+203,en,ht,Do you experience chest tightness during exercise?,Èske ou santi tansyon nan pwatrin pandan w ap fè egzèsis?,healthcare
+204,en,ht,Do you have frequent headaches?,Èske ou gen maltèt souvan?,healthcare
+205,en,ht,Do you experience dizziness with movement?,Èske ou santi tèt vire lè w ap deplase?,healthcare
+206,en,ht,Do you experience shortness of breath when walking?,Èske ou gen kout souf lè w ap mache?,healthcare
+207,en,ht,Do you experience rapid heartbeat?,Èske ou gen batman kè rapid?,healthcare
+208,en,ht,Do you have swelling in your ankles?,Èske ou gen anflamasyon nan cheviy?,healthcare
+209,en,ht,Do you have leg cramps?,Èske ou gen kranp nan janm?,healthcare
+210,en,ht,Do you experience night-time urination?,Èske ou pipi nan mitan lannwit?,healthcare
+211,en,ht,Do you have blood clots?,Èske ou gen tòk nan san?,healthcare
+212,en,ht,Do you have frequent infections?,Èske ou gen enfeksyon souvan?,healthcare
+213,en,ht,Do you experience fatigue during the day?,Èske ou santi w fatige pandan jounen an?,healthcare
+214,en,ht,Do you have difficulty sleeping at night?,Èske ou gen pwoblèm dòmi nan mitan lannwit?,healthcare
+215,en,ht,Do you snore while sleeping?,Èske ou ronfle pandan w ap dòmi?,healthcare
+216,en,ht,Do you have a history of strokes?,Èske ou gen istwa konjesyon serebral?,healthcare
+217,en,ht,Do you have seizures or convulsions?,Èske ou gen kriz oswa konvulsif?,healthcare
+218,en,ht,Do you experience memory loss?,Èske ou gen pèt memwa?,healthcare
+219,en,ht,Do you have confusion or disorientation?,Èske ou konfonn oswa dezoryante?,healthcare
+220,en,ht,Do you have difficulty speaking clearly?,Èske ou gen difikilte pou pale klè?,healthcare
+221,en,ht,Do you have numbness in your arms or legs?,Èske ou gen pèt sansasyon nan bra oswa janm?,healthcare
+222,en,ht,Do you experience tingling sensations?,Èske ou santi pike oswa fourmilman?,healthcare
+223,en,ht,Do you have tremors in hands?,Èske ou gen tranbleman nan men?,healthcare
+224,en,ht,Do you have muscle weakness?,Èske ou gen feblès nan misk?,healthcare
+225,en,ht,Do you experience muscle pain or cramps?,Èske ou gen doulè oswa kranp nan misk?,healthcare
+226,en,ht,Do you have joint pain or stiffness?,Èske ou gen doulè oswa raide nan jwenti?,healthcare
+227,en,ht,Do you have swelling in your joints?,Èske ou gen anflamasyon nan jwenti?,healthcare
+228,en,ht,Do you experience redness or warmth in joints?,Èske ou wè woujè oswa chalè nan jwenti?,healthcare
+229,en,ht,Do you have back pain that worsens with activity?,Èske ou gen doulè nan do ki vin pi mal ak aktivite?,healthcare
+230,en,ht,Do you experience limited range of motion?,Èske ou gen limit nan mouvman?,healthcare
+231,en,ht,Do you have osteoporosis?,Èske ou gen osteyopowoz?,healthcare
+232,en,ht,Do you have a history of fractures?,Èske ou gen istwa kase zo?,healthcare
+233,en,ht,Do you have diabetes-related complications?,Èske ou gen konplikasyon ki gen rapò ak dyabèt?,healthcare
+234,en,ht,Do you have frequent urination due to diabetes?,Èske ou pipi souvan akòz dyabèt?,healthcare
+235,en,ht,Do you have uncontrolled blood sugar levels?,Èske ou gen nivo sik nan san ki pa kontwole?,healthcare
+236,en,ht,Do you check your blood sugar regularly?,Èske ou mezire sik nan san ou regilyèman?,healthcare
+237,en,ht,Do you experience blurred vision due to diabetes?,Èske ou wè flou akòz dyabèt?,healthcare
+238,en,ht,Do you have neuropathy symptoms?,Èske ou gen sentòm nevròpati?,healthcare
+239,en,ht,Do you have foot ulcers?,Èske ou gen blesi nan pye?,healthcare
+240,en,ht,Do you inspect your feet daily?,Èske ou tcheke pye ou chak jou?,healthcare
+241,en,ht,Do you have high cholesterol?,Èske ou gen kolestewòl wo?,healthcare
+242,en,ht,Do you take medication for cholesterol?,Èske ou pran medikaman pou kolestewòl?,healthcare
+243,en,ht,Do you follow a low-fat diet?,Èske ou swiv yon rejim alimantè ki ba nan grès?,healthcare
+244,en,ht,Do you exercise to control cholesterol?,Èske ou fè egzèsis pou kontwole kolestewòl?,healthcare
+245,en,ht,Do you experience chest pain with exertion?,Èske ou gen doulè nan pwatrin pandan egzèsis?,healthcare
+246,en,ht,Do you have a history of heart attacks?,Èske ou gen istwa kriz kadyak?,healthcare
+247,en,ht,Do you experience palpitations or irregular heartbeat?,Èske ou gen batman kè rapid oswa iregilye?,healthcare
+248,en,ht,Do you take blood pressure medication?,Èske ou pran medikaman pou tansyon?,healthcare
+249,en,ht,Do you monitor your blood pressure at home?,Èske ou kontwole tansyon lakay?,healthcare
+250,en,ht,Do you experience headaches due to high blood pressure?,Èske ou gen maltèt akòz tansyon wo?,healthcare
+251,en,ht,Do you have swelling in your legs due to heart problems?,Èske ou gen anflamasyon nan janm akòz pwoblèm kè?,healthcare
+252,en,ht,Do you have shortness of breath during activity?,Èske ou gen kout souf pandan aktivite?,healthcare
+253,en,ht,Do you experience fainting spells?,Èske ou gen epizòd kote ou pèdi konesans?,healthcare
+254,en,ht,Do you have sleep apnea symptoms?,Èske ou gen sentòm apne dòmi?,healthcare
+255,en,ht,Do you snore loudly at night?,Èske ou ronfle fò nan mitan lannwit?,healthcare
+256,en,ht,Do you experience restless legs at night?,Èske ou gen janm ki pa kalme nan mitan lannwit?,healthcare
+257,en,ht,Do you have anemia?,Èske ou gen anemi?,healthcare
+258,en,ht,Do you feel fatigued due to low blood count?,Èske ou santi w fatige akòz kantite san ki ba?,healthcare
+259,en,ht,Do you bruise easily?,Èske ou fasil fè siy senyen?,healthcare
+260,en,ht,Do you have nosebleeds?,Èske ou gen nen senyen?,healthcare
+261,en,ht,Do you have bleeding gums?,Èske ou gen jansiv ki senyen?,healthcare
+262,en,ht,Do you have infections more often?,Èske ou gen enfeksyon plis souvan?,healthcare
+263,en,ht,Do you take iron supplements?,Èske ou pran sipleman fè?,healthcare
+264,en,ht,Do you have vitamin deficiencies?,Èske ou gen defisyans vitamin?,healthcare
+265,en,ht,Do you take vitamin supplements?,Èske ou pran sipleman vitamin?,healthcare
+266,en,ht,Do you have digestive issues?,Èske ou gen pwoblèm dijestif?,healthcare
+267,en,ht,Do you experience bloating?,Èske ou gonfle?,healthcare
+268,en,ht,Do you experience gas frequently?,Èske ou gen gaz souvan?,healthcare
+269,en,ht,Do you have heartburn?,Èske ou gen doulè nan lestomak ak pwatrin?,healthcare
+270,en,ht,Do you have nausea?,Èske ou gen kè plen?,healthcare
+271,en,ht,Do you have vomiting?,Èske ou vomi?,healthcare
+272,en,ht,Do you have diarrhea?,Èske ou gen dyare?,healthcare
+273,en,ht,Do you have constipation?,Èske ou gen konstipasyon?,healthcare
+274,en,ht,Do you take medication for digestive problems?,Èske ou pran medikaman pou pwoblèm dijestif?,healthcare
+275,en,ht,Do you have acid reflux?,Èske ou gen reflèks asid?,healthcare
+276,en,ht,Do you have food intolerances?,Èske ou gen entolerans manje?,healthcare
+277,en,ht,Do you experience bloating after meals?,Èske ou gonfle apre manje?,healthcare
+278,en,ht,Do you experience abdominal cramps?,Èske ou gen kranp nan vant?,healthcare
+279,en,ht,Do you have blood in your stool?,Èske ou gen san nan poupou?,healthcare
+280,en,ht,Do you have hemorrhoids?,Èske ou gen emoroid?,healthcare
+281,en,ht,Do you have urinary tract infections?,Èske ou gen enfeksyon nan urin?,healthcare
+282,en,ht,Do you have pain when urinating?,Èske ou gen doulè lè w ap pipi?,healthcare
+283,en,ht,Do you experience frequent urination?,Èske ou pipi souvan?,healthcare
+284,en,ht,Do you wake at night to urinate?,Èske ou leve nan mitan lannwit pou pipi?,healthcare
+285,en,ht,Do you experience incontinence?,Èske ou gen pwoblèm kontwòl pipi?,healthcare
+286,en,ht,Do you have kidney problems?,Èske ou gen pwoblèm ren?,healthcare
+287,en,ht,Do you experience back pain from kidney issues?,Èske ou gen doulè nan do akòz ren?,healthcare
+288,en,ht,Do you have blood in urine?,Èske ou gen san nan pipi?,healthcare
+289,en,ht,Do you have swelling in your hands or feet?,Èske ou gen anflamasyon nan men oswa pye?,healthcare
+290,en,ht,Do you experience pain during sexual intercourse?,Èske ou gen doulè pandan relasyon seksyèl?,healthcare
+291,en,ht,Do you have vaginal bleeding?,Èske ou gen senyen nan vajen?,healthcare
+292,en,ht,Do you experience abnormal discharge?,Èske ou gen likid etranj?,healthcare
+293,en,ht,Do you have itching in genital areas?,Èske ou gen gratèl nan zòn jenital?,healthcare
+294,en,ht,Do you have genital sores?,Èske ou gen blesi nan zòn jenital?,healthcare
+295,en,ht,Do you have breast lumps?,Èske ou gen boul nan tete?,healthcare
+296,en,ht,Do you have nipple pain?,Èske ou gen doulè nan tete?,healthcare
+297,en,ht,Do you have hot flashes or night sweats?,Èske ou gen chalè oswa swe nan mitan lannwit?,healthcare
+298,en,ht,Do you have mood swings?,Èske ou gen chanjman nan dispoziyon?,healthcare
+299,en,ht,Do you have anxiety or panic attacks?,Èske ou gen kriz enkyetid oswa panik?,healthcare
+300,en,ht,Do you have depression symptoms?,Èske ou gen sentòm depresyon?,healthcare
+301,en,ht,Do you have trouble sleeping?,Èske ou gen pwoblèm dòmi?,healthcare
+302,en,ht,Do you wake up feeling tired?,Èske ou leve santi ou fatige?,healthcare
+303,en,ht,Do you snore loudly?,Èske ou ronfle fò?,healthcare
+304,en,ht,Do you experience night sweats?,Èske ou swe nan mitan lannwit?,healthcare
+305,en,ht,Do you have restless legs?,Èske ou gen janm ki pa kalme?,healthcare
+306,en,ht,Do you feel anxious frequently?,Èske ou souvan santi ou enkyè?,healthcare
+307,en,ht,Do you feel depressed frequently?,Èske ou souvan santi ou tris?,healthcare
+308,en,ht,Do you have panic attacks?,Èske ou gen kriz panik?,healthcare
+309,en,ht,Do you experience mood swings?,Èske ou gen chanjman nan dispoziyon?,healthcare
+310,en,ht,Do you have trouble concentrating?,Èske ou gen difikilte pou konsantre?,healthcare
+311,en,ht,Do you experience memory loss?,Èske ou gen pèt memwa?,healthcare
+312,en,ht,Do you feel confused sometimes?,Èske ou santi ou konfonn pafwa?,healthcare
+313,en,ht,Do you have headaches frequently?,Èske ou gen maltèt souvan?,healthcare
+314,en,ht,Do you have migraines?,Èske ou gen migrèn?,healthcare
+315,en,ht,Do you experience dizziness?,Èske ou santi tèt ou vire?,healthcare
+316,en,ht,Do you faint occasionally?,Èske ou pèdi konesans pafwa?,healthcare
+317,en,ht,Do you have seizures?,Èske ou gen kriz konvulsif?,healthcare
+318,en,ht,Do you have numbness or tingling?,Èske ou gen pike oswa pipi?,healthcare
+319,en,ht,Do you have tremors?,Èske ou gen tranbleman?,healthcare
+320,en,ht,Do you have weakness in your limbs?,Èske ou gen feblès nan manm yo?,healthcare
+321,en,ht,Do you have coordination problems?,Èske ou gen pwoblèm kowòdinasyon?,healthcare
+322,en,ht,Do you have balance issues?,Èske ou gen pwoblèm balans?,healthcare
+323,en,ht,Do you have difficulty walking?,Èske ou gen difikilte pou mache?,healthcare
+324,en,ht,Do you have muscle pain?,Èske ou gen doulè nan misk?,healthcare
+325,en,ht,Do you have joint pain?,Èske ou gen doulè nan jwenti?,healthcare
+326,en,ht,Do you have swelling in joints?,Èske ou gen anflamasyon nan jwenti?,healthcare
+327,en,ht,Do you have stiffness in joints?,Èske ou gen raide nan jwenti?,healthcare
+328,en,ht,Do you have back pain?,Èske ou gen doulè nan do?,healthcare
+329,en,ht,Do you have neck pain?,Èske ou gen doulè nan kou?,healthcare
+330,en,ht,Do you have leg pain?,Èske ou gen doulè nan janm?,healthcare
+331,en,ht,Do you have arm pain?,Èske ou gen doulè nan bra?,healthcare
+332,en,ht,Do you experience swelling?,Èske ou gen anflamasyon?,healthcare
+333,en,ht,Do you experience redness?,Èske ou wè woujè?,healthcare
+334,en,ht,Do you have warmth in a joint?,Èske ou santi chalè nan yon jwenti?,healthcare
+335,en,ht,Do you have numbness in hands or feet?,Èske ou gen pèt sansasyon nan men oswa pye?,healthcare
+336,en,ht,Do you have neuropathy?,Èske ou gen nevròpati?,healthcare
+337,en,ht,Do you have tingling in your extremities?,Èske ou santi pike nan bra oswa janm?,healthcare
+338,en,ht,Do you have cramps in your legs?,Èske ou gen kranp nan janm?,healthcare
+339,en,ht,Do you have swelling in feet or ankles?,Èske ou gen anflamasyon nan pye oswa cheviy?,healthcare
+340,en,ht,Do you have varicose veins?,Èske ou gen venn varis?,healthcare
+341,en,ht,Do you have blood clots?,Èske ou gen tòk nan san?,healthcare
+342,en,ht,Do you have bruising easily?,Èske ou fasil fè siy senyen?,healthcare
+343,en,ht,Do you have nosebleeds?,Èske ou gen nen senyen?,healthcare
+344,en,ht,Do you have bleeding gums?,Èske ou gen jansiv ki senyen?,healthcare
+345,en,ht,Do you feel fatigued?,Èske ou santi ou fatige?,healthcare
+346,en,ht,Do you have pale skin?,Èske po ou pal?,healthcare
+347,en,ht,Do you feel short of breath?,Èske ou gen kout souf?,healthcare
+348,en,ht,Do you experience palpitations?,Èske ou gen batman kè rapid?,healthcare
+349,en,ht,Do you experience dizziness when standing?,Èske ou santi tèt ou vire lè w leve?,healthcare
+350,en,ht,Do you experience fainting spells?,Èske ou gen epizòd kote ou pèdi konesans?,healthcare
+351,en,ht,Do you have high blood pressure?,Èske ou gen tansyon wo?,healthcare
+352,en,ht,Do you have low blood pressure?,Èske ou gen tansyon ba?,healthcare
+353,en,ht,Do you have chest pain?,Èske ou gen doulè nan pwatrin?,healthcare
+354,en,ht,Do you feel tightness in your chest?,Èske ou santi tansyon nan pwatrin?,healthcare
+355,en,ht,Do you experience irregular heartbeat?,Èske ou gen batman kè iregilye?,healthcare
+356,en,ht,Do you have heartburn?,Èske ou gen doulè nan lestomak ak pwatrin?,healthcare
+357,en,ht,Do you have acid reflux?,Èske ou gen reflèks asid?,healthcare
+358,en,ht,Do you have nausea?,Èske ou gen kè plen?,healthcare
+359,en,ht,Do you have vomiting?,Èske ou vomi?,healthcare
+360,en,ht,Do you have diarrhea?,Èske ou gen dyare?,healthcare
+361,en,ht,Do you have constipation?,Èske ou gen konstipasyon?,healthcare
+362,en,ht,Do you have stomach cramps?,Èske ou gen kranp nan vant?,healthcare
+363,en,ht,Do you have bloating?,Èske ou gonfle?,healthcare
+364,en,ht,Do you have blood in stool?,Èske ou gen san nan poupou?,healthcare
+365,en,ht,Do you have urinary tract infections?,Èske ou gen enfeksyon nan urin?,healthcare
+366,en,ht,Do you experience pain while urinating?,Èske ou gen doulè lè w ap pipi?,healthcare
+367,en,ht,Do you have frequent urination?,Èske ou pipi souvan?,healthcare
+368,en,ht,Do you wake at night to urinate?,Èske ou leve nan mitan lannwit pou pipi?,healthcare
+369,en,ht,Do you have incontinence?,Èske ou gen pwoblèm kontwòl pipi?,healthcare
+370,en,ht,Do you have kidney problems?,Èske ou gen pwoblèm ren?,healthcare
+371,en,ht,Do you have back pain due to kidney issues?,Èske ou gen doulè nan do akòz ren?,healthcare
+372,en,ht,Do you have blood in urine?,Èske ou gen san nan pipi?,healthcare
+373,en,ht,Do you have swelling in hands or feet?,Èske ou gen anflamasyon nan men oswa pye?,healthcare
+374,en,ht,Do you experience sexual health problems?,Èske ou gen pwoblèm sante seksyèl?,healthcare
+375,en,ht,Do you experience pain during intercourse?,Èske ou gen doulè pandan relasyon seksyèl?,healthcare
+376,en,ht,Do you have vaginal bleeding?,Èske ou gen senyen nan vajen?,healthcare
+377,en,ht,Do you have abnormal discharge?,Èske ou gen likid etranj?,healthcare
+378,en,ht,Do you have itching in genital area?,Èske ou gen gratèl nan zòn jenital?,healthcare
+379,en,ht,Do you have genital sores?,Èske ou gen blesi nan zòn jenital?,healthcare
+380,en,ht,Do you have breast lumps?,Èske ou gen boul nan tete?,healthcare
+381,en,ht,Do you have nipple pain?,Èske ou gen doulè nan tete?,healthcare
+382,en,ht,Do you experience hot flashes?,Èske ou gen chalè?,healthcare
+383,en,ht,Do you have night sweats?,Èske ou swe nan mitan lannwit?,healthcare
+384,en,ht,Do you have mood swings?,Èske ou gen chanjman nan dispoziyon?,healthcare
+385,en,ht,Do you experience anxiety?,Èske ou santi w enkyè?,healthcare
+386,en,ht,Do you have depression?,Èske ou santi w tris?,healthcare
+387,en,ht,Do you have panic attacks?,Èske ou gen kriz panik?,healthcare
+388,en,ht,Do you have confusion?,Èske ou konfonn?,healthcare
+389,en,ht,Do you have memory problems?,Èske ou gen pwoblèm memwa?,healthcare
+390,en,ht,Do you have difficulty concentrating?,Èske ou gen difikilte pou konsantre?,healthcare
+391,en,ht,Do you have headaches?,Èske ou gen maltèt?,healthcare
+392,en,ht,Do you have migraines?,Èske ou gen migrèn?,healthcare
+393,en,ht,Do you experience dizziness?,Èske ou santi tèt ou vire?,healthcare
+394,en,ht,Do you faint sometimes?,Èske ou pèdi konesans pafwa?,healthcare
+395,en,ht,Do you have seizures?,Èske ou gen kriz konvulsif?,healthcare
+396,en,ht,Do you have numbness?,Èske ou gen pèt sansasyon?,healthcare
+397,en,ht,Do you have tingling sensations?,Èske ou santi pike oswa fourmilman?,healthcare
+398,en,ht,Do you have tremors?,Èske ou gen tranbleman?,healthcare
+399,en,ht,Do you have weakness in limbs?,Èske ou gen feblès nan manm yo?,healthcare
+400,en,ht,Do you have coordination problems?,Èske ou gen pwoblèm kowòdinasyon?,healthcare
+401,en,ht,Do you have trouble swallowing liquids?,Èske ou gen difikilte pou vale likid?,healthcare
+402,en,ht,Do you have difficulty chewing food?,Èske ou gen difikilte pou mòde manje?,healthcare
+403,en,ht,Do you have dental cavities?,Èske ou gen kavite nan dan?,healthcare
+404,en,ht,Do you have gum bleeding?,Èske jansiv ou senyen?,healthcare
+405,en,ht,Do you experience jaw pain?,Èske ou gen doulè nan machwè?,healthcare
+406,en,ht,Do you grind your teeth at night?,Èske ou grate dan ou nan mitan lannwit?,healthcare
+407,en,ht,Do you have a dry mouth?,Èske ou gen bouch sèk?,healthcare
+408,en,ht,Do you have bad breath?,Èske ou gen move souf?,healthcare
+409,en,ht,Do you have tongue pain or sores?,Èske ou gen doulè oswa blesi nan lang?,healthcare
+410,en,ht,Do you experience loss of taste?,Èske ou pèdi sans gou?,healthcare
+411,en,ht,Do you have nasal congestion?,Èske ou gen nen bouche?,healthcare
+412,en,ht,Do you have frequent sneezing?,Èske ou etènye souvan?,healthcare
+413,en,ht,Do you have sinus headaches?,Èske ou gen maltèt akòz senis?,healthcare
+414,en,ht,Do you have sinus infections?,Èske ou gen enfeksyon nan senis?,healthcare
+415,en,ht,Do you have a runny nose?,Èske nen ou kouri?,healthcare
+416,en,ht,Do you have nasal discharge?,Èske ou gen likid nan nen?,healthcare
+417,en,ht,Do you have a loss of smell?,Èske ou pèdi sans olfaktif?,healthcare
+418,en,ht,Do you have ear pain?,Èske ou gen doulè nan zòrèy?,healthcare
+419,en,ht,Do you have ear infections?,Èske ou gen enfeksyon nan zòrèy?,healthcare
+420,en,ht,Do you have tinnitus (ringing in ears)?,Èske ou tande sifle nan zòrèy?,healthcare
+421,en,ht,Do you experience hearing loss?,Èske ou pèdi kapasite tande?,healthcare
+422,en,ht,Do you experience vertigo?,Èske ou santi tèt vire?,healthcare
+423,en,ht,Do you have balance problems?,Èske ou gen pwoblèm balans?,healthcare
+424,en,ht,Do you have eye redness?,Èske je ou wouj?,healthcare
+425,en,ht,Do you have eye discharge?,Èske ou gen likid nan je?,healthcare
+426,en,ht,Do you experience blurry vision?,Èske ou wè flou?,healthcare
+427,en,ht,Do you have double vision?,Èske ou wè doub?,healthcare
+428,en,ht,Do you experience eye pain?,Èske ou gen doulè nan je?,healthcare
+429,en,ht,Do you have light sensitivity?,Èske ou sansib ak limyè?,healthcare
+430,en,ht,Do you have floaters in vision?,Èske ou wè tach nan je?,healthcare
+431,en,ht,Do you experience sudden vision loss?,Èske ou pèdi vizyon toudenkou?,healthcare
+432,en,ht,Do you have blurry or distorted vision?,Èske vizyon ou flou oswa deforme?,healthcare
+433,en,ht,Do you experience dry eyes?,Èske je ou sèk?,healthcare
+434,en,ht,Do you have watery eyes?,Èske je ou dlo?,healthcare
+435,en,ht,Do you have itchy eyes?,Èske je ou grate?,healthcare
+436,en,ht,Do you have swollen eyelids?,Èske je ou gonfle?,healthcare
+437,en,ht,Do you have conjunctivitis?,Èske ou gen je wouj enfekte?,healthcare
+438,en,ht,Do you have glaucoma?,Èske ou gen glokòm?,healthcare
+439,en,ht,Do you have cataracts?,Èske ou gen katarak?,healthcare
+440,en,ht,Do you have eye injuries?,Èske ou gen blesi nan je?,healthcare
+441,en,ht,Do you have skin rashes?,Èske ou gen gratèl sou po?,healthcare
+442,en,ht,Do you have dry skin?,Èske ou gen po sèk?,healthcare
+443,en,ht,Do you have oily skin?,Èske ou gen po lwil?,healthcare
+444,en,ht,Do you have acne?,Èske ou gen bouton?,healthcare
+445,en,ht,Do you have eczema?,Èske ou gen ekzema?,healthcare
+446,en,ht,Do you have psoriasis?,Èske ou gen psoryaz?,healthcare
+447,en,ht,Do you have hives?,Èske ou gen gratèl sou po?,healthcare
+448,en,ht,Do you experience skin itching?,Èske ou gen gratèl?,healthcare
+449,en,ht,Do you have skin infections?,Èske ou gen enfeksyon sou po?,healthcare
+450,en,ht,Do you have wounds that do not heal?,Èske ou gen blesi ki pa geri?,healthcare
+451,en,ht,Do you have bruising easily?,Èske ou fasil fè siy senyen?,healthcare
+452,en,ht,Do you have swelling or redness?,Èske ou gen anflamasyon oswa woujè?,healthcare
+453,en,ht,Do you have moles or skin growths?,Èske ou gen nevi oswa kwasans sou po?,healthcare
+454,en,ht,Do you have unusual bleeding?,Èske ou gen senyen etranj?,healthcare
+455,en,ht,Do you have joint swelling?,Èske ou gen anflamasyon nan jwenti?,healthcare
+456,en,ht,Do you have arthritis?,Èske ou gen atrit?,healthcare
+457,en,ht,Do you have gout?,Èske ou gen got?,healthcare
+458,en,ht,Do you have stiffness in morning?,Èske ou santi raide nan maten?,healthcare
+459,en,ht,Do you experience joint pain after activity?,Èske ou gen doulè nan jwenti apre aktivite?,healthcare
+460,en,ht,Do you have muscle pain?,Èske ou gen doulè nan misk?,healthcare
+461,en,ht,Do you experience cramps?,Èske ou gen kranp?,healthcare
+462,en,ht,Do you have weakness?,Èske ou gen feblès?,healthcare
+463,en,ht,Do you have swelling in extremities?,Èske ou gen anflamasyon nan bra oswa janm?,healthcare
+464,en,ht,Do you have numbness?,Èske ou gen pèt sansasyon?,healthcare
+465,en,ht,Do you have tingling sensations?,Èske ou santi pike oswa fourmilman?,healthcare
+466,en,ht,Do you have tremors?,Èske ou gen tranbleman?,healthcare
+467,en,ht,Do you have difficulty walking?,Èske ou gen difikilte pou mache?,healthcare
+468,en,ht,Do you have balance problems?,Èske ou gen pwoblèm balans?,healthcare
+469,en,ht,Do you experience dizziness?,Èske ou santi tèt ou vire?,healthcare
+470,en,ht,Do you have fainting spells?,Èske ou gen epizòd kote ou pèdi konesans?,healthcare
+471,en,ht,Do you have chest pain?,Èske ou gen doulè nan pwatrin?,healthcare
+472,en,ht,Do you have palpitations?,Èske ou gen batman kè rapid?,healthcare
+473,en,ht,Do you have shortness of breath?,Èske ou gen kout souf?,healthcare
+474,en,ht,Do you experience swelling in legs?,Èske ou gen anflamasyon nan janm?,healthcare
+475,en,ht,Do you have cold hands or feet?,Èske ou gen men oswa pye frèt?,healthcare
+476,en,ht,Do you experience numbness in extremities?,Èske ou santi pèt sansasyon nan bra oswa janm?,healthcare
+477,en,ht,Do you have paleness in skin?,Èske po ou pal?,healthcare
+478,en,ht,Do you have heartburn?,Èske ou gen doulè nan lestomak ak pwatrin?,healthcare
+479,en,ht,Do you have acid reflux?,Èske ou gen reflèks asid?,healthcare
+480,en,ht,Do you experience nausea?,Èske ou gen kè plen?,healthcare
+481,en,ht,Do you vomit frequently?,Èske ou vomi souvan?,healthcare
+482,en,ht,Do you have diarrhea?,Èske ou gen dyare?,healthcare
+483,en,ht,Do you have constipation?,Èske ou gen konstipasyon?,healthcare
+484,en,ht,Do you have abdominal cramps?,Èske ou gen kranp nan vant?,healthcare
+485,en,ht,Do you have bloating?,Èske ou gonfle?,healthcare
+486,en,ht,Do you have blood in stool?,Èske ou gen san nan poupou?,healthcare
+487,en,ht,Do you have urinary problems?,Èske ou gen pwoblèm pipi?,healthcare
+488,en,ht,Do you experience pain during urination?,Èske ou gen doulè lè w ap pipi?,healthcare
+489,en,ht,Do you urinate frequently?,Èske ou pipi souvan?,healthcare
+490,en,ht,Do you wake at night to urinate?,Èske ou leve nan mitan lannwit pou pipi?,healthcare
+491,en,ht,Do you have kidney problems?,Èske ou gen pwoblèm ren?,healthcare
+492,en,ht,Do you experience back pain due to kidneys?,Èske ou gen doulè nan do akòz ren?,healthcare
+493,en,ht,Do you have blood in urine?,Èske ou gen san nan pipi?,healthcare
+494,en,ht,Do you have swelling in hands or feet?,Èske ou gen anflamasyon nan men oswa pye?,healthcare
+495,en,ht,Do you have sexual health concerns?,Èske ou gen pwoblèm sante seksyèl?,healthcare
+496,en,ht,Do you have pain during intercourse?,Èske ou gen doulè pandan relasyon seksyèl?,healthcare
+497,en,ht,Do you have vaginal bleeding?,Èske ou gen senyen nan vajen?,healthcare
+498,en,ht,Do you have abnormal discharge?,Èske ou gen likid etranj?,healthcare
+499,en,ht,Do you have genital itching?,Èske ou gen gratèl nan zòn jenital?,healthcare
+500,en,ht,Do you have genital sores?,Èske ou gen blesi nan zòn jenital?,healthcare
+501,en,ht,Do you have breast pain?,Èske ou gen doulè nan tete?,healthcare
+502,en,ht,Do you have lumps in your breasts?,Èske ou gen boul nan tete?,healthcare
+503,en,ht,Do you have nipple discharge?,Èske ou gen likid soti nan tete?,healthcare
+504,en,ht,Do you experience hot flashes?,Èske ou gen chalè?,healthcare
+505,en,ht,Do you have night sweats?,Èske ou swe nan mitan lannwit?,healthcare
+506,en,ht,Do you have mood swings?,Èske ou gen chanjman nan dispoziyon?,healthcare
+507,en,ht,Do you feel anxious?,Èske ou santi w enkyè?,healthcare
+508,en,ht,Do you feel depressed?,Èske ou santi w tris?,healthcare
+509,en,ht,Do you experience panic attacks?,Èske ou gen kriz panik?,healthcare
+510,en,ht,Do you have confusion?,Èske ou konfonn?,healthcare
+511,en,ht,Do you have memory problems?,Èske ou gen pwoblèm memwa?,healthcare
+512,en,ht,Do you have difficulty concentrating?,Èske ou gen difikilte pou konsantre?,healthcare
+513,en,ht,Do you have headaches?,Èske ou gen maltèt?,healthcare
+514,en,ht,Do you have migraines?,Èske ou gen migrèn?,healthcare
+515,en,ht,Do you experience dizziness?,Èske ou santi tèt ou vire?,healthcare
+516,en,ht,Do you faint sometimes?,Èske ou pèdi konesans pafwa?,healthcare
+517,en,ht,Do you have seizures?,Èske ou gen kriz konvulsif?,healthcare
+518,en,ht,Do you have numbness?,Èske ou gen pèt sansasyon?,healthcare
+519,en,ht,Do you have tingling sensations?,Èske ou santi pike oswa fourmilman?,healthcare
+520,en,ht,Do you have tremors?,Èske ou gen tranbleman?,healthcare
+521,en,ht,Do you have weakness in limbs?,Èske ou gen feblès nan manm yo?,healthcare
+522,en,ht,Do you have coordination problems?,Èske ou gen pwoblèm kowòdinasyon?,healthcare
+523,en,ht,Do you have balance problems?,Èske ou gen pwoblèm balans?,healthcare
+524,en,ht,Do you experience shortness of breath?,Èske ou gen kout souf?,healthcare
+525,en,ht,Do you experience chest tightness?,Èske ou santi tansyon nan pwatrin?,healthcare
+526,en,ht,Do you experience palpitations?,Èske ou gen batman kè rapid?,healthcare
+527,en,ht,Do you have swelling in legs?,Èske ou gen anflamasyon nan janm?,healthcare
+528,en,ht,Do you have cold hands or feet?,Èske ou gen men oswa pye frèt?,healthcare
+529,en,ht,Do you experience numbness in extremities?,Èske ou santi pèt sansasyon nan bra oswa janm?,healthcare
+530,en,ht,Do you have pale skin?,Èske po ou pal?,healthcare
+531,en,ht,Do you have high blood pressure?,Èske ou gen tansyon wo?,healthcare
+532,en,ht,Do you have low blood pressure?,Èske ou gen tansyon ba?,healthcare
+533,en,ht,Do you experience headaches due to blood pressure?,Èske ou gen maltèt akòz tansyon?,healthcare
+534,en,ht,Do you have chest pain?,Èske ou gen doulè nan pwatrin?,healthcare
+535,en,ht,Do you have heartburn?,Èske ou gen doulè nan lestomak ak pwatrin?,healthcare
+536,en,ht,Do you have acid reflux?,Èske ou gen reflèks asid?,healthcare
+537,en,ht,Do you experience nausea?,Èske ou gen kè plen?,healthcare
+538,en,ht,Do you vomit frequently?,Èske ou vomi souvan?,healthcare
+539,en,ht,Do you have diarrhea?,Èske ou gen dyare?,healthcare
+540,en,ht,Do you have constipation?,Èske ou gen konstipasyon?,healthcare
+541,en,ht,Do you have abdominal cramps?,Èske ou gen kranp nan vant?,healthcare
+542,en,ht,Do you have bloating?,Èske ou gonfle?,healthcare
+543,en,ht,Do you have blood in stool?,Èske ou gen san nan poupou?,healthcare
+544,en,ht,Do you have urinary problems?,Èske ou gen pwoblèm pipi?,healthcare
+545,en,ht,Do you experience pain during urination?,Èske ou gen doulè lè w ap pipi?,healthcare
+546,en,ht,Do you urinate frequently?,Èske ou pipi souvan?,healthcare
+547,en,ht,Do you wake at night to urinate?,Èske ou leve nan mitan lannwit pou pipi?,healthcare
+548,en,ht,Do you have incontinence?,Èske ou gen pwoblèm kontwòl pipi?,healthcare
+549,en,ht,Do you have kidney problems?,Èske ou gen pwoblèm ren?,healthcare
+550,en,ht,Do you experience back pain due to kidneys?,Èske ou gen doulè nan do akòz ren?,healthcare
+551,en,ht,Do you have blood in urine?,Èske ou gen san nan pipi?,healthcare
+552,en,ht,Do you have swelling in hands or feet?,Èske ou gen anflamasyon nan men oswa pye?,healthcare
+553,en,ht,Do you have sexual health concerns?,Èske ou gen pwoblèm sante seksyèl?,healthcare
+554,en,ht,Do you have pain during intercourse?,Èske ou gen doulè pandan relasyon seksyèl?,healthcare
+555,en,ht,Do you have vaginal bleeding?,Èske ou gen senyen nan vajen?,healthcare
+556,en,ht,Do you have abnormal discharge?,Èske ou gen likid etranj?,healthcare
+557,en,ht,Do you have genital itching?,Èske ou gen gratèl nan zòn jenital?,healthcare
+558,en,ht,Do you have genital sores?,Èske ou gen blesi nan zòn jenital?,healthcare
+559,en,ht,Do you have breast lumps?,Èske ou gen boul nan tete?,healthcare
+560,en,ht,Do you have nipple pain?,Èske ou gen doulè nan tete?,healthcare
+561,en,ht,Do you experience hot flashes?,Èske ou gen chalè?,healthcare
+562,en,ht,Do you have night sweats?,Èske ou swe nan mitan lannwit?,healthcare
+563,en,ht,Do you have mood swings?,Èske ou gen chanjman nan dispoziyon?,healthcare
+564,en,ht,Do you feel anxious?,Èske ou santi w enkyè?,healthcare
+565,en,ht,Do you feel depressed?,Èske ou santi w tris?,healthcare
+566,en,ht,Do you experience panic attacks?,Èske ou gen kriz panik?,healthcare
+567,en,ht,Do you have confusion?,Èske ou konfonn?,healthcare
+568,en,ht,Do you have memory problems?,Èske ou gen pwoblèm memwa?,healthcare
+569,en,ht,Do you have difficulty concentrating?,Èske ou gen difikilte pou konsantre?,healthcare
+570,en,ht,Do you have headaches?,Èske ou gen maltèt?,healthcare
+571,en,ht,Do you have migraines?,Èske ou gen migrèn?,healthcare
+572,en,ht,Do you experience dizziness?,Èske ou santi tèt ou vire?,healthcare
+573,en,ht,Do you faint sometimes?,Èske ou pèdi konesans pafwa?,healthcare
+574,en,ht,Do you have seizures?,Èske ou gen kriz konvulsif?,healthcare
+575,en,ht,Do you have numbness?,Èske ou gen pèt sansasyon?,healthcare
+576,en,ht,Do you have tingling sensations?,Èske ou santi pike oswa fourmilman?,healthcare
+577,en,ht,Do you have tremors?,Èske ou gen tranbleman?,healthcare
+578,en,ht,Do you have weakness in limbs?,Èske ou gen feblès nan manm yo?,healthcare
+579,en,ht,Do you have coordination problems?,Èske ou gen pwoblèm kowòdinasyon?,healthcare
+580,en,ht,Do you have balance problems?,Èske ou gen pwoblèm balans?,healthcare
+581,en,ht,Do you experience shortness of breath?,Èske ou gen kout souf?,healthcare
+582,en,ht,Do you experience chest tightness?,Èske ou santi tansyon nan pwatrin?,healthcare
+583,en,ht,Do you experience palpitations?,Èske ou gen batman kè rapid?,healthcare
+584,en,ht,Do you have swelling in legs?,Èske ou gen anflamasyon nan janm?,healthcare
+585,en,ht,Do you have cold hands or feet?,Èske ou gen men oswa pye frèt?,healthcare
+586,en,ht,Do you experience numbness in extremities?,Èske ou santi pèt sansasyon nan bra oswa janm?,healthcare
+587,en,ht,Do you have pale skin?,Èske po ou pal?,healthcare
+588,en,ht,Do you have high blood pressure?,Èske ou gen tansyon wo?,healthcare
+589,en,ht,Do you have low blood pressure?,Èske ou gen tansyon ba?,healthcare
+590,en,ht,Do you experience headaches due to blood pressure?,Èske ou gen maltèt akòz tansyon?,healthcare
+591,en,ht,Do you have chest pain?,Èske ou gen doulè nan pwatrin?,healthcare
+592,en,ht,Do you have heartburn?,Èske ou gen doulè nan lestomak ak pwatrin?,healthcare
+593,en,ht,Do you have acid reflux?,Èske ou gen reflèks asid?,healthcare
+594,en,ht,Do you experience nausea?,Èske ou gen kè plen?,healthcare
+595,en,ht,Do you vomit frequently?,Èske ou vomi souvan?,healthcare
+596,en,ht,Do you have diarrhea?,Èske ou gen dyare?,healthcare
+597,en,ht,Do you have constipation?,Èske ou gen konstipasyon?,healthcare
+598,en,ht,Do you have abdominal cramps?,Èske ou gen kranp nan vant?,healthcare
+599,en,ht,Do you have bloating?,Èske ou gonfle?,healthcare
+600,en,ht,Do you have blood in stool?,Èske ou gen san nan poupou?,healthcare
+601,en,ht,Are you pregnant?,Èske ou ansent?,maternity
+602,en,ht,How many weeks pregnant are you?,Konbyen semèn ou ansent?,maternity
+603,en,ht,Have you had a prenatal checkup?,Èske ou te fè yon tcheke prenatal?,maternity
+604,en,ht,Do you take prenatal vitamins?,Èske ou pran vitamin prenatal?,maternity
+605,en,ht,Do you have morning sickness?,Èske ou gen maladi maten?,maternity
+606,en,ht,Do you have nausea during pregnancy?,Èske ou gen kè plen pandan gwosès?,maternity
+607,en,ht,Do you vomit frequently during pregnancy?,Èske ou vomi souvan pandan gwosès?,maternity
+608,en,ht,Do you experience fatigue during pregnancy?,Èske ou santi w fatige pandan gwosès?,maternity
+609,en,ht,Do you have back pain during pregnancy?,Èske ou gen doulè nan do pandan gwosès?,maternity
+610,en,ht,Do you have swelling in your feet or ankles?,Èske ou gen anflamasyon nan pye oswa cheviy pandan gwosès?,maternity
+611,en,ht,Do you experience leg cramps during pregnancy?,Èske ou gen kranp nan janm pandan gwosès?,maternity
+612,en,ht,Do you experience headaches during pregnancy?,Èske ou gen maltèt pandan gwosès?,maternity
+613,en,ht,Do you have dizziness during pregnancy?,Èske ou santi tèt ou vire pandan gwosès?,maternity
+614,en,ht,Do you experience heartburn during pregnancy?,Èske ou gen doulè nan lestomak ak pwatrin pandan gwosès?,maternity
+615,en,ht,Do you have shortness of breath during pregnancy?,Èske ou gen kout souf pandan gwosès?,maternity
+616,en,ht,Do you have bleeding during pregnancy?,Èske ou gen senyen pandan gwosès?,maternity
+617,en,ht,Do you feel fetal movements?,Èske ou santi mouvman tibebe a?,maternity
+618,en,ht,Do you feel reduced fetal movements?,Èske ou santi mouvman tibebe a diminye?,maternity
+619,en,ht,Do you have abdominal pain during pregnancy?,Èske ou gen doulè nan vant pandan gwosès?,maternity
+620,en,ht,Do you experience contractions?,Èske ou gen kontraksyon?,maternity
+621,en,ht,Do you have vaginal discharge during pregnancy?,Èske ou gen likid nan vajen pandan gwosès?,maternity
+622,en,ht,Do you have vaginal itching during pregnancy?,Èske ou gen gratèl nan vajen pandan gwosès?,maternity
+623,en,ht,Do you have urinary problems during pregnancy?,Èske ou gen pwoblèm pipi pandan gwosès?,maternity
+624,en,ht,Do you have leg swelling during pregnancy?,Èske ou gen anflamasyon nan janm pandan gwosès?,maternity
+625,en,ht,Do you have varicose veins during pregnancy?,Èske ou gen venn varis pandan gwosès?,maternity
+626,en,ht,Do you have hemorrhoids during pregnancy?,Èske ou gen emoroid pandan gwosès?,maternity
+627,en,ht,Do you have constipation during pregnancy?,Èske ou gen konstipasyon pandan gwosès?,maternity
+628,en,ht,Do you have back pain that affects sleep?,Èske doulè nan do ou afekte dòmi?,maternity
+629,en,ht,Do you experience pelvic pain during pregnancy?,Èske ou gen doulè nan basin pandan gwosès?,maternity
+630,en,ht,Do you have vaginal bleeding in third trimester?,Èske ou gen senyen nan twazyèm trimès?,maternity
+631,en,ht,Do you have high blood pressure during pregnancy?,Èske ou gen tansyon wo pandan gwosès?,maternity
+632,en,ht,Do you have swelling in hands or face during pregnancy?,Èske ou gen anflamasyon nan men oswa figi pandan gwosès?,maternity
+633,en,ht,Do you have protein in urine?,Èske ou gen pwoteyin nan pipi?,maternity
+634,en,ht,Do you experience severe headaches during pregnancy?,Èske ou gen maltèt grav pandan gwosès?,maternity
+635,en,ht,Do you have visual disturbances during pregnancy?,Èske ou gen pwoblèm vizyon pandan gwosès?,maternity
+636,en,ht,Do you have nausea in first trimester?,Èske ou gen kè plen nan premye trimès?,maternity
+637,en,ht,Do you have food cravings?,Èske ou gen anvi manje pandan gwosès?,maternity
+638,en,ht,Do you have food aversions?,Èske ou gen repiyans pou manje pandan gwosès?,maternity
+639,en,ht,Do you feel fetal kicking regularly?,Èske ou santi tibebe a ap bat regilyèman?,maternity
+640,en,ht,Do you have pelvic pressure?,Èske ou santi presyon nan basin?,maternity
+641,en,ht,Do you have vaginal discharge with odor?,Èske ou gen likid nan vajen ak odè?,maternity
+642,en,ht,Do you have fever during pregnancy?,Èske ou gen lafyèv pandan gwosès?,maternity
+643,en,ht,Do you have flu symptoms during pregnancy?,Èske ou gen sentòm grip pandan gwosès?,maternity
+644,en,ht,Do you take iron supplements?,Èske ou pran sipleman fè pandan gwosès?,maternity
+645,en,ht,Do you take folic acid supplements?,Èske ou pran sipleman folik asid pandan gwosès?,maternity
+646,en,ht,Do you have backaches in third trimester?,Èske ou gen doulè nan do nan twazyèm trimès?,maternity
+647,en,ht,Do you have swelling in feet in third trimester?,Èske ou gen anflamasyon nan pye nan twazyèm trimès?,maternity
+648,en,ht,Do you have contractions before due date?,Èske ou gen kontraksyon anvan dat delivrans?,maternity
+649,en,ht,Do you have bleeding in second trimester?,Èske ou gen senyen nan dezyèm trimès?,maternity
+650,en,ht,Do you have dizziness in early pregnancy?,Èske ou santi tèt ou vire nan kòmansman gwosès?,maternity
+651,en,ht,Do you experience heartburn in late pregnancy?,Èske ou gen doulè nan lestomak ak pwatrin nan fen gwosès?,maternity
+652,en,ht,Do you have leg cramps at night?,Èske ou gen kranp nan janm nan mitan lannwit?,maternity
+653,en,ht,Do you have pelvic pain while walking?,Èske ou gen doulè nan basin pandan w ap mache?,maternity
+654,en,ht,Do you have difficulty sleeping in third trimester?,Èske ou gen difikilte dòmi nan twazyèm trimès?,maternity
+655,en,ht,Do you have swelling in face or hands?,Èske ou gen anflamasyon nan figi oswa men?,maternity
+656,en,ht,Do you experience shortness of breath when lying down?,Èske ou gen kout souf lè w kouche?,maternity
+657,en,ht,Do you feel pressure in lower abdomen?,Èske ou santi presyon nan vant anba?,maternity
+658,en,ht,Do you have bleeding after intercourse?,Èske ou gen senyen apre relasyon seksyèl?,maternity
+659,en,ht,Do you have spotting during early pregnancy?,Èske ou gen senyen ti gout nan kòmansman gwosès?,maternity
+660,en,ht,Do you experience frequent urination during pregnancy?,Èske ou pipi souvan pandan gwosès?,maternity
+661,en,ht,Do you have back pain radiating to legs?,Èske doulè nan do ou ap gaye nan janm?,maternity
+662,en,ht,Do you experience mood swings during pregnancy?,Èske ou gen chanjman nan dispoziyon pandan gwosès?,maternity
+663,en,ht,Do you feel anxious about delivery?,Èske ou santi w enkyè pou delivrans?,maternity
+664,en,ht,Do you have nipple pain during breastfeeding?,Èske ou gen doulè nan tete pandan tete?,maternity
+665,en,ht,Do you have cracked nipples?,Èske ou gen tete ki fann?,maternity
+666,en,ht,Do you have mastitis symptoms?,Èske ou gen sentòm mastit?,maternity
+667,en,ht,Do you have breast swelling?,Èske ou gen anflamasyon nan tete?,maternity
+668,en,ht,Do you have engorged breasts?,Èske ou gen tete plen anpil?,maternity
+669,en,ht,Do you experience leaking milk?,Èske ou gen lèt k ap koule?,maternity
+670,en,ht,Do you have postpartum bleeding?,Èske ou gen senyen apre akouchman?,maternity
+671,en,ht,Do you experience mood swings postpartum?,Èske ou gen chanjman nan dispoziyon apre akouchman?,maternity
+672,en,ht,Do you have postpartum depression symptoms?,Èske ou gen sentòm depresyon apre akouchman?,maternity
+673,en,ht,Do you experience abdominal pain postpartum?,Èske ou gen doulè nan vant apre akouchman?,maternity
+674,en,ht,Do you have swelling postpartum?,Èske ou gen anflamasyon apre akouchman?,maternity
+675,en,ht,Do you have urinary problems postpartum?,Èske ou gen pwoblèm pipi apre akouchman?,maternity
+676,en,ht,Do you have constipation postpartum?,Èske ou gen konstipasyon apre akouchman?,maternity
+677,en,ht,Do you have difficulty breastfeeding?,Èske ou gen difikilte pou bay tete?,maternity
+678,en,ht,Do you have bleeding gums postpartum?,Èske ou gen jansiv ki senyen apre akouchman?,maternity
+679,en,ht,Do you have hemorrhoids postpartum?,Èske ou gen emoroid apre akouchman?,maternity
+680,en,ht,Do you have leg cramps postpartum?,Èske ou gen kranp nan janm apre akouchman?,maternity
+681,en,ht,Do you have pelvic pain postpartum?,Èske ou gen doulè nan basin apre akouchman?,maternity
+682,en,ht,Do you have vaginal discharge postpartum?,Èske ou gen likid nan vajen apre akouchman?,maternity
+683,en,ht,Do you have itching postpartum?,Èske ou gen gratèl apre akouchman?,maternity
+684,en,ht,Do you have breast engorgement postpartum?,Èske ou gen tete plen anpil apre akouchman?,maternity
+685,en,ht,Do you experience fever postpartum?,Èske ou gen lafyèv apre akouchman?,maternity
+686,en,ht,Do you have infection postpartum?,Èske ou gen enfeksyon apre akouchman?,maternity
+687,en,ht,Do you have pain at episiotomy site?,Èske ou gen doulè nan kote epizyotomi?,maternity
+688,en,ht,Do you experience urinary incontinence postpartum?,Èske ou gen pwoblèm pipi apre akouchman?,maternity
+689,en,ht,Do you have difficulty walking postpartum?,Èske ou gen difikilte pou mache apre akouchman?,maternity
+690,en,ht,Do you have constipation after delivery?,Èske ou gen konstipasyon apre akouchman?,maternity
+691,en,ht,Do you experience bleeding after delivery?,Èske ou gen senyen apre akouchman?,maternity
+692,en,ht,Do you have abdominal swelling after delivery?,Èske ou gen anflamasyon nan vant apre akouchman?,maternity
+693,en,ht,Do you have lower back pain after delivery?,Èske ou gen doulè nan do anba apre akouchman?,maternity
+694,en,ht,Do you experience pelvic floor weakness?,Èske ou gen feblès nan planche basin?,maternity
+695,en,ht,Do you have hemorrhoids after delivery?,Èske ou gen emoroid apre akouchman?,maternity
+696,en,ht,Do you have mood swings after delivery?,Èske ou gen chanjman nan dispoziyon apre akouchman?,maternity
+697,en,ht,Do you have postpartum depression?,Èske ou gen depresyon apre akouchman?,maternity
+698,en,ht,Do you experience anxiety after delivery?,Èske ou santi w enkyè apre akouchman?,maternity
+699,en,ht,Do you have difficulty sleeping after delivery?,Èske ou gen difikilte pou dòmi apre akouchman?,maternity
+700,en,ht,Do you feel tired after delivery?,Èske ou santi w fatige apre akouchman?,maternity
+701,en,ht,Do you have heavy bleeding after delivery?,Èske ou gen gwo senyen apre akouchman?,healthcare
+702,en,ht,Do you have breast engorgement?,Èske ou gen tete plen anpil?,healthcare
+703,en,ht,Do you have nipple cracks?,Èske ou gen tete ki fann?,healthcare
+704,en,ht,Do you experience breast pain?,Èske ou gen doulè nan tete?,healthcare
+705,en,ht,Do you have fever after delivery?,Èske ou gen lafyèv apre akouchman?,healthcare
+706,en,ht,Do you have infection symptoms?,Èske ou gen sentòm enfeksyon?,healthcare
+707,en,ht,Do you experience urinary incontinence?,Èske ou gen pwoblèm pipi?,healthcare
+708,en,ht,Do you have difficulty walking?,Èske ou gen difikilte pou mache?,healthcare
+709,en,ht,Do you have abdominal pain?,Èske ou gen doulè nan vant?,healthcare
+710,en,ht,Do you have constipation?,Èske ou gen konstipasyon?,healthcare
+711,en,ht,Do you experience mood swings?,Èske ou gen chanjman nan dispoziyon?,healthcare
+712,en,ht,Do you feel anxious?,Èske ou santi w enkyè?,healthcare
+713,en,ht,Do you feel depressed?,Èske ou santi w tris?,healthcare
+714,en,ht,Do you have postpartum depression?,Èske ou gen depresyon apre akouchman?,healthcare
+715,en,ht,Do you experience hot flashes?,Èske ou gen chalè?,healthcare
+716,en,ht,Do you have night sweats?,Èske ou swe nan mitan lannwit?,healthcare
+717,en,ht,Do you have leg swelling?,Èske ou gen anflamasyon nan janm?,healthcare
+718,en,ht,Do you experience pelvic pain?,Èske ou gen doulè nan basin?,healthcare
+719,en,ht,Do you have pressure in lower abdomen?,Èske ou santi presyon nan vant anba?,healthcare
+720,en,ht,Do you feel fetal movements?,Èske ou santi mouvman tibebe a?,healthcare
+721,en,ht,Do you feel reduced fetal movements?,Èske ou santi mouvman tibebe a diminye?,healthcare
+722,en,ht,Do you have contractions?,Èske ou gen kontraksyon?,healthcare
+723,en,ht,Do you experience back pain during pregnancy?,Èske ou gen doulè nan do pandan gwosès?,healthcare
+724,en,ht,Do you experience leg cramps during pregnancy?,Èske ou gen kranp nan janm pandan gwosès?,healthcare
+725,en,ht,Do you have nausea during pregnancy?,Èske ou gen kè plen pandan gwosès?,healthcare
+726,en,ht,Do you vomit frequently during pregnancy?,Èske ou vomi souvan pandan gwosès?,healthcare
+727,en,ht,Do you have morning sickness?,Èske ou gen maladi maten?,healthcare
+728,en,ht,Do you experience fatigue during pregnancy?,Èske ou santi w fatige pandan gwosès?,healthcare
+729,en,ht,Do you have swelling in feet or ankles?,Èske ou gen anflamasyon nan pye oswa cheviy pandan gwosès?,healthcare
+730,en,ht,Do you have headaches during pregnancy?,Èske ou gen maltèt pandan gwosès?,healthcare
+731,en,ht,Do you have dizziness during pregnancy?,Èske ou santi tèt ou vire pandan gwosès?,healthcare
+732,en,ht,Do you have heartburn during pregnancy?,Èske ou gen doulè nan lestomak ak pwatrin pandan gwosès?,healthcare
+733,en,ht,Do you have shortness of breath during pregnancy?,Èske ou gen kout souf pandan gwosès?,healthcare
+734,en,ht,Do you have bleeding during pregnancy?,Èske ou gen senyen pandan gwosès?,healthcare
+735,en,ht,Do you have vaginal discharge during pregnancy?,Èske ou gen likid nan vajen pandan gwosès?,healthcare
+736,en,ht,Do you have vaginal itching during pregnancy?,Èske ou gen gratèl nan vajen pandan gwosès?,healthcare
+737,en,ht,Do you have urinary problems during pregnancy?,Èske ou gen pwoblèm pipi pandan gwosès?,healthcare
+738,en,ht,Do you have varicose veins during pregnancy?,Èske ou gen venn varis pandan gwosès?,healthcare
+739,en,ht,Do you have hemorrhoids during pregnancy?,Èske ou gen emoroid pandan gwosès?,healthcare
+740,en,ht,Do you have constipation during pregnancy?,Èske ou gen konstipasyon pandan gwosès?,healthcare
+741,en,ht,Do you have pelvic pressure?,Èske ou santi presyon nan basin?,healthcare
+742,en,ht,Do you have vaginal bleeding in third trimester?,Èske ou gen senyen nan twazyèm trimès?,healthcare
+743,en,ht,Do you have high blood pressure during pregnancy?,Èske ou gen tansyon wo pandan gwosès?,healthcare
+744,en,ht,Do you have swelling in hands or face during pregnancy?,Èske ou gen anflamasyon nan men oswa figi pandan gwosès?,healthcare
+745,en,ht,Do you have protein in urine?,Èske ou gen pwoteyin nan pipi?,healthcare
+746,en,ht,Do you experience severe headaches during pregnancy?,Èske ou gen maltèt grav pandan gwosès?,healthcare
+747,en,ht,Do you have visual disturbances during pregnancy?,Èske ou gen pwoblèm vizyon pandan gwosès?,healthcare
+748,en,ht,Do you take prenatal vitamins?,Èske ou pran vitamin prenatal?,healthcare
+749,en,ht,Do you take iron supplements?,Èske ou pran sipleman fè pandan gwosès?,healthcare
+750,en,ht,Do you take folic acid supplements?,Èske ou pran sipleman folik asid pandan gwosès?,healthcare
+751,en,ht,Do you have difficulty sleeping in third trimester?,Èske ou gen difikilte dòmi nan twazyèm trimès?,healthcare
+752,en,ht,Do you have backaches in third trimester?,Èske ou gen doulè nan do nan twazyèm trimès?,healthcare
+753,en,ht,Do you have leg swelling in third trimester?,Èske ou gen anflamasyon nan pye nan twazyèm trimès?,healthcare
+754,en,ht,Do you have contractions before due date?,Èske ou gen kontraksyon anvan dat delivrans?,healthcare
+755,en,ht,Do you have bleeding in second trimester?,Èske ou gen senyen nan dezyèm trimès?,healthcare
+756,en,ht,Do you have dizziness in early pregnancy?,Èske ou santi tèt ou vire nan kòmansman gwosès?,healthcare
+757,en,ht,Do you experience heartburn in late pregnancy?,Èske ou gen doulè nan lestomak ak pwatrin nan fen gwosès?,healthcare
+758,en,ht,Do you have leg cramps at night?,Èske ou gen kranp nan janm nan mitan lannwit?,healthcare
+759,en,ht,Do you have pelvic pain while walking?,Èske ou gen doulè nan basin pandan w ap mache?,healthcare
+760,en,ht,Do you feel fetal kicking regularly?,Èske ou santi tibebe a ap bat regilyèman?,healthcare
+761,en,ht,Do you have food cravings?,Èske ou gen anvi manje pandan gwosès?,healthcare
+762,en,ht,Do you have food aversions?,Èske ou gen repiyans pou manje pandan gwosès?,healthcare
+763,en,ht,Do you feel anxious about delivery?,Èske ou santi w enkyè pou delivrans?,healthcare
+764,en,ht,Do you have difficulty breastfeeding?,Èske ou gen difikilte pou bay tete?,healthcare
+765,en,ht,Do you have nipple pain during breastfeeding?,Èske ou gen doulè nan tete pandan tete?,healthcare
+766,en,ht,Do you have cracked nipples?,Èske ou gen tete ki fann?,healthcare
+767,en,ht,Do you have mastitis symptoms?,Èske ou gen sentòm mastit?,healthcare
+768,en,ht,Do you experience leaking milk?,Èske ou gen lèt k ap koule?,healthcare
+769,en,ht,Do you have postpartum bleeding?,Èske ou gen senyen apre akouchman?,healthcare
+770,en,ht,Do you have abdominal pain postpartum?,Èske ou gen doulè nan vant apre akouchman?,healthcare
+771,en,ht,Do you have swelling postpartum?,Èske ou gen anflamasyon apre akouchman?,healthcare
+772,en,ht,Do you have urinary problems postpartum?,Èske ou gen pwoblèm pipi apre akouchman?,healthcare
+773,en,ht,Do you have constipation postpartum?,Èske ou gen konstipasyon apre akouchman?,healthcare
+774,en,ht,Do you have hemorrhoids postpartum?,Èske ou gen emoroid apre akouchman?,healthcare
+775,en,ht,Do you experience mood swings postpartum?,Èske ou gen chanjman nan dispoziyon apre akouchman?,healthcare
+776,en,ht,Do you have postpartum depression symptoms?,Èske ou gen sentòm depresyon apre akouchman?,healthcare
+777,en,ht,Do you experience fever postpartum?,Èske ou gen lafyèv apre akouchman?,healthcare
+778,en,ht,Do you have infection postpartum?,Èske ou gen enfeksyon apre akouchman?,healthcare
+779,en,ht,Do you have pain at episiotomy site?,Èske ou gen doulè nan kote epizyotomi?,healthcare
+780,en,ht,Do you have difficulty walking postpartum?,Èske ou gen difikilte pou mache apre akouchman?,healthcare
+781,en,ht,Do you have bleeding after delivery?,Èske ou gen senyen apre akouchman?,healthcare
+782,en,ht,Do you have abdominal swelling after delivery?,Èske ou gen anflamasyon nan vant apre akouchman?,healthcare
+783,en,ht,Do you have lower back pain after delivery?,Èske ou gen doulè nan do anba apre akouchman?,healthcare
+784,en,ht,Do you experience pelvic floor weakness?,Èske ou gen feblès nan planche basin?,healthcare
+785,en,ht,Do you feel tired after delivery?,Èske ou santi w fatige apre akouchman?,healthcare
+786,en,ht,Do you experience anxiety after delivery?,Èske ou santi w enkyè apre akouchman?,healthcare
+787,en,ht,Do you have difficulty sleeping after delivery?,Èske ou gen difikilte pou dòmi apre akouchman?,healthcare
+788,en,ht,Do you experience hot flashes after delivery?,Èske ou gen chalè apre akouchman?,healthcare
+789,en,ht,Do you have night sweats after delivery?,Èske ou swe nan mitan lannwit apre akouchman?,healthcare
+790,en,ht,Do you experience mood swings after delivery?,Èske ou gen chanjman nan dispoziyon apre akouchman?,healthcare
+791,en,ht,Do you have breast engorgement postpartum?,Èske ou gen tete plen anpil apre akouchman?,healthcare
+792,en,ht,Do you have nipple cracks postpartum?,Èske ou gen tete ki fann apre akouchman?,healthcare
+793,en,ht,Do you have mastitis postpartum?,Èske ou gen mastit apre akouchman?,healthcare
+794,en,ht,Do you experience leaking milk postpartum?,Èske ou gen lèt k ap koule apre akouchman?,healthcare
+795,en,ht,Do you have heavy bleeding postpartum?,Èske ou gen gwo senyen apre akouchman?,healthcare
+796,en,ht,Do you experience abdominal cramps postpartum?,Èske ou gen kranp nan vant apre akouchman?,healthcare
+797,en,ht,Do you have leg swelling postpartum?,Èske ou gen anflamasyon nan janm apre akouchman?,healthcare
+798,en,ht,Do you have pelvic pain postpartum?,Èske ou gen doulè nan basin apre akouchman?,healthcare
+799,en,ht,Do you feel weak postpartum?,Èske ou santi w fèb apre akouchman?,healthcare
+800,en,ht,Do you have urinary incontinence postpartum?,Èske ou gen pwoblèm pipi apre akouchman?,healthcare
+801,en,ht,Does your child have a fever?,Èske pitit ou gen lafyèv?,healthcare
+802,en,ht,Does your child have a cough?,Èske pitit ou gen tous?,healthcare
+803,en,ht,Does your child have a runny nose?,Èske nen pitit ou kouri?,healthcare
+804,en,ht,Does your child have vomiting?,Èske pitit ou ap vomi?,healthcare
+805,en,ht,Does your child have diarrhea?,Èske pitit ou gen dyare?,healthcare
+806,en,ht,Does your child have constipation?,Èske pitit ou gen konstipasyon?,healthcare
+807,en,ht,Does your child have stomach pain?,Èske pitit ou gen doulè nan vant?,healthcare
+808,en,ht,Does your child have a rash?,Èske pitit ou gen gratèl?,healthcare
+809,en,ht,Does your child have itchy skin?,Èske pitit ou grate po li?,healthcare
+810,en,ht,Does your child have swollen joints?,Èske jwenti pitit ou anfle?,healthcare
+811,en,ht,Does your child have ear pain?,Èske pitit ou gen doulè nan zòrèy?,healthcare
+812,en,ht,Does your child have ear infections?,Èske pitit ou gen enfeksyon nan zòrèy?,healthcare
+813,en,ht,Does your child have eye redness?,Èske je pitit ou wouj?,healthcare
+814,en,ht,Does your child have watery eyes?,Èske je pitit ou dlo?,healthcare
+815,en,ht,Does your child have itchy eyes?,Èske je pitit ou grate?,healthcare
+816,en,ht,Does your child have vomiting after eating?,Èske pitit ou vomi apre li manje?,healthcare
+817,en,ht,Does your child have trouble breathing?,Èske pitit ou gen difikilte pou respire?,healthcare
+818,en,ht,Does your child wheeze?,Èske pitit ou soufle?,healthcare
+819,en,ht,Does your child have chest pain?,Èske pitit ou gen doulè nan pwatrin?,healthcare
+820,en,ht,Does your child have palpitations?,Èske pitit ou gen batman kè rapid?,healthcare
+821,en,ht,Does your child have fatigue?,Èske pitit ou santi l fatige?,healthcare
+822,en,ht,Does your child have muscle weakness?,Èske pitit ou gen feblès nan misk?,healthcare
+823,en,ht,Does your child have tremors?,Èske pitit ou tranble?,healthcare
+824,en,ht,Does your child have headaches?,Èske pitit ou gen maltèt?,healthcare
+825,en,ht,Does your child have migraines?,Èske pitit ou gen migrèn?,healthcare
+826,en,ht,Does your child have dizziness?,Èske pitit ou santi tèt li vire?,healthcare
+827,en,ht,Does your child faint sometimes?,Èske pitit ou pèdi konesans pafwa?,healthcare
+828,en,ht,Does your child have seizures?,Èske pitit ou gen kriz konvulsif?,healthcare
+829,en,ht,Does your child have developmental delays?,Èske pitit ou gen reta devlopman?,healthcare
+830,en,ht,Does your child have speech difficulties?,Èske pitit ou gen difikilte pou pale?,healthcare
+831,en,ht,Does your child have difficulty walking?,Èske pitit ou gen difikilte pou mache?,healthcare
+832,en,ht,Does your child have trouble seeing?,Èske pitit ou wè byen?,healthcare
+833,en,ht,Does your child have trouble hearing?,Èske pitit ou tande byen?,healthcare
+834,en,ht,Does your child have frequent infections?,Èske pitit ou gen enfeksyon souvan?,healthcare
+835,en,ht,Does your child have allergies?,Èske pitit ou gen alèji?,healthcare
+836,en,ht,Does your child have asthma?,Èske pitit ou gen opresyon?,healthcare
+837,en,ht,Does your child have eczema?,Èske pitit ou gen ekzema?,healthcare
+838,en,ht,Does your child have psoriasis?,Èske pitit ou gen psoryaz?,healthcare
+839,en,ht,Does your child have hives?,Èske pitit ou gen gratèl?,healthcare
+840,en,ht,Does your child have frequent colds?,Èske pitit ou soufri frèt souvan?,healthcare
+841,en,ht,Does your child have vomiting at night?,Èske pitit ou vomi nan mitan lannwit?,healthcare
+842,en,ht,Does your child have difficulty sleeping?,Èske pitit ou gen difikilte pou dòmi?,healthcare
+843,en,ht,Does your child sleep too much?,Èske pitit ou dòmi twòp?,healthcare
+844,en,ht,Does your child sleep too little?,Èske pitit ou dòmi twò piti?,healthcare
+845,en,ht,Does your child have bedwetting?,Èske pitit ou pipi nan kabann?,healthcare
+846,en,ht,Does your child have constipation?,Èske pitit ou gen konstipasyon?,healthcare
+847,en,ht,Does your child have diarrhea?,Èske pitit ou gen dyare?,healthcare
+848,en,ht,Does your child have stomach cramps?,Èske pitit ou gen kranp nan vant?,healthcare
+849,en,ht,Does your child have vomiting after meals?,Èske pitit ou vomi apre manje?,healthcare
+850,en,ht,Does your child have dehydration?,Èske pitit ou dezidrate?,healthcare
+851,en,ht,Does your child have weight loss?,Èske pitit ou pèdi pwa?,healthcare
+852,en,ht,Does your child have weight gain problems?,Èske pitit ou gen pwoblèm pran pwa?,healthcare
+853,en,ht,Does your child have delayed growth?,Èske pitit ou grandi pita?,healthcare
+854,en,ht,Does your child have frequent urination?,Èske pitit ou pipi souvan?,healthcare
+855,en,ht,Does your child have pain during urination?,Èske pitit ou gen doulè lè l ap pipi?,healthcare
+856,en,ht,Does your child have blood in urine?,Èske pitit ou gen san nan pipi?,healthcare
+857,en,ht,Does your child have urinary tract infections?,Èske pitit ou gen enfeksyon nan pipi?,healthcare
+858,en,ht,Does your child have difficulty swallowing?,Èske pitit ou gen difikilte pou vale manje?,healthcare
+859,en,ht,Does your child have throat pain?,Èske pitit ou gen doulè nan gòj?,healthcare
+860,en,ht,Does your child have tonsillitis?,Èske pitit ou gen tonsilit?,healthcare
+861,en,ht,Does your child have ear drainage?,Èske pitit ou gen likid nan zòrèy?,healthcare
+862,en,ht,Does your child have nosebleeds?,Èske pitit ou gen nen senyen?,healthcare
+863,en,ht,Does your child have sinus infections?,Èske pitit ou gen enfeksyon nan sinis?,healthcare
+864,en,ht,Does your child have cough with phlegm?,Èske pitit ou gen tous ak krache?,healthcare
+865,en,ht,Does your child have wheezing?,Èske pitit ou soufle?,healthcare
+866,en,ht,Does your child have chest congestion?,Èske pitit ou gen bouchon nan pwatrin?,healthcare
+867,en,ht,Does your child have rapid breathing?,Èske pitit ou respire rapid?,healthcare
+868,en,ht,Does your child have choking episodes?,Èske pitit ou etoufe pafwa?,healthcare
+869,en,ht,Does your child have allergies to food?,Èske pitit ou gen alèji ak manje?,healthcare
+870,en,ht,Does your child have allergies to medicine?,Èske pitit ou gen alèji ak medikaman?,healthcare
+871,en,ht,Does your child have allergies to pollen?,Èske pitit ou gen alèji ak polèn?,healthcare
+872,en,ht,Does your child have eczema flare-ups?,Èske pitit ou gen fwa ekzema?,healthcare
+873,en,ht,Does your child have asthma attacks?,Èske pitit ou gen kriz opresyon?,healthcare
+874,en,ht,Does your child take regular medications?,Èske pitit ou pran medikaman regilyèman?,healthcare
+875,en,ht,Does your child have routine checkups?,Èske pitit ou fè tcheke regilye?,healthcare
+876,en,ht,Does your child have vaccinations up to date?,Èske pitit ou pran tout vaksen li yo?,healthcare
+877,en,ht,Does your child take vitamin supplements?,Èske pitit ou pran vitamin?,healthcare
+878,en,ht,Does your child have dental checkups?,Èske pitit ou fè tcheke dan?,healthcare
+879,en,ht,Does your child brush teeth daily?,Èske pitit ou bwose dan chak jou?,healthcare
+880,en,ht,Does your child have cavities?,Èske pitit ou gen kavite?,healthcare
+881,en,ht,Does your child experience sleepwalking?,Èske pitit ou mache pandan dòmi?,healthcare
+882,en,ht,Does your child experience nightmares?,Èske pitit ou gen kochma?,healthcare
+883,en,ht,Does your child have frequent colds?,Èske pitit ou malad souvan?,healthcare
+884,en,ht,Does your child get sick easily?,Èske pitit ou fasil malad?,healthcare
+885,en,ht,Does your child have hand-foot-mouth disease?,Èske pitit ou gen maladi men-pye-bouch?,healthcare
+886,en,ht,Does your child have chickenpox?,Èske pitit ou gen varisòl?,healthcare
+887,en,ht,Does your child have measles?,Èske pitit ou gen masèl?,healthcare
+888,en,ht,Does your child have mumps?,Èske pitit ou gen parotit?,healthcare
+889,en,ht,Does your child have rubella?,Èske pitit ou gen rubela?,healthcare
+890,en,ht,Does your child have croup?,Èske pitit ou gen krip?,healthcare
+891,en,ht,Does your child have dehydration signs?,Èske pitit ou gen siy dezidratasyon?,healthcare
+892,en,ht,Does your child have poor appetite?,Èske pitit ou pa gen apeti?,healthcare
+893,en,ht,Does your child eat regularly?,Èske pitit ou manje regilyèman?,healthcare
+894,en,ht,Does your child drink enough water?,Èske pitit ou bwè ase dlo?,healthcare
+895,en,ht,Does your child have proper sleep routine?,Èske pitit ou gen yon woutin dòmi?,healthcare
+896,en,ht,Does your child experience irritability?,Èske pitit ou vin irite fasil?,healthcare
+897,en,ht,Does your child have hyperactivity?,Èske pitit ou twò aktif?,healthcare
+898,en,ht,Does your child have attention problems?,Èske pitit ou gen pwoblèm atansyon?,healthcare
+899,en,ht,Does your child have tantrums?,Èske pitit ou fè kriz kolè?,healthcare
+900,en,ht,Does your child experience growth delays?,Èske pitit ou gen reta devlopman?,healthcare
+901,en,ht,Does your child get vaccinations on time?,Èske pitit ou pran vaksen alè?,healthcare
+902,en,ht,Does your child have frequent ear infections?,Èske pitit ou gen enfeksyon nan zòrèy souvan?,healthcare
+903,en,ht,Does your child have speech delay?,Èske pitit ou pale pita?,healthcare
+904,en,ht,Does your child have difficulty hearing?,Èske pitit ou gen difikilte pou tande?,healthcare
+905,en,ht,Does your child have trouble seeing clearly?,Èske pitit ou wè klè?,healthcare
+906,en,ht,Does your child have vision problems?,Èske pitit ou gen pwoblèm vizyon?,healthcare
+907,en,ht,Does your child have frequent stomach aches?,Èske pitit ou gen doulè nan vant souvan?,healthcare
+908,en,ht,Does your child experience nausea?,Èske pitit ou gen kè plen?,healthcare
+909,en,ht,Does your child vomit frequently?,Èske pitit ou vomi souvan?,healthcare
+910,en,ht,Does your child have abdominal bloating?,Èske pitit ou gonfle nan vant?,healthcare
+911,en,ht,Does your child have diarrhea?,Èske pitit ou gen dyare?,healthcare
+912,en,ht,Does your child have constipation?,Èske pitit ou gen konstipasyon?,healthcare
+913,en,ht,Does your child have trouble sleeping?,Èske pitit ou gen difikilte pou dòmi?,healthcare
+914,en,ht,Does your child sleep too little?,Èske pitit ou dòmi twò piti?,healthcare
+915,en,ht,Does your child sleep too much?,Èske pitit ou dòmi twòp?,healthcare
+916,en,ht,Does your child wake up at night frequently?,Èske pitit ou leve nan mitan lannwit souvan?,healthcare
+917,en,ht,Does your child experience nightmares?,Èske pitit ou fè kochma?,healthcare
+918,en,ht,Does your child sleepwalk?,Èske pitit ou mache pandan dòmi?,healthcare
+919,en,ht,Does your child have tantrums?,Èske pitit ou fè kriz kolè?,healthcare
+920,en,ht,Does your child show hyperactivity?,Èske pitit ou twò aktif?,healthcare
+921,en,ht,Does your child have attention problems?,Èske pitit ou gen pwoblèm konsantrasyon?,healthcare
+922,en,ht,Does your child have developmental delays?,Èske pitit ou gen reta devlopman?,healthcare
+923,en,ht,Does your child have growth problems?,Èske pitit ou gen pwoblèm kwasans?,healthcare
+924,en,ht,Does your child have weight loss?,Èske pitit ou pèdi pwa?,healthcare
+925,en,ht,Does your child have poor appetite?,Èske pitit ou pa manje ase?,healthcare
+926,en,ht,Does your child eat a balanced diet?,Èske pitit ou manje manje ekilibre?,healthcare
+927,en,ht,Does your child drink enough water?,Èske pitit ou bwè ase dlo?,healthcare
+928,en,ht,Does your child have dental problems?,Èske pitit ou gen pwoblèm dan?,healthcare
+929,en,ht,Does your child brush teeth daily?,Èske pitit ou bwose dan chak jou?,healthcare
+930,en,ht,Does your child have cavities?,Èske pitit ou gen kavite?,healthcare
+931,en,ht,Does your child have gum problems?,Èske pitit ou gen pwoblèm jansiv?,healthcare
+932,en,ht,Does your child have ear pain?,Èske pitit ou gen doulè nan zòrèy?,healthcare
+933,en,ht,Does your child have frequent colds?,Èske pitit ou malad souvan?,healthcare
+934,en,ht,Does your child have flu symptoms?,Èske pitit ou gen sentòm grip?,healthcare
+935,en,ht,Does your child have skin rashes?,Èske pitit ou gen gratèl nan po?,healthcare
+936,en,ht,Does your child have itchy skin?,Èske pitit ou grate po li?,healthcare
+937,en,ht,Does your child have eczema?,Èske pitit ou gen ekzema?,healthcare
+938,en,ht,Does your child have hives?,Èske pitit ou gen gratèl?,healthcare
+939,en,ht,Does your child have allergic reactions?,Èske pitit ou gen reyaksyon alèjik?,healthcare
+940,en,ht,Does your child have asthma?,Èske pitit ou gen opresyon?,healthcare
+941,en,ht,Does your child have wheezing?,Èske pitit ou soufle?,healthcare
+942,en,ht,Does your child have chest congestion?,Èske pitit ou gen bouchon nan pwatrin?,healthcare
+943,en,ht,Does your child have rapid breathing?,Èske pitit ou respire rapid?,healthcare
+944,en,ht,Does your child have choking episodes?,Èske pitit ou etoufe pafwa?,healthcare
+945,en,ht,Does your child take daily medications?,Èske pitit ou pran medikaman chak jou?,healthcare
+946,en,ht,Does your child have routine checkups?,Èske pitit ou fè tcheke regilyèman?,healthcare
+947,en,ht,Does your child have vaccinations up to date?,Èske pitit ou pran tout vaksen yo?,healthcare
+948,en,ht,Does your child have vitamin supplements?,Èske pitit ou pran vitamin?,healthcare
+949,en,ht,Does your child have regular physical activity?,Èske pitit ou fè aktivite fizik regilyèman?,healthcare
+950,en,ht,Does your child play outdoor games?,Èske pitit ou jwe jwèt deyò?,healthcare
+951,en,ht,Does your child brush hair daily?,Èske pitit ou bwose cheve chak jou?,healthcare
+952,en,ht,Does your child wash hands before meals?,Èske pitit ou lave men li anvan manje?,healthcare
+953,en,ht,Does your child wash hands after toilet?,Èske pitit ou lave men li apre twalèt?,healthcare
+954,en,ht,Does your child wear clean clothes?,Èske pitit ou mete rad pwòp?,healthcare
+955,en,ht,Does your child have hygiene problems?,Èske pitit ou gen pwoblèm ijyèn?,healthcare
+956,en,ht,Does your child take baths daily?,Èske pitit ou pran beny chak jou?,healthcare
+957,en,ht,Does your child have lice?,Èske pitit ou gen pye?,healthcare
+958,en,ht,Does your child have fungal infections?,Èske pitit ou gen enfeksyon fongis?,healthcare
+959,en,ht,Does your child have scabies?,Èske pitit ou gen payid?,healthcare
+960,en,ht,Does your child have allergic rhinitis?,Èske pitit ou gen alèji nan nen?,healthcare
+961,en,ht,Does your child have poor posture?,Èske pitit ou gen move pozisyon kò?,healthcare
+962,en,ht,Does your child have scoliosis?,Èske pitit ou gen skolyoz?,healthcare
+963,en,ht,Does your child have back pain?,Èske pitit ou gen doulè nan do?,healthcare
+964,en,ht,Does your child have neck pain?,Èske pitit ou gen doulè nan kou?,healthcare
+965,en,ht,Does your child have headaches?,Èske pitit ou gen maltèt?,healthcare
+966,en,ht,Does your child have migraines?,Èske pitit ou gen migrèn?,healthcare
+967,en,ht,Does your child feel anxious?,Èske pitit ou santi li enkyè?,healthcare
+968,en,ht,Does your child feel sad?,Èske pitit ou tris?,healthcare
+969,en,ht,Does your child have behavioral problems?,Èske pitit ou gen pwoblèm konpòtman?,healthcare
+970,en,ht,Does your child have social difficulties?,Èske pitit ou gen pwoblèm sosyal?,healthcare
+971,en,ht,Does your child have friends at school?,Èske pitit ou gen zanmi nan lekòl?,healthcare
+972,en,ht,Does your child have learning difficulties?,Èske pitit ou gen difikilte pou aprann?,healthcare
+973,en,ht,Does your child have memory problems?,Èske pitit ou gen pwoblèm memwa?,healthcare
+974,en,ht,Does your child have concentration problems?,Èske pitit ou gen pwoblèm konsantrasyon?,healthcare
+975,en,ht,Does your child read books regularly?,Èske pitit ou li liv regilyèman?,healthcare
+976,en,ht,Does your child do homework regularly?,Èske pitit ou fè devwa li regilyèman?,healthcare
+977,en,ht,Does your child have good hygiene habits?,Èske pitit ou gen bon abitid ijyèn?,healthcare
+978,en,ht,Does your child get enough sleep?,Èske pitit ou dòmi ase?,healthcare
+979,en,ht,Does your child take naps during the day?,Èske pitit ou fè ti domi pandan jounen an?,healthcare
+980,en,ht,Does your child have proper nutrition?,Èske pitit ou manje byen?,healthcare
+981,en,ht,Does your child drink milk regularly?,Èske pitit ou bwè lèt regilyèman?,healthcare
+982,en,ht,Does your child eat fruits and vegetables?,Èske pitit ou manje fwi ak legim?,healthcare
+983,en,ht,Does your child have sugary food often?,Èske pitit ou manje manje dous souvan?,healthcare
+984,en,ht,Does your child have snacks often?,Èske pitit ou manje bonbon ak chiko souvan?,healthcare
+985,en,ht,Does your child eat junk food?,Èske pitit ou manje vye manje?,healthcare
+986,en,ht,Does your child have physical exercise?,Èske pitit ou fè egzèsis fizik?,healthcare
+987,en,ht,Does your child go to playgrounds?,Èske pitit ou ale nan lakou al jwe?,healthcare
+988,en,ht,Does your child ride a bicycle?,Èske pitit ou monte bisiklèt?,healthcare
+989,en,ht,Does your child play sports?,Èske pitit ou pratike espò?,healthcare
+990,en,ht,Does your child watch TV?,Èske pitit ou gade televizyon?,healthcare
+991,en,ht,Does your child use electronic devices?,Èske pitit ou itilize aparèy elektwonik?,healthcare
+992,en,ht,Does your child spend time outdoors?,Èske pitit ou pase tan deyò?,healthcare
+993,en,ht,Does your child wash hands before eating?,Èske pitit ou lave men li anvan manje?,healthcare
+994,en,ht,Does your child wash hands after toilet?,Èske pitit ou lave men li aprè twalèt?,healthcare
+995,en,ht,Does your child brush teeth before bed?,Èske pitit ou bwose dan li anvanl dòmi?,healthcare
+996,en,ht,Does your child wear clean clothes daily?,Èske pitit ou mete rad pwòp chak jou?,healthcare
+997,en,ht,Does your child take showers regularly?,Èske pitit ou pran douch regilyèman?,healthcare
+998,en,ht,Does your child use sunscreen?,Èske pitit ou sèvi ak pwotektè solèy?,healthcare
+999,en,ht,Does your child have regular health checkups?,Èske pitit ou fè tchèk sante regilyèman?,healthcare
+1000,en,ht,Does your child have routine dental visits?,Èske pitit ou ale wè dentis regilyèman?,healthcare
+1001,en,ht,I need a doctor,Mwen bezwen yon doktè,healthcare 

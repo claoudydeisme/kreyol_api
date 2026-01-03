@@ -1,0 +1,1201 @@
+id,source_language,target_language,source,target,domain
+1,en,ht,School will be closed tomorrow.,Lekòl la ap fèmen demen.,education
+2,en,ht,School will open late tomorrow.,Lekòl la ap ouvri anreta demen.,education
+3,en,ht,School will dismiss early today.,Lekòl la ap fèmen bonè jodi a.,education
+4,en,ht,Classes are canceled today.,Klas yo anile jodi a.,education
+5,en,ht,School is open today.,Lekòl la ouvè jodi a.,education
+6,en,ht,Please send your child to school.,Tanpri voye pitit ou lekòl.,education
+7,en,ht,Your child was absent today.,Pitit ou te absan jodi a.,education
+8,en,ht,Your child arrived late.,Pitit ou rive anreta.,education
+9,en,ht,Your child left early.,Pitit ou te kite bonè.,education
+10,en,ht,Please provide an absence note.,Tanpri bay yon nòt absans.,education
+11,en,ht,There will be a parent meeting.,Ap gen yon reyinyon paran.,education
+12,en,ht,The parent meeting is mandatory.,Reyinyon paran an obligatwa.,education
+13,en,ht,The meeting will be held at school.,Reyinyon an ap fèt nan lekòl la.,education
+14,en,ht,The meeting starts at 5 PM.,Reyinyon an ap kòmanse a 5è.,education
+15,en,ht,Please attend the meeting.,Tanpri patisipe nan reyinyon an.,education
+16,en,ht,Only parents or guardians may attend.,Se sèlman paran oswa responsab ki ka vini.,education
+17,en,ht,The meeting has been postponed.,Reyinyon an ranvwaye.,education
+18,en,ht,The meeting has been canceled.,Reyinyon an anile.,education
+19,en,ht,Childcare will not be provided.,Pa pral gen gadri.,education
+20,en,ht,Translation will be available.,Ap gen tradiksyon.,education
+21,en,ht,Please sign the permission slip.,Tanpri siyen fòm otorizasyon an.,education
+22,en,ht,Return the form tomorrow.,Retounen fòm nan demen.,education
+23,en,ht,Forms are due today.,Fòm yo dwe remèt jodi a.,education
+24,en,ht,Your signature is required.,Siyati ou obligatwa.,education
+25,en,ht,Please check your child’s backpack.,Tanpri tcheke sak pitit ou.,education
+26,en,ht,Please check your email.,Tanpri tcheke imel ou.,education
+27,en,ht,Please check the school app.,Tanpri tcheke aplikasyon lekòl la.,education
+28,en,ht,Important information was sent home.,Nou voye enfòmasyon enpòtan lakay.,education
+29,en,ht,This notice is important.,Avi sa a enpòtan.,education
+30,en,ht,Please read this carefully.,Tanpri li sa a ak atansyon.,education
+31,en,ht,Your child is doing well academically.,Pitit ou ap fè bon pwogrè nan lekòl.,education
+32,en,ht,Your child needs extra support.,Pitit ou bezwen plis sipò.,education
+33,en,ht,Your child is improving.,Pitit ou ap amelyore.,education
+34,en,ht,Your child is struggling in class.,Pitit ou gen difikilte nan klas.,education
+35,en,ht,We recommend tutoring.,Nou rekòmande leson sipò.,education
+36,en,ht,Homework is missing.,Devoir yo pa konplè.,education
+37,en,ht,Homework was not submitted.,Yo pa remèt devwa yo.,education
+38,en,ht,Please help with homework.,Tanpri ede ak devwa yo.,education
+39,en,ht,Homework is due tomorrow.,Devwa yo dwe remèt demen.,education
+40,en,ht,Homework is optional.,Devwa yo opsyonèl.,education
+41,en,ht,Your child was respectful today.,Pitit ou te respekte règ yo jodi a.,education
+42,en,ht,Your child showed good behavior.,Pitit ou te montre bon konpòtman.,education
+43,en,ht,Your child had behavior issues.,Pitit ou te gen pwoblèm konpòtman.,education
+44,en,ht,We need to discuss behavior.,Nou bezwen pale sou konpòtman.,education
+45,en,ht,Please contact the school.,Tanpri kontakte lekòl la.,education
+46,en,ht,Please schedule a meeting.,Tanpri pran randevou.,education
+47,en,ht,Discipline action was taken.,Nou pran mezi disiplin.,education
+48,en,ht,This is a warning.,Sa a se yon avètisman.,education
+49,en,ht,This behavior must stop.,Konpòtman sa a dwe sispann.,education
+50,en,ht,We are here to support your child.,Nou la pou sipòte pitit ou.,education
+51,en,ht,Your child was sick today.,Pitit ou te malad jodi a.,education
+52,en,ht,Please keep sick children at home.,Tanpri kenbe timoun malad lakay.,education
+53,en,ht,Your child visited the nurse.,Pitit ou te ale wè enfimyè a.,education
+54,en,ht,Medication is not allowed without permission.,Medikaman pa otorize san pèmisyon.,education
+55,en,ht,Please inform us of allergies.,Tanpri fè nou konnen alèji yo.,education
+56,en,ht,Emergency contact information is missing.,Enfòmasyon ijans yo manke.,education
+57,en,ht,Please update your contact information.,Tanpri mete enfòmasyon kontak ou ajou.,education
+58,en,ht,We could not reach you.,Nou pa t ka kontakte ou.,education
+59,en,ht,This is an emergency.,Sa a se yon ijans.,education
+60,en,ht,Please respond as soon as possible.,Tanpri reponn pi vit posib.,education
+61,en,ht,School lunch is provided.,Lekòl la bay manje midi.,education
+62,en,ht,Lunch is free for all students.,Manje midi gratis pou tout elèv.,education
+63,en,ht,Please send lunch from home.,Tanpri voye manje soti lakay.,education
+64,en,ht,Do not send candy or soda.,Pa voye sirèt oswa soda.,education
+65,en,ht,Bring a water bottle.,Pote yon boutèy dlo.,education
+66,en,ht,Uniforms are required.,Inifòm obligatwa.,education
+67,en,ht,Please follow the dress code.,Tanpri respekte règ abiman.,education
+68,en,ht,No uniforms today.,Pa gen inifòm jodi a.,education
+69,en,ht,Wear gym clothes.,Mete rad espò.,education
+70,en,ht,Closed-toe shoes are required.,Soulye fèmen obligatwa.,education
+71,en,ht,There will be a field trip.,Ap gen yon pwomnad lekòl.,education
+72,en,ht,The field trip is optional.,Pwomnad la opsyonèl.,education
+73,en,ht,Permission is required.,Otorizasyon obligatwa.,education
+74,en,ht,The bus will leave at 8 AM.,Otobis la ap pati a 8è.,education
+75,en,ht,Students must arrive on time.,Elèv yo dwe rive alè.,education
+76,en,ht,There is no school bus today.,Pa gen bis lekòl jodi a.,education
+77,en,ht,Parents must arrange transportation.,Paran dwe òganize transpò.,education
+78,en,ht,Pickup is at dismissal time.,Ranmase se lè lekòl fini.,education
+79,en,ht,Please pick up your child on time.,Tanpri vin chèche pitit ou alè.,education
+80,en,ht,Late pickup fees may apply.,Frè ka aplike si anreta.,education
+81,en,ht,School starts at 8 AM.,Lekòl la kòmanse a 8è.,education
+82,en,ht,School ends at 3 PM.,Lekòl la fini a 3è.,education
+83,en,ht,Early dismissal today.,Fèmen bonè jodi a.,education
+84,en,ht,After-school programs are available.,Gen pwogram apre lekòl.,education
+85,en,ht,Registration is open.,Enskripsyon an ouvè.,education
+86,en,ht,Registration closes Friday.,Enskripsyon fèmen vandredi.,education
+87,en,ht,Please complete registration.,Tanpri konplete enskripsyon an.,education
+88,en,ht,Documents are missing.,Dokiman yo manke.,education
+89,en,ht,Birth certificate is required.,Batistè obligatwa.,education
+90,en,ht,Proof of address is required.,Prèv adrès obligatwa.,education
+91,en,ht,Tuition payment is due.,Peman frè lekòl dwe fèt.,education
+92,en,ht,Payment is overdue.,Peman an anreta.,education
+93,en,ht,Please contact the office.,Tanpri kontakte biwo a.,education
+94,en,ht,Financial assistance is available.,Gen èd finansye.,education
+95,en,ht,Apply for financial aid.,Aplike pou èd finansye.,education
+96,en,ht,Scholarships are available.,Gen bousdetid.,education
+97,en,ht,Fees are non-refundable.,Frè yo pa ranbousab.,education
+98,en,ht,Receipts are available upon request.,Resi disponib sou demann.,education
+99,en,ht,Payment plans are available.,Gen plan peman.,education
+100,en,ht,Thank you for your cooperation.,Mèsi pou kolaborasyon ou.,education
+101,en,ht,School will reopen Monday.,Lekòl la ap relouvri lendi.,education
+102,en,ht,Have a safe weekend.,Passe yon bon wikenn.,education
+103,en,ht,Happy holidays.,Bon fèt.,education
+104,en,ht,School is closed for holidays.,Lekòl la fèmen pou fèt.,education
+105,en,ht,Classes resume next week.,Klas yo rekòmanse semèn pwochèn.,education
+106,en,ht,Welcome back to school.,Byenveni tounen lekòl.,education
+107,en,ht,We appreciate your support.,Nou apresye sipò ou.,education
+108,en,ht,Thank you for being involved.,Mèsi paske w enplike.,education
+109,en,ht,Please reach out with questions.,Tanpri kontakte nou si gen kesyon.,education
+110,en,ht,We look forward to working with you.,Nou swete travay avèk ou.,education
+111,en,ht,Your child is safe.,Pitit ou an sekirite.,education
+112,en,ht,All students are safe.,Tout elèv yo an sekirite.,education
+113,en,ht,There was a minor incident.,Te gen yon ti ensidan.,education
+114,en,ht,The situation is under control.,Sitiyasyon an anba kontwòl.,education
+115,en,ht,Emergency procedures were followed.,Nou swiv pwosedi ijans yo.,education
+116,en,ht,Please do not come to the school.,Tanpri pa vini lekòl la.,education
+117,en,ht,We will update you shortly.,N ap ba ou nouvèl byento.,education
+118,en,ht,Thank you for your patience.,Mèsi pou pasyans ou.,education
+119,en,ht,This message is for parents.,Mesaj sa a pou paran.,education
+120,en,ht,This applies to all students.,Sa konsène tout elèv.,education
+121,en,ht,School supplies are needed.,Founiti lekòl nesesè.,education
+122,en,ht,Please label your child’s items.,Tanpri make bagay pitit ou.,education
+123,en,ht,Lost and found is in the office.,Objè pèdi yo nan biwo a.,education
+124,en,ht,Textbooks were issued today.,Nou bay liv jodi a.,education
+125,en,ht,Books must be returned.,Liv yo dwe retounen.,education
+126,en,ht,Library day is Friday.,Jou bibliyotèk la se vandredi.,education
+127,en,ht,Technology devices are assigned.,Nou bay aparèy teknoloji.,education
+128,en,ht,Devices must be charged.,Aparèy yo dwe chaje.,education
+129,en,ht,Internet access is required.,Aksè entènèt obligatwa.,education
+130,en,ht,Please monitor screen time.,Tanpri siveye tan ekran.,education
+131,en,ht,Testing will begin next week.,Egzamen ap kòmanse semèn pwochèn.,education
+132,en,ht,Attendance is important.,Prezans enpòtan.,education
+133,en,ht,Please ensure your child is present.,Tanpri asire pitit ou vini.,education
+134,en,ht,Make-up work is available.,Gen travay ratrapaj.,education
+135,en,ht,Report cards will be sent home.,Bilten yo pral voye lakay.,education
+136,en,ht,Grades are available online.,Nòt yo disponib sou entènèt.,education
+137,en,ht,Progress reports are attached.,Rapò pwogrè yo annèks.,education
+138,en,ht,Please review the report.,Tanpri revize rapò a.,education
+139,en,ht,Contact the teacher with concerns.,Kontakte pwofesè a si gen enkyetid.,education
+140,en,ht,We value parent feedback.,Nou apresye opinyon paran.,education
+141,en,ht,Volunteers are welcome.,Volontè yo byenveni.,education
+142,en,ht,Sign up to volunteer.,Enskri pou fè volontarya.,education
+143,en,ht,Background checks are required.,Verifikasyon obligatwa.,education
+144,en,ht,School events are coming up.,Gen evènman lekòl k ap vini.,education
+145,en,ht,You are invited.,Ou envite.,education
+146,en,ht,Families are welcome.,Fanmi yo byenveni.,education
+147,en,ht,Please RSVP.,Tanpri konfime prezans ou.,education
+148,en,ht,The event is free.,Evènman an gratis.,education
+149,en,ht,Food will be provided.,Ap gen manje.,education
+150,en,ht,Parking is available.,Gen pakin.,education
+151,en,ht,School policies must be followed.,Règleman lekòl la dwe respekte.,education
+152,en,ht,Please review the handbook.,Tanpri li manyèl la.,education
+153,en,ht,The code of conduct applies.,Kòd konduit la aplike.,education
+154,en,ht,Bullying is not tolerated.,Nou pa tolere entimidasyon.,education
+155,en,ht,Report concerns immediately.,Rapòte pwoblèm touswit.,education
+156,en,ht,Student safety is our priority.,Sekirite elèv yo se priyorite nou.,education
+157,en,ht,Visitors must check in.,Vizitè dwe enskri.,education
+158,en,ht,ID is required.,Kat idantite obligatwa.,education
+159,en,ht,Doors are locked during school hours.,Pòt yo fèmen pandan lè lekòl.,education
+160,en,ht,Thank you for keeping our school safe.,Mèsi paske w ede kenbe lekòl la an sekirite.,education
+161,en,ht,Weather conditions may affect school.,Move tan ka afekte lekòl.,education
+162,en,ht,Check local updates.,Tcheke nouvèl lokal yo.,education
+163,en,ht,Remote learning will be used.,N ap itilize aprantisaj a distans.,education
+164,en,ht,Log in to your child’s account.,Konekte sou kont pitit ou.,education
+165,en,ht,Technical support is available.,Gen sipò teknik.,education
+166,en,ht,Contact IT support.,Kontakte sipò teknik.,education
+167,en,ht,Lessons will be recorded.,Leson yo ap anrejistre.,education
+168,en,ht,Assignments are posted online.,Travay yo sou entènèt.,education
+169,en,ht,Attendance will be taken.,N ap pran prezans.,education
+170,en,ht,Participation is expected.,Patisipasyon obligatwa.,education
+171,en,ht,We appreciate your partnership.,Nou apresye patenarya ou.,education
+172,en,ht,Thank you for supporting your child.,Mèsi paske w sipòte pitit ou.,education
+173,en,ht,Your involvement matters.,Patisipasyon ou enpòtan.,education
+174,en,ht,Together we help students succeed.,Ansanm nou ede elèv reyisi.,education
+175,en,ht,Please stay connected.,Tanpri rete konekte.,education
+176,en,ht,Follow us for updates.,Swiv nou pou nouvèl.,education
+177,en,ht,School contact information below.,Enfòmasyon kontak lekòl anba a.,education
+178,en,ht,Office hours are listed.,Lè biwo yo make.,education
+179,en,ht,Do not reply to this message.,Pa reponn mesaj sa a.,education
+180,en,ht,This is an automated message.,Sa a se yon mesaj otomatik.,education
+181,en,ht,Please confirm receipt.,Tanpri konfime resepsyon.,education
+182,en,ht,Message sent successfully.,Mesaj la voye avèk siksè.,education
+183,en,ht,We will follow up.,N ap fè swivi.,education
+184,en,ht,More information will follow.,Plis enfòmasyon ap vini.,education
+185,en,ht,Thank you for your time.,Mèsi pou tan ou.,education
+186,en,ht,We are committed to your child’s success.,Nou angaje pou siksè pitit ou.,education
+187,en,ht,This concludes the message.,Mesaj la fini.,education
+188,en,ht,Please save this information.,Tanpri konsève enfòmasyon sa a.,education
+189,en,ht,Share this with other parents.,Pataje sa ak lòt paran.,education
+190,en,ht,Contact us if you need help.,Kontakte nou si w bezwen èd.,education
+191,en,ht,Thank you for being part of our school community.,Mèsi paske w fè pati kominote lekòl la.,education
+192,en,ht,We are here to help.,Nou la pou ede.,education
+193,en,ht,Your child’s education is important.,Edikasyon pitit ou enpòtan.,education
+194,en,ht,Please work with us.,Tanpri travay avèk nou.,education
+195,en,ht,We value communication.,Nou bay kominikasyon anpil valè.,education
+196,en,ht,Let us know if you have concerns.,Fè nou konnen si w gen enkyetid.,education
+197,en,ht,This message was sent by the school.,Lekòl la voye mesaj sa a.,education
+198,en,ht,Keep this for your records.,Kenbe sa pou dosye ou.,education
+199,en,ht,We appreciate your trust.,Nou apresye konfyans ou.,education
+200,en,ht,Thank you.,Mèsi.,education
+201,en,ht,Please update your child’s emergency card.,Tanpri mete kat ijans pitit ou ajou.,education
+202,en,ht,Emergency drills will take place this week.,Egzèsis ijans ap fèt semèn sa a.,education
+203,en,ht,This is a routine safety drill.,Sa a se yon egzèsis sekirite nòmal.,education
+204,en,ht,Students practiced evacuation procedures.,Elèv yo pratike pwosedi evakyasyon.,education
+205,en,ht,No action is needed from parents.,Pa gen okenn aksyon paran bezwen pran.,education
+206,en,ht,The school day will follow a modified schedule.,Jounen lekòl la ap swiv yon orè modifye.,education
+207,en,ht,Some classes may be combined.,Kèk klas ka mete ansanm.,education
+208,en,ht,Substitute teachers will be present.,Ap gen pwofesè ranplasman.,education
+209,en,ht,Instruction will continue as planned.,Ansèyman ap kontinye jan li te planifye.,education
+210,en,ht,Thank you for your understanding.,Mèsi pou konpreyansyon ou.,education
+211,en,ht,Your child participated actively today.,Pitit ou te patisipe aktivman jodi a.,education
+212,en,ht,Class participation is encouraged.,Patisipasyon nan klas ankouraje.,education
+213,en,ht,Please encourage daily reading.,Tanpri ankouraje lekti chak jou.,education
+214,en,ht,Reading logs must be signed.,Jounal lekti yo dwe siyen.,education
+215,en,ht,Math practice is recommended.,Pratik matematik rekòmande.,education
+216,en,ht,Practice materials were sent home.,Nou voye materyèl pratik lakay.,education
+217,en,ht,Your child asked thoughtful questions.,Pitit ou poze bon kesyon.,education
+218,en,ht,Independent work skills are improving.,Konpetans travay endepandan ap amelyore.,education
+219,en,ht,Focus during class needs improvement.,Konsantrasyon nan klas bezwen amelyore.,education
+220,en,ht,Please review classroom expectations.,Tanpri revize atant klas la.,education
+221,en,ht,Your child completed the assignment.,Pitit ou fini travay la.,education
+222,en,ht,The assignment was incomplete.,Travay la pa t konplè.,education
+223,en,ht,Late work was accepted.,Nou aksepte travay anreta.,education
+224,en,ht,Extra credit opportunities are available.,Gen opòtinite pwen siplemantè.,education
+225,en,ht,Group projects will begin soon.,Pwojè an gwoup ap kòmanse byento.,education
+226,en,ht,Students will work in pairs.,Elèv yo ap travay an pè.,education
+227,en,ht,Presentations are scheduled.,Prezantasyon yo pwograme.,education
+228,en,ht,Public speaking skills are taught.,Nou anseye konpetans pale an piblik.,education
+229,en,ht,Creativity is encouraged.,Kreyativite ankouraje.,education
+230,en,ht,Effort is more important than perfection.,Efò pi enpòtan pase pèfeksyon.,education
+231,en,ht,Please ensure regular attendance.,Tanpri asire prezans regilye.,education
+232,en,ht,Chronic absences affect learning.,Absans repete afekte aprantisaj.,education
+233,en,ht,Excused absences require documentation.,Absans jistifye bezwen dokiman.,education
+234,en,ht,Unexcused absences were recorded.,Nou note absans ki pa jistifye.,education
+235,en,ht,Tardiness disrupts instruction.,Anreta deranje ansèyman.,education
+236,en,ht,Morning routines help students succeed.,Routin maten ede elèv reyisi.,education
+237,en,ht,Please arrive before the bell.,Tanpri rive anvan klòch la.,education
+238,en,ht,Doors close after the start time.,Pòt yo fèmen apre lè kòmansman.,education
+239,en,ht,Sign-in is required after arrival.,Enskripsyon obligatwa apre arive.,education
+240,en,ht,Thank you for supporting punctuality.,Mèsi paske w sipòte ponktyalite.,education
+241,en,ht,School uniforms must be clean.,Inifòm lekòl yo dwe pwòp.,education
+242,en,ht,Hair and accessories should be appropriate.,Cheve ak akseswa dwe apwopriye.,education
+243,en,ht,Hats are not allowed indoors.,Chapo pa otorize andedan.,education
+244,en,ht,Outerwear should be weather appropriate.,Rad deyò dwe adapte ak tan an.,education
+245,en,ht,Personal items should stay at home.,Objè pèsonèl dwe rete lakay.,education
+246,en,ht,Toys are not permitted at school.,Jwèt pa pèmèt nan lekòl.,education
+247,en,ht,Electronic devices must be turned off.,Aparèy elektwonik dwe etenn.,education
+248,en,ht,Phones are collected during class.,Nou ranmase telefòn pandan klas.,education
+249,en,ht,Lost items are not the school’s responsibility.,Lekòl la pa responsab objè pèdi.,education
+250,en,ht,Please remind students of these rules.,Tanpri raple elèv yo règ sa yo.,education
+251,en,ht,Transportation changes must be in writing.,Chanjman transpò dwe ekri.,education
+252,en,ht,Same-day changes are not guaranteed.,Chanjman menm jou pa garanti.,education
+253,en,ht,Only authorized adults may pick up students.,Se sèlman granmoun otorize ki ka pran elèv.,education
+254,en,ht,Photo ID will be checked.,Y ap verifye kat idantite.,education
+255,en,ht,Bus routes have been updated.,Wout bis yo mete ajou.,education
+256,en,ht,Expect minor delays.,Atann ti reta.,education
+257,en,ht,Traffic conditions may vary.,Kondisyon sikilasyon ka varye.,education
+258,en,ht,Please follow dismissal procedures.,Tanpri swiv pwosedi sòti yo.,education
+259,en,ht,Students must remain supervised.,Elèv yo dwe toujou anba sipèvizyon.,education
+260,en,ht,Safety during dismissal is important.,Sekirite lè sòti enpòtan.,education
+261,en,ht,Meals meet nutrition guidelines.,Manje yo respekte gid nitrisyon.,education
+262,en,ht,Breakfast is served daily.,Nou bay dejene chak jou.,education
+263,en,ht,Please arrive early for breakfast.,Tanpri rive bonè pou dejene.,education
+264,en,ht,Special dietary needs are accommodated.,Nou pran an kont bezwen alimantè espesyal.,education
+265,en,ht,Submit dietary requests in advance.,Soumèt demann alimantè davans.,education
+266,en,ht,Snacks must be healthy.,Goute yo dwe an sante.,education
+267,en,ht,Food sharing is not allowed.,Pataje manje pa pèmèt.,education
+268,en,ht,Handwashing is encouraged before meals.,Nou ankouraje lave men anvan manje.,education
+269,en,ht,Classroom celebrations follow guidelines.,Selebrasyon klas swiv direktiv.,education
+270,en,ht,Contact the school for questions about meals.,Kontakte lekòl la pou kesyon sou manje.,education
+271,en,ht,Teachers are available by appointment.,Pwofesè yo disponib sou randevou.,education
+272,en,ht,Please respect teacher office hours.,Tanpri respekte lè biwo pwofesè yo.,education
+273,en,ht,Email is the preferred contact method.,Imèl se mwayen kontak prefere.,education
+274,en,ht,Allow 24 hours for a response.,Tanpri bay 24 èdtan pou repons.,education
+275,en,ht,Messages sent after hours will be answered next day.,Mesaj apre lè yo ap reponn denmen.,education
+276,en,ht,Urgent matters should be called in.,Kesyon ijan dwe rele.,education
+277,en,ht,Clear communication helps everyone.,Kominikasyon klè ede tout moun.,education
+278,en,ht,We encourage respectful dialogue.,Nou ankouraje dyalòg respè.,education
+279,en,ht,Concerns will be addressed promptly.,Nou pral trete enkyetid yo vit.,education
+280,en,ht,Thank you for communicating with us.,Mèsi paske w kominike avèk nou.,education
+281,en,ht,Student records are confidential.,Dosye elèv yo konfidansyèl.,education
+282,en,ht,Privacy laws protect student information.,Lwa sou vi prive pwoteje enfòmasyon elèv.,education
+283,en,ht,Photos may be taken for school use.,Nou ka pran foto pou itilizasyon lekòl.,education
+284,en,ht,Media consent is required.,Konsantman medya obligatwa.,education
+285,en,ht,Opt-out forms are available.,Gen fòm pou refize.,education
+286,en,ht,Student work may be displayed.,Travay elèv yo ka ekspoze.,education
+287,en,ht,Online platforms are secure.,Platfòm sou entènèt yo an sekirite.,education
+288,en,ht,Passwords should not be shared.,Modpas pa dwe pataje.,education
+289,en,ht,Report any security concerns.,Rapòte nenpòt pwoblèm sekirite.,education
+290,en,ht,Thank you for protecting student privacy.,Mèsi paske w pwoteje vi prive elèv yo.,education
+291,en,ht,Clubs and activities are available.,Gen klib ak aktivite.,education
+292,en,ht,After-school activities require permission.,Aktivite apre lekòl bezwen otorizasyon.,education
+293,en,ht,Activity schedules are posted.,Orè aktivite yo afiche.,education
+294,en,ht,Transportation is not provided for activities.,Pa gen transpò pou aktivite.,education
+295,en,ht,Participation builds confidence.,Patisipasyon devlope konfyans.,education
+296,en,ht,Encourage your child to get involved.,Ankouraje pitit ou patisipe.,education
+297,en,ht,Sports physicals are required.,Egzamen medikal espò obligatwa.,education
+298,en,ht,Practice schedules may change.,Orè pratik yo ka chanje.,education
+299,en,ht,Games and events are announced in advance.,Nou anonse match ak evènman davans.,education
+300,en,ht,Support good sportsmanship.,Sipòte bon lespri espòtif.,education
+301,en,ht,School surveys will be sent out.,Nou pral voye sondaj lekòl.,education
+302,en,ht,Your feedback helps improve our school.,Opinyon ou ede amelyore lekòl la.,education
+303,en,ht,Survey responses are anonymous.,Repons sondaj yo anonim.,education
+304,en,ht,Please complete the survey by Friday.,Tanpri ranpli sondaj la anvan vandredi.,education
+305,en,ht,Community input is valued.,Opinyon kominote a gen anpil valè.,education
+306,en,ht,Town hall meetings are planned.,Reyinyon kominotè pwograme.,education
+307,en,ht,Join us for open discussion.,Vin patisipe nan diskisyon ouvè.,education
+308,en,ht,All voices are welcome.,Tout vwa yo byenveni.,education
+309,en,ht,We strive for continuous improvement.,Nou vize amelyorasyon kontinyèl.,education
+310,en,ht,Thank you for helping us grow.,Mèsi paske w ede nou grandi.,education
+311,en,ht,Academic goals were reviewed.,Nou revize objektif akademik yo.,education
+312,en,ht,Individual learning plans are in place.,Gen plan aprantisaj endividyèl.,education
+313,en,ht,Support services are available.,Gen sèvis sipò disponib.,education
+314,en,ht,Counseling services are offered.,Nou bay sèvis konsèy.,education
+315,en,ht,Social-emotional learning is emphasized.,Nou mete aksan sou aprantisaj sosyal-emosyonèl.,education
+316,en,ht,Students practice conflict resolution.,Elèv yo pratike rezolisyon konfli.,education
+317,en,ht,Positive relationships are encouraged.,Relasyon pozitif ankouraje.,education
+318,en,ht,Mental health resources are available.,Gen resous sante mantal.,education
+319,en,ht,Reach out if your child needs support.,Kontakte nou si pitit ou bezwen sipò.,education
+320,en,ht,We care about student well-being.,Nou pran byennèt elèv yo oserye.,education
+321,en,ht,Classroom materials are provided.,Materyèl klas yo disponib.,education
+322,en,ht,Students should take care of supplies.,Elèv yo dwe pran swen founiti yo.,education
+323,en,ht,Damaged materials may need replacement.,Materyèl domaje ka bezwen ranplasman.,education
+324,en,ht,Shared spaces must be respected.,Espas pataje yo dwe respekte.,education
+325,en,ht,Clean-up routines are taught.,Nou anseye woutin netwayaj.,education
+326,en,ht,Responsibility is part of learning.,Responsablite fè pati aprantisaj.,education
+327,en,ht,Classroom rules are reviewed regularly.,Nou revize règ klas yo regilyèman.,education
+328,en,ht,Consistency helps students succeed.,Konsistans ede elèv reyisi.,education
+329,en,ht,Positive reinforcement is used.,Nou itilize ranfòsman pozitif.,education
+330,en,ht,Thank you for reinforcing expectations at home.,Mèsi paske w ranfòse atant yo lakay.,education
+331,en,ht,The school calendar has been updated.,Kalandriye lekòl la mete ajou.,education
+332,en,ht,Please mark important dates.,Tanpri make dat enpòtan yo.,education
+333,en,ht,Schedule changes will be communicated.,Nou pral kominike chanjman orè.,education
+334,en,ht,Check the calendar regularly.,Tcheke kalandriye a regilyèman.,education
+335,en,ht,Early notice helps with planning.,Avi bonè ede planifikasyon.,education
+336,en,ht,School events may be rescheduled.,Evènman lekòl yo ka repwograme.,education
+337,en,ht,Weather-related updates will be shared.,Nou pral pataje nouvèl sou move tan.,education
+338,en,ht,Please rely on official school messages.,Tanpri fye sou mesaj ofisyèl lekòl.,education
+339,en,ht,Avoid spreading unconfirmed information.,Evite pataje enfòmasyon pa konfime.,education
+340,en,ht,Thank you for staying informed.,Mèsi paske w rete enfòme.,education
+341,en,ht,The school promotes inclusion.,Lekòl la ankouraje enklizyon.,education
+342,en,ht,Diversity is respected and celebrated.,Nou respekte epi selebre divèsite.,education
+343,en,ht,All students deserve respect.,Tout elèv merite respè.,education
+344,en,ht,Inclusive language is encouraged.,Nou ankouraje langaj enklizif.,education
+345,en,ht,Cultural awareness is part of learning.,Konsyans kiltirèl fè pati aprantisaj.,education
+346,en,ht,Students learn to value differences.,Elèv yo aprann bay diferans valè.,education
+347,en,ht,Families from all backgrounds are welcome.,Fanmi tout orijin byenveni.,education
+348,en,ht,Community partnerships strengthen learning.,Patenarya kominotè ranfòse aprantisaj.,education
+349,en,ht,Respectful behavior is expected from all.,Konpòtman respè atann nan men tout moun.,education
+350,en,ht,Thank you for supporting an inclusive school.,Mèsi paske w sipòte yon lekòl enklizif.,education
+351,en,ht,End-of-year activities are approaching.,Aktivite fen ane ap pwoche.,education
+352,en,ht,Promotion ceremonies are planned.,Seremoni pwomosyon pwograme.,education
+353,en,ht,Graduation details will be shared soon.,Detay gradyasyon ap vini byento.,education
+354,en,ht,Tickets may be required for events.,Tikè ka obligatwa pou evènman.,education
+355,en,ht,Dress guidelines will be provided.,Nou pral bay gid abiman.,education
+356,en,ht,Students should arrive early on event days.,Elèv yo dwe rive bonè jou evènman.,education
+357,en,ht,Photography guidelines will apply.,Gid fotografi ap aplike.,education
+358,en,ht,Celebrations should remain respectful.,Selebrasyon yo dwe rete respè.,education
+359,en,ht,Thank you for celebrating student achievements.,Mèsi paske w selebre reyalizasyon elèv yo.,education
+360,en,ht,We are proud of our students.,Nou fyè de elèv nou yo.,education
+361,en,ht,Summer learning opportunities are available.,Gen opòtinite aprantisaj ete.,education
+362,en,ht,Optional enrichment programs are offered.,Nou ofri pwogram anrichisman opsyonèl.,education
+363,en,ht,Registration for summer programs is open.,Enskripsyon pou pwogram ete ouvè.,education
+364,en,ht,Learning continues beyond the school year.,Aprantisaj kontinye apre ane lekòl.,education
+365,en,ht,Encourage reading over the summer.,Ankouraje lekti pandan ete.,education
+366,en,ht,Practice skills regularly.,Pratike konpetans regilyèman.,education
+367,en,ht,Maintain daily routines.,Kenbe woutin chak jou.,education
+368,en,ht,Stay connected with school updates.,Rete konekte ak nouvèl lekòl.,education
+369,en,ht,Contact us with summer questions.,Kontakte nou pou kesyon ete.,education
+370,en,ht,We wish you a safe and restful break.,Nou swete ou yon poz san danje.,education
+371,en,ht,Thank you for a successful school year.,Mèsi pou yon ane lekòl reyisi.,education
+372,en,ht,Your partnership made a difference.,Patenarya ou fè diferans.,education
+373,en,ht,We appreciate your continued support.,Nou apresye sipò kontinyèl ou.,education
+374,en,ht,Our school community is stronger together.,Kominote lekòl nou pi fò ansanm.,education
+375,en,ht,We look forward to the coming year.,Nou gade avni ane k ap vini an.,education
+376,en,ht,Please watch for back-to-school information.,Tanpri tann enfòmasyon retou lekòl.,education
+377,en,ht,Important updates will be shared soon.,Nouvèl enpòtan ap vini byento.,education
+378,en,ht,Enjoy your time with family.,Pase bon moman ak fanmi.,education
+379,en,ht,Stay safe and healthy.,Rete an sekirite ak an sante.,education
+380,en,ht,Thank you for being part of our journey.,Mèsi paske w fè pati vwayaj nou.,education
+381,en,ht,This message contains general information.,Mesaj sa a gen enfòmasyon jeneral.,education
+382,en,ht,Details may change as needed.,Detay yo ka chanje si sa nesesè.,education
+383,en,ht,Please keep messages for reference.,Tanpri kenbe mesaj yo kòm referans.,education
+384,en,ht,Updates will be sent through official channels.,Nou pral voye nouvèl atravè chanèl ofisyèl.,education
+385,en,ht,Do not rely on unofficial sources.,Pa konte sou sous ki pa ofisyèl.,education
+386,en,ht,We are committed to clear communication.,Nou angaje nan kominikasyon klè.,education
+387,en,ht,Your attention to these messages is appreciated.,Nou apresye atansyon ou sou mesaj sa yo.,education
+388,en,ht,Thank you for reading.,Mèsi paske w li.,education
+389,en,ht,Please share this information responsibly.,Tanpri pataje enfòmasyon sa a ak responsabilite.,education
+390,en,ht,Contact the school if clarification is needed.,Kontakte lekòl la si w bezwen klarifikasyon.,education
+391,en,ht,We value strong school-family connections.,Nou bay relasyon lekòl-fanmi anpil valè.,education
+392,en,ht,Working together benefits students.,Travay ansanm benefisye elèv yo.,education
+393,en,ht,Your role in your child’s education matters.,Wòl ou nan edikasyon pitit ou enpòtan.,education
+394,en,ht,Open communication supports success.,Kominikasyon ouvè sipòte siksè.,education
+395,en,ht,We welcome your questions and ideas.,Nou byenveni kesyon ak ide ou.,education
+396,en,ht,Thank you for trusting our school.,Mèsi paske w fè lekòl nou konfyans.,education
+397,en,ht,We are grateful for your involvement.,Nou rekonesan pou patisipasyon ou.,education
+398,en,ht,This message is part of ongoing communication.,Mesaj sa a fè pati kominikasyon kontinyèl.,education
+399,en,ht,More updates will be shared as available.,Nou pral pataje plis nouvèl lè sa disponib.,education
+400,en,ht,Thank you for your continued partnership.,Mèsi pou patenarya kontinyèl ou.,education
+401,en,ht,Please complete the attached checklist.,Tanpri ranpli lis verifikasyon ki annèks la.,education
+402,en,ht,The checklist helps us prepare.,Lis verifikasyon an ede nou prepare.,education
+403,en,ht,Return all requested items.,Tanpri retounen tout bagay yo mande yo.,education
+404,en,ht,Incomplete submissions may cause delays.,Soumisyon ki pa konplè ka lakòz reta.,education
+405,en,ht,Contact the office for assistance.,Kontakte biwo a pou asistans.,education
+406,en,ht,Office staff are available to help.,Anplwaye biwo a disponib pou ede.,education
+407,en,ht,Please bring this letter with you.,Tanpri pote lèt sa a avèk ou.,education
+408,en,ht,Keep a copy for your records.,Kenbe yon kopi pou dosye ou.,education
+409,en,ht,This form applies to your child.,Fòm sa a konsène pitit ou.,education
+410,en,ht,Submission confirmation will be sent.,N ap voye konfimasyon soumèt.,education
+411,en,ht,Your child demonstrated leadership skills.,Pitit ou montre kapasite lidèchip.,education
+412,en,ht,Collaboration skills are developing.,Konpetans kolaborasyon ap devlope.,education
+413,en,ht,Your child worked well with peers.,Pitit ou te travay byen ak lòt elèv.,education
+414,en,ht,Problem-solving skills were observed.,Nou remake kapasite rezoud pwoblèm.,education
+415,en,ht,Your child followed directions carefully.,Pitit ou swiv enstriksyon yo byen.,education
+416,en,ht,Attention to detail is improving.,Atansyon sou detay ap amelyore.,education
+417,en,ht,Your child showed persistence.,Pitit ou montre pèsistans.,education
+418,en,ht,Classroom engagement was strong.,Angajman nan klas la te bon.,education
+419,en,ht,Encourage confidence in learning.,Ankouraje konfyans nan aprantisaj.,education
+420,en,ht,Positive habits are forming.,Bon abitid ap fòme.,education
+421,en,ht,Please review the weekly folder.,Tanpri revize dosye semèn nan.,education
+422,en,ht,Weekly updates are sent home.,Nou voye mizajou chak semèn.,education
+423,en,ht,Important reminders are included.,Rapèl enpòtan yo enkli.,education
+424,en,ht,This folder should be returned.,Dosye sa a dwe retounen.,education
+425,en,ht,Check the folder every Friday.,Tcheke dosye a chak vandredi.,education
+426,en,ht,Weekly communication supports success.,Kominikasyon chak semèn ede siksè.,education
+427,en,ht,Notes from the teacher are included.,Nòt pwofesè a enkli.,education
+428,en,ht,Please sign the weekly sheet.,Tanpri siyen fèy semèn nan.,education
+429,en,ht,Unsigned folders will be returned.,Dosye ki pa siyen ap retounen.,education
+430,en,ht,Thank you for reviewing weekly materials.,Mèsi paske w revize materyèl semèn yo.,education
+431,en,ht,Your child is adjusting well to routines.,Pitit ou adapte byen ak woutin yo.,education
+432,en,ht,Transitions between activities are improving.,Tranzisyon ant aktivite yo ap amelyore.,education
+433,en,ht,Please reinforce routines at home.,Tanpri ranfòse woutin yo lakay.,education
+434,en,ht,Consistency supports student success.,Konsistans sipòte siksè elèv yo.,education
+435,en,ht,Class expectations were reviewed today.,Atant klas yo te revize jodi a.,education
+436,en,ht,Students practiced following schedules.,Elèv yo pratike swiv orè.,education
+437,en,ht,Visual schedules are used in class.,Nou itilize orè vizyèl nan klas.,education
+438,en,ht,Advance notice helps students prepare.,Avi davans ede elèv prepare.,education
+439,en,ht,Structure helps reduce anxiety.,Estrikti ede diminye enkyetid.,education
+440,en,ht,Thank you for supporting routines.,Mèsi paske w sipòte woutin yo.,education
+441,en,ht,Classroom seating arrangements may change.,Aranjman chita nan klas la ka chanje.,education
+442,en,ht,Flexible seating supports learning.,Chita fleksib sipòte aprantisaj.,education
+443,en,ht,Students are encouraged to stay focused.,Nou ankouraje elèv yo rete konsantre.,education
+444,en,ht,Movement breaks are included.,Nou mete poz mouvman.,education
+445,en,ht,Breaks help students reset attention.,Poz ede elèv rekonsantre.,education
+446,en,ht,Quiet work time is practiced.,Nou pratike tan travay an silans.,education
+447,en,ht,Independent learning is emphasized.,Nou mete aksan sou aprantisaj endepandan.,education
+448,en,ht,Students practice self-management.,Elèv yo pratike oto-jesyon.,education
+449,en,ht,Classroom environment supports learning.,Anviwònman klas la sipòte aprantisaj.,education
+450,en,ht,We strive to meet diverse learning needs.,Nou fè efò pou satisfè bezwen aprantisaj divès.,education
+451,en,ht,Your child used school technology responsibly.,Pitit ou itilize teknoloji lekòl la responsab.,education
+452,en,ht,Digital citizenship is taught.,Nou anseye sitwayènte dijital.,education
+453,en,ht,Online behavior expectations were reviewed.,Atant konpòtman sou entènèt revize.,education
+454,en,ht,Students learn safe internet practices.,Elèv yo aprann pratik entènèt an sekirite.,education
+455,en,ht,Please monitor online activity at home.,Tanpri siveye aktivite sou entènèt lakay.,education
+456,en,ht,School devices are for learning only.,Aparèy lekòl yo se pou aprantisaj sèlman.,education
+457,en,ht,Misuse of technology may result in consequences.,Move itilizasyon teknoloji ka gen konsekans.,education
+458,en,ht,Report technical issues promptly.,Rapòte pwoblèm teknik vit.,education
+459,en,ht,Software updates may occur automatically.,Mizajou lojisyèl ka fèt otomatikman.,education
+460,en,ht,Thank you for supporting responsible technology use.,Mèsi paske w sipòte itilizasyon teknoloji responsab.,education
+461,en,ht,Your child participated in group discussion.,Pitit ou patisipe nan diskisyon an gwoup.,education
+462,en,ht,Listening skills are being developed.,Konpetans koute ap devlope.,education
+463,en,ht,Students practice taking turns speaking.,Elèv yo pratike pale pa ranje.,education
+464,en,ht,Respectful listening is expected.,Koute avèk respè atann.,education
+465,en,ht,Class discussions support critical thinking.,Diskisyon klas yo sipòte panse kritik.,education
+466,en,ht,Students are encouraged to ask for help.,Nou ankouraje elèv mande èd.,education
+467,en,ht,Help-seeking skills are important.,Konpetans mande èd enpòtan.,education
+468,en,ht,Your child asked for clarification appropriately.,Pitit ou mande klarifikasyon byen.,education
+469,en,ht,Classroom questions are welcomed.,Kesyon nan klas yo byenveni.,education
+470,en,ht,Thank you for encouraging communication.,Mèsi paske w ankouraje kominikasyon.,education
+471,en,ht,School-wide expectations are posted.,Atant lekòl la afiche.,education
+472,en,ht,Students review expectations regularly.,Elèv yo revize atant yo regilyèman.,education
+473,en,ht,Clear rules help maintain order.,Règ klè ede kenbe lòd.,education
+474,en,ht,Consistency across classrooms is important.,Konsistans ant klas yo enpòtan.,education
+475,en,ht,Staff collaborate to support students.,Anplwaye yo kolabore pou sipòte elèv.,education
+476,en,ht,Positive school culture is a priority.,Kilti lekòl pozitif se priyorite.,education
+477,en,ht,Students are recognized for positive choices.,Nou rekonèt elèv pou bon chwa.,education
+478,en,ht,Recognition programs encourage effort.,Pwogram rekonesans ankouraje efò.,education
+479,en,ht,Celebrating progress motivates learners.,Selebre pwogrè motive elèv.,education
+480,en,ht,Thank you for supporting school culture.,Mèsi paske w sipòte kilti lekòl la.,education
+481,en,ht,Your child will participate in assessments.,Pitit ou pral patisipe nan evalyasyon.,education
+482,en,ht,Assessments help guide instruction.,Evalyasyon ede gide ansèyman.,education
+483,en,ht,Testing environments are kept calm.,Anviwònman egzamen yo rete trankil.,education
+484,en,ht,Please ensure your child gets enough rest.,Tanpri asire pitit ou repoze ase.,education
+485,en,ht,Healthy routines support assessment performance.,Bon woutin sipòte pèfòmans evalyasyon.,education
+486,en,ht,Results will be reviewed carefully.,Rezilta yo pral revize ak atansyon.,education
+487,en,ht,Assessment data informs next steps.,Done evalyasyon gide pwochen etap.,education
+488,en,ht,Families will be informed of outcomes.,Fanmi yo pral enfòme sou rezilta.,education
+489,en,ht,Questions about assessments are welcome.,Kesyon sou evalyasyon yo byenveni.,education
+490,en,ht,Thank you for supporting assessment readiness.,Mèsi paske w sipòte preparasyon evalyasyon.,education
+491,en,ht,School counselors are available to students.,Konseye lekòl yo disponib pou elèv.,education
+492,en,ht,Counselors support academic planning.,Konseye yo sipòte planifikasyon akademik.,education
+493,en,ht,Social skills groups may be offered.,Gwoup konpetans sosyal ka ofri.,education
+494,en,ht,Referrals can be requested.,Ou ka mande referans.,education
+495,en,ht,Parent consent is required for services.,Konsantman paran obligatwa pou sèvis.,education
+496,en,ht,Support plans are reviewed regularly.,Plan sipò yo revize regilyèman.,education
+497,en,ht,Progress will be communicated with families.,Pwogrè ap kominike ak fanmi.,education
+498,en,ht,Collaboration supports student growth.,Kolaborasyon sipòte devlopman elèv.,education
+499,en,ht,Please reach out with support questions.,Tanpri kontakte nou pou kesyon sipò.,education
+500,en,ht,We are committed to helping every student.,Nou angaje pou ede chak elèv.,education
+501,en,ht,Classroom supplies are shared resources.,Founiti klas yo se resous pataje.,education
+502,en,ht,Respect for shared materials is expected.,Respè pou materyèl pataje atann.,education
+503,en,ht,Students are taught to organize materials.,Nou anseye elèv òganize materyèl.,education
+504,en,ht,Organization supports learning success.,Òganizasyon sipòte siksè aprantisaj.,education
+505,en,ht,Backpacks should be cleaned regularly.,Sak lekòl yo dwe netwaye regilyèman.,education
+506,en,ht,Please remove unnecessary items.,Tanpri retire bagay ki pa nesesè.,education
+507,en,ht,Light backpacks help with safety.,Sak lejè ede sekirite.,education
+508,en,ht,Lockers should be kept tidy.,Kazye yo dwe rete pwòp.,education
+509,en,ht,Lock combinations should not be shared.,Kòd kazye pa dwe pataje.,education
+510,en,ht,Thank you for supporting organization skills.,Mèsi paske w sipòte konpetans òganizasyon.,education
+511,en,ht,School partnerships support student learning.,Patenarya lekòl sipòte aprantisaj elèv.,education
+512,en,ht,Community organizations collaborate with schools.,Òganizasyon kominotè kolabore ak lekòl.,education
+513,en,ht,Guest speakers may visit classrooms.,Envite espesyal ka vizite klas.,education
+514,en,ht,All visitors follow school protocols.,Tout vizitè swiv pwotokòl lekòl.,education
+515,en,ht,Learning extends beyond the classroom.,Aprantisaj depase sal klas la.,education
+516,en,ht,Real-world connections enhance lessons.,Koneksyon ak lavi reyèl amelyore leson.,education
+517,en,ht,Field experiences support curriculum.,Eksperyans deyò sipòte kourikoulòm.,education
+518,en,ht,Safety guidelines are followed during visits.,Nou swiv gid sekirite pandan vizit.,education
+519,en,ht,Parent volunteers may assist when approved.,Volontè paran ka ede si yo apwouve.,education
+520,en,ht,Thank you for supporting community partnerships.,Mèsi paske w sipòte patenarya kominotè.,education
+521,en,ht,Your child demonstrated curiosity.,Pitit ou montre kiryozite.,education
+522,en,ht,Curiosity supports deeper learning.,Kiryozite sipòte aprantisaj pwofon.,education
+523,en,ht,Students explore topics through inquiry.,Elèv yo eksplore sijè pa ankèt.,education
+524,en,ht,Questions drive meaningful learning.,Kesyon pouse aprantisaj ki gen sans.,education
+525,en,ht,Hands-on activities are included.,Nou mete aktivite pratik.,education
+526,en,ht,Experiential learning supports understanding.,Aprantisaj eksperyansyèl sipòte konpreyansyon.,education
+527,en,ht,Students reflect on their learning.,Elèv yo reflechi sou aprantisaj yo.,education
+528,en,ht,Reflection builds self-awareness.,Refleksyon devlope konsyans tèt.,education
+529,en,ht,Encourage discussion about learning at home.,Ankouraje diskisyon sou aprantisaj lakay.,education
+530,en,ht,Thank you for fostering curiosity.,Mèsi paske w ankouraje kiryozite.,education
+531,en,ht,End-of-day procedures are followed.,Nou swiv pwosedi fen jounen.,education
+532,en,ht,Students pack materials before dismissal.,Elèv yo ranje materyèl anvan sòti.,education
+533,en,ht,Classrooms are cleaned daily.,Sal klas yo netwaye chak jou.,education
+534,en,ht,Students help maintain clean spaces.,Elèv yo ede kenbe espas pwòp.,education
+535,en,ht,Responsibility is practiced daily.,Responsablite pratike chak jou.,education
+536,en,ht,Daily routines support independence.,Woutin chak jou sipòte endepandans.,education
+537,en,ht,Visual reminders support procedures.,Rapèl vizyèl sipòte pwosedi.,education
+538,en,ht,Teachers review expectations before dismissal.,Pwofesè yo revize atant anvan sòti.,education
+539,en,ht,Orderly dismissal keeps students safe.,Sòti òdone kenbe elèv an sekirite.,education
+540,en,ht,Thank you for supporting end-of-day routines.,Mèsi paske w sipòte woutin fen jounen.,education
+541,en,ht,School communication is sent in multiple formats.,Kominikasyon lekòl la voye plizyè fason.,education
+542,en,ht,Printed notices may be provided.,Avi sou papye ka bay.,education
+543,en,ht,Digital messages supplement paper notices.,Mesaj dijital konplete avi papye.,education
+544,en,ht,Check all communication channels.,Tcheke tout chanèl kominikasyon.,education
+545,en,ht,Consistent communication reduces confusion.,Kominikasyon regilye diminye konfizyon.,education
+546,en,ht,Families are encouraged to stay informed.,Fanmi yo ankouraje rete enfòme.,education
+547,en,ht,Updates are sent as information becomes available.,Nou voye mizajou lè gen nouvèl.,education
+548,en,ht,Please contact us if messages are unclear.,Tanpri kontakte nou si mesaj yo pa klè.,education
+549,en,ht,We strive for timely communication.,Nou vize kominikasyon alè.,education
+550,en,ht,Thank you for staying engaged.,Mèsi paske w rete angaje.,education
+551,en,ht,School values guide daily decisions.,Valè lekòl la gide desizyon chak jou.,education
+552,en,ht,Respect and responsibility are emphasized.,Nou mete aksan sou respè ak responsablite.,education
+553,en,ht,Students learn to make positive choices.,Elèv yo aprann fè chwa pozitif.,education
+554,en,ht,Character education is part of the curriculum.,Edikasyon karaktè fè pati kourikoulòm.,education
+555,en,ht,Positive role models are highlighted.,Nou mete modèl pozitif an valè.,education
+556,en,ht,Kindness is encouraged daily.,Jantiyès ankouraje chak jou.,education
+557,en,ht,Students practice empathy.,Elèv yo pratike konpasyon.,education
+558,en,ht,Community values are reinforced.,Valè kominotè yo ranfòse.,education
+559,en,ht,Families play a key role in character development.,Fanmi yo gen wòl kle nan devlopman karaktè.,education
+560,en,ht,Thank you for supporting our values.,Mèsi paske w sipòte valè nou yo.,education
+561,en,ht,School staff regularly review procedures.,Anplwaye lekòl yo revize pwosedi regilyèman.,education
+562,en,ht,Continuous improvement is a priority.,Amelyorasyon kontinyèl se priyorite.,education
+563,en,ht,Feedback informs school planning.,Opinyon ede planifikasyon lekòl.,education
+564,en,ht,Data is used responsibly.,Done yo itilize ak responsabilite.,education
+565,en,ht,Student outcomes guide decisions.,Rezilta elèv yo gide desizyon.,education
+566,en,ht,Professional development supports teachers.,Fòmasyon pwofesyonèl sipòte pwofesè.,education
+567,en,ht,Staff collaborate to improve instruction.,Anplwaye yo kolabore pou amelyore ansèyman.,education
+568,en,ht,Best practices are shared across teams.,Nou pataje pi bon pratik ant ekip.,education
+569,en,ht,School improvement is a shared effort.,Amelyorasyon lekòl se efò kolektif.,education
+570,en,ht,Thank you for supporting school improvement.,Mèsi paske w sipòte amelyorasyon lekòl.,education
+571,en,ht,Your child’s progress will be monitored.,Pwogrè pitit ou pral siveye.,education
+572,en,ht,Monitoring helps identify needs early.,Siveyans ede idantifye bezwen bonè.,education
+573,en,ht,Early support leads to better outcomes.,Sipò bonè mennen pi bon rezilta.,education
+574,en,ht,Interventions are adjusted as needed.,Entèvansyon yo ajiste jan sa nesesè.,education
+575,en,ht,Families are informed of support strategies.,Fanmi yo enfòme sou estrateji sipò.,education
+576,en,ht,Collaboration strengthens interventions.,Kolaborasyon ranfòse entèvansyon.,education
+577,en,ht,Progress is reviewed regularly.,Pwogrè revize regilyèman.,education
+578,en,ht,Adjustments are made based on data.,Ajisteman fèt selon done.,education
+579,en,ht,Questions about progress are welcome.,Kesyon sou pwogrè yo byenveni.,education
+580,en,ht,We are committed to student growth.,Nou angaje pou devlopman elèv.,education
+581,en,ht,End-of-term procedures are underway.,Pwosedi fen peryòd ap fèt.,education
+582,en,ht,Final projects are being completed.,Pwojè final yo ap fini.,education
+583,en,ht,Students reflect on learning goals.,Elèv yo reflechi sou objektif aprantisaj.,education
+584,en,ht,Goal-setting supports future success.,Fikse objektif sipòte siksè alavni.,education
+585,en,ht,Families will receive summary updates.,Fanmi yo pral resevwa rezime.,education
+586,en,ht,Celebrating effort and growth is important.,Selebre efò ak pwogrè enpòtan.,education
+587,en,ht,Recognition events may be held.,Evènman rekonesans ka fèt.,education
+588,en,ht,Details will be shared closer to the date.,Detay yo pral pataje pi pre dat la.,education
+589,en,ht,Thank you for supporting students through transitions.,Mèsi paske w sipòte elèv pandan tranzisyon.,education
+590,en,ht,We appreciate your partnership throughout the term.,Nou apresye patenarya ou pandan peryòd la.,education
+591,en,ht,School operations will pause during breaks.,Operasyon lekòl yo ap sispann pandan poz.,education
+592,en,ht,Limited staff may be available.,Anplwaye limite ka disponib.,education
+593,en,ht,Responses may be delayed during breaks.,Repons yo ka pran reta pandan poz.,education
+594,en,ht,Emergency contacts remain active.,Kontak ijans yo rete aktif.,education
+595,en,ht,Regular operations resume after the break.,Operasyon nòmal reprann apre poz la.,education
+596,en,ht,Please plan accordingly.,Tanpri planifye an konsekans.,education
+597,en,ht,Important notices will still be sent.,Avi enpòtan ap toujou voye.,education
+598,en,ht,Monitor messages during the break.,Siveye mesaj pandan poz la.,education
+599,en,ht,Thank you for your patience during closures.,Mèsi pou pasyans ou pandan fèmti.,education
+600,en,ht,We look forward to reconnecting soon.,Nou swete rekonekte byento.,education
+601,en,ht,Please update your contact information.,Tanpri mete enfòmasyon kontak ou ajou.,education
+602,en,ht,Accurate contact details are essential.,Enfòmasyon kontak egzat enpòtan.,education
+603,en,ht,Notify the school of address changes.,Fè lekòl la konnen si adrès ou chanje.,education
+604,en,ht,Emergency contacts should be current.,Kontak ijans yo dwe ajou.,education
+605,en,ht,Multiple contacts are recommended.,Plizyè kontak rekòmande.,education
+606,en,ht,Please list trusted adults only.,Tanpri mete sèlman granmoun ou fè konfyans.,education
+607,en,ht,This information is kept confidential.,Enfòmasyon sa a rete konfidansyèl.,education
+608,en,ht,Updates can be submitted online.,Ou ka soumèt mizajou sou entènèt.,education
+609,en,ht,Paper updates are also accepted.,Nou aksepte mizajou sou papye tou.,education
+610,en,ht,Thank you for keeping records current.,Mèsi paske w kenbe dosye yo ajou.,education
+611,en,ht,Please notify us of custody changes.,Tanpri fè nou konnen si gen chanjman gad.,education
+612,en,ht,Legal documentation may be required.,Dokiman legal ka obligatwa.,education
+613,en,ht,Student safety is our priority.,Sekirite elèv yo se priyorite nou.,education
+614,en,ht,Information is reviewed by administration.,Administrasyon an revize enfòmasyon yo.,education
+615,en,ht,Access permissions are strictly followed.,Nou swiv otorizasyon aksè yo strik.,education
+616,en,ht,Pickup restrictions must be documented.,Restriksyon ranmasaj dwe dokimante.,education
+617,en,ht,Please submit updates promptly.,Tanpri soumèt mizajou yo vit.,education
+618,en,ht,Changes take effect once approved.,Chanjman yo pran efè apre apwobasyon.,education
+619,en,ht,Contact the office with questions.,Kontakte biwo a pou kesyon.,education
+620,en,ht,Thank you for helping us ensure safety.,Mèsi paske w ede asire sekirite.,education
+621,en,ht,Your child participated in classroom routines.,Pitit ou patisipe nan woutin klas la.,education
+622,en,ht,Independence skills are developing.,Konpetans endepandans ap devlope.,education
+623,en,ht,Students practice managing materials.,Elèv yo pratike jere materyèl.,education
+624,en,ht,Self-check strategies are introduced.,Nou prezante estrateji oto-tcheke.,education
+625,en,ht,Students review their own work.,Elèv yo revize travay pa yo.,education
+626,en,ht,Reflection supports improvement.,Refleksyon sipòte amelyorasyon.,education
+627,en,ht,Mistakes are treated as learning opportunities.,Erè yo konsidere kòm opòtinite aprantisaj.,education
+628,en,ht,Growth mindset is encouraged.,Nou ankouraje mantalite devlopman.,education
+629,en,ht,Students learn perseverance.,Elèv yo aprann pèseverans.,education
+630,en,ht,Thank you for reinforcing resilience.,Mèsi paske w ranfòse rezilyans.,education
+631,en,ht,Please label all personal belongings.,Tanpri make tout afè pèsonèl.,education
+632,en,ht,Unlabeled items are difficult to return.,Atik ki pa make difisil pou retounen.,education
+633,en,ht,Lost items are stored in the main office.,Objè pèdi yo estoke nan biwo prensipal.,education
+634,en,ht,Check the lost and found regularly.,Tcheke objè pèdi yo regilyèman.,education
+635,en,ht,Unclaimed items may be donated.,Atik ki pa reklame ka bay.,education
+636,en,ht,Please review items before donation dates.,Tanpri verifye atik anvan dat donasyon.,education
+637,en,ht,Clothing should be weather appropriate.,Rad yo dwe apwopriye pou tan an.,education
+638,en,ht,Spare clothing is recommended.,Rad anplis rekòmande.,education
+639,en,ht,Label jackets and sweaters clearly.,Make jakèt ak chanday klèman.,education
+640,en,ht,Thank you for helping reduce lost items.,Mèsi paske w ede diminye objè pèdi.,education
+641,en,ht,School meals follow nutrition guidelines.,Manje lekòl yo swiv gid nitrisyon.,education
+642,en,ht,Menus are planned in advance.,Meni yo planifye davans.,education
+643,en,ht,Menu information is shared monthly.,Nou pataje enfòmasyon meni chak mwa.,education
+644,en,ht,Please review menus with your child.,Tanpri revize meni yo ak pitit ou.,education
+645,en,ht,Dietary needs should be communicated.,Bezwen alimantè dwe kominike.,education
+646,en,ht,Medical documentation may be required.,Dokiman medikal ka obligatwa.,education
+647,en,ht,Alternate meal options may be available.,Opsyon manje altènatif ka disponib.,education
+648,en,ht,Students are encouraged to try new foods.,Nou ankouraje elèv eseye nouvo manje.,education
+649,en,ht,Hydration is encouraged throughout the day.,Nou ankouraje bwè dlo pandan jounen an.,education
+650,en,ht,Thank you for supporting healthy habits.,Mèsi paske w sipòte bon abitid sante.,education
+651,en,ht,Please inform us of cultural considerations.,Tanpri fè nou konnen konsiderasyon kiltirèl.,education
+652,en,ht,Cultural awareness is valued.,Konsyans kiltirèl apresye.,education
+653,en,ht,Class activities reflect diverse backgrounds.,Aktivite klas yo reflete divès orijin.,education
+654,en,ht,Students are encouraged to share traditions.,Nou ankouraje elèv pataje tradisyon.,education
+655,en,ht,Family input enriches learning.,Opinyon fanmi anrichi aprantisaj.,education
+656,en,ht,Please notify us of observances.,Tanpri fè nou konnen obsèvans.,education
+657,en,ht,School calendars consider inclusivity.,Kalandriye lekòl la konsidere enklizyon.,education
+658,en,ht,Adjustments may be made when possible.,Ajisteman ka fèt si posib.,education
+659,en,ht,Respect for diversity is emphasized.,Nou mete aksan sou respè pou divèsite.,education
+660,en,ht,Thank you for sharing your perspectives.,Mèsi paske w pataje pèspektiv ou.,education
+661,en,ht,Your child participated in classroom projects.,Pitit ou patisipe nan pwojè klas yo.,education
+662,en,ht,Projects support collaborative learning.,Pwojè sipòte aprantisaj kolaboratif.,education
+663,en,ht,Students practice planning skills.,Elèv yo pratike konpetans planifikasyon.,education
+664,en,ht,Time management is emphasized.,Nou mete aksan sou jesyon tan.,education
+665,en,ht,Projects are broken into steps.,Pwojè yo divize an etap.,education
+666,en,ht,Checkpoints help monitor progress.,Pwen kontwòl ede swiv pwogrè.,education
+667,en,ht,Students receive feedback during projects.,Elèv yo resevwa fidbak pandan pwojè.,education
+668,en,ht,Final products reflect learning goals.,Pwodwi final yo reflete objektif aprantisaj.,education
+669,en,ht,Effort is valued alongside outcomes.,Efò apresye ansanm ak rezilta.,education
+670,en,ht,Thank you for supporting project work.,Mèsi paske w sipòte travay pwojè.,education
+671,en,ht,Please review the student handbook.,Tanpri revize manyèl elèv la.,education
+672,en,ht,The handbook outlines school policies.,Manyèl la esplike règleman lekòl.,education
+673,en,ht,Policies are updated periodically.,Règleman yo mete ajou detanzantan.,education
+674,en,ht,Families are notified of changes.,Fanmi yo enfòme sou chanjman.,education
+675,en,ht,Acknowledgment of receipt is required.,Konfimasyon resepsyon obligatwa.,education
+676,en,ht,Please sign and return the acknowledgment.,Tanpri siyen epi retounen konfimasyon an.,education
+677,en,ht,Questions about policies are welcome.,Kesyon sou règleman yo byenveni.,education
+678,en,ht,Staff can clarify expectations.,Anplwaye yo ka klarifye atant.,education
+679,en,ht,Understanding policies supports consistency.,Konprann règleman sipòte konsistans.,education
+680,en,ht,Thank you for reviewing school guidelines.,Mèsi paske w revize direktiv lekòl yo.,education
+681,en,ht,Student voice is encouraged.,Vwa elèv yo ankouraje.,education
+682,en,ht,Students share feedback respectfully.,Elèv yo pataje opinyon ak respè.,education
+683,en,ht,Feedback is reviewed thoughtfully.,Opinyon yo revize ak refleksyon.,education
+684,en,ht,Student input informs improvements.,Opinyon elèv gide amelyorasyon.,education
+685,en,ht,Participation builds confidence.,Patisipasyon devlope konfyans.,education
+686,en,ht,Students practice expressing ideas.,Elèv yo pratike eksprime ide.,education
+687,en,ht,Listening to others is emphasized.,Nou mete aksan sou koute lòt moun.,education
+688,en,ht,Respectful dialogue is taught.,Nou anseye dyalòg avèk respè.,education
+689,en,ht,Class meetings support communication.,Reyinyon klas sipòte kominikasyon.,education
+690,en,ht,Thank you for supporting student voice.,Mèsi paske w sipòte vwa elèv.,education
+691,en,ht,School records are maintained securely.,Dosye lekòl yo konsève an sekirite.,education
+692,en,ht,Access to records is restricted.,Aksè ak dosye yo limite.,education
+693,en,ht,Requests for records must be submitted.,Demann dosye yo dwe soumèt.,education
+694,en,ht,Processing time may apply.,Tan tretman ka aplike.,education
+695,en,ht,Identification may be required.,Idantifikasyon ka obligatwa.,education
+696,en,ht,Records are shared according to policy.,Nou pataje dosye selon règleman.,education
+697,en,ht,Please review records for accuracy.,Tanpri verifye dosye yo pou presizyon.,education
+698,en,ht,Notify us of any discrepancies.,Fè nou konnen nenpòt diferans.,education
+699,en,ht,Corrections are made when verified.,Koreksyon fèt lè yo verifye.,education
+700,en,ht,Thank you for helping maintain accurate records.,Mèsi paske w ede kenbe dosye egzat.,education
+701,en,ht,Your child showed responsibility in class.,Pitit ou montre responsablite nan klas.,education
+702,en,ht,Responsibility supports independence.,Responsablite sipòte endepandans.,education
+703,en,ht,Students are trusted with classroom roles.,Nou fè elèv konfyans ak wòl klas.,education
+704,en,ht,Rotating roles build accountability.,Wòl ki chanje devlope responsablite.,education
+705,en,ht,Students learn to contribute positively.,Elèv yo aprann kontribye pozitif.,education
+706,en,ht,Teamwork skills are reinforced.,Konpetans travay an ekip ranfòse.,education
+707,en,ht,Students help one another appropriately.,Elèv yo ede youn lòt kòmsadwa.,education
+708,en,ht,Peer support is encouraged.,Sipò ant elèv ankouraje.,education
+709,en,ht,Classroom community is strengthened.,Kominote klas la vin pi solid.,education
+710,en,ht,Thank you for encouraging responsibility.,Mèsi paske w ankouraje responsablite.,education
+711,en,ht,School events require advance planning.,Evènman lekòl mande planifikasyon davans.,education
+712,en,ht,Details will be shared as available.,Detay yo pral pataje lè disponib.,education
+713,en,ht,Participation is optional unless noted.,Patisipasyon opsyonèl sof si make.,education
+714,en,ht,Permission may be required for attendance.,Otorizasyon ka obligatwa pou patisipe.,education
+715,en,ht,Please review event information carefully.,Tanpri revize enfòmasyon evènman an ak atansyon.,education
+716,en,ht,Volunteers must follow school guidelines.,Volontè yo dwe swiv direktiv lekòl.,education
+717,en,ht,Supervision plans are in place.,Plan sipèvizyon an plas.,education
+718,en,ht,Student safety is considered in planning.,Sekirite elèv konsidere nan planifikasyon.,education
+719,en,ht,Event feedback is appreciated.,Opinyon sou evènman apresye.,education
+720,en,ht,Thank you for supporting school events.,Mèsi paske w sipòte evènman lekòl yo.,education
+721,en,ht,Transitions between grades are supported.,Tranzisyon ant nivo yo sipòte.,education
+722,en,ht,Orientation activities may be offered.,Aktivite oryantasyon ka ofri.,education
+723,en,ht,Students prepare for new expectations.,Elèv yo prepare pou nouvo atant.,education
+724,en,ht,Families receive transition information.,Fanmi yo resevwa enfòmasyon tranzisyon.,education
+725,en,ht,Questions about transitions are welcome.,Kesyon sou tranzisyon yo byenveni.,education
+726,en,ht,Support teams assist with adjustments.,Ekip sipò ede ak adaptasyon.,education
+727,en,ht,Gradual changes reduce stress.,Chanjman pwogresif diminye estrès.,education
+728,en,ht,Students build confidence over time.,Elèv yo bati konfyans ak tan.,education
+729,en,ht,Families play a key role in transitions.,Fanmi yo gen wòl kle nan tranzisyon.,education
+730,en,ht,Thank you for supporting smooth transitions.,Mèsi paske w sipòte tranzisyon fasil.,education
+731,en,ht,Please review your child’s schedule.,Tanpri revize orè pitit ou.,education
+732,en,ht,Schedules are subject to change.,Orè yo ka chanje.,education
+733,en,ht,Updates will be communicated promptly.,Mizajou yo pral kominike vit.,education
+734,en,ht,Class placements consider multiple factors.,Plasman klas konsidere plizyè faktè.,education
+735,en,ht,Requests are reviewed carefully.,Nou revize demann yo ak atansyon.,education
+736,en,ht,Placement decisions aim to balance needs.,Desizyon plasman vize balanse bezwen.,education
+737,en,ht,Final schedules are confirmed before start.,Orè final konfime anvan kòmansman.,education
+738,en,ht,Please notify us of any conflicts.,Tanpri fè nou konnen nenpòt konfli.,education
+739,en,ht,Adjustments may be limited after confirmation.,Ajisteman ka limite apre konfimasyon.,education
+740,en,ht,Thank you for your understanding.,Mèsi pou konpreyansyon ou.,education
+741,en,ht,School policies promote fairness.,Règleman lekòl ankouraje jistis.,education
+742,en,ht,Equal treatment is expected.,Tretman egal atann.,education
+743,en,ht,Decisions follow established guidelines.,Desizyon yo swiv direktiv etabli.,education
+744,en,ht,Concerns should be communicated respectfully.,Enkyetid yo dwe kominike ak respè.,education
+745,en,ht,We strive to address concerns promptly.,Nou fè efò pou adrese enkyetid vit.,education
+746,en,ht,Resolution may involve multiple steps.,Rezolisyon ka gen plizyè etap.,education
+747,en,ht,Documentation supports clarity.,Dokimantasyon sipòte klè.,education
+748,en,ht,Open communication builds trust.,Kominikasyon ouvè bati konfyans.,education
+749,en,ht,Families are partners in education.,Fanmi yo se patnè nan edikasyon.,education
+750,en,ht,Thank you for working with us collaboratively.,Mèsi paske w travay avèk nou an kolaborasyon.,education
+751,en,ht,Your child is developing study habits.,Pitit ou ap devlope abitid etid.,education
+752,en,ht,Study strategies are taught in class.,Nou anseye estrateji etid nan klas.,education
+753,en,ht,Practice helps strengthen skills.,Pratik ede ranfòse konpetans.,education
+754,en,ht,Consistent routines support studying.,Woutin regilye sipòte etid.,education
+755,en,ht,Quiet spaces help concentration.,Espas trankil ede konsantrasyon.,education
+756,en,ht,Short study sessions are effective.,Sesyon etid kout efikas.,education
+757,en,ht,Breaks support focus.,Poz sipòte konsantrasyon.,education
+758,en,ht,Encourage effort over perfection.,Ankouraje efò olye de pèfeksyon.,education
+759,en,ht,Positive reinforcement builds confidence.,Ranforse pozitif bati konfyans.,education
+760,en,ht,Thank you for supporting study habits.,Mèsi paske w sipòte abitid etid.,education
+761,en,ht,School climate surveys may be conducted.,Sondaj klima lekòl ka fèt.,education
+762,en,ht,Survey participation is voluntary.,Patisipasyon nan sondaj se volontè.,education
+763,en,ht,Responses help improve school practices.,Repons yo ede amelyore pratik lekòl.,education
+764,en,ht,Survey results are reviewed collectively.,Rezilta sondaj yo revize kolektivman.,education
+765,en,ht,Confidentiality is maintained.,Konfidansyalite konsève.,education
+766,en,ht,Feedback informs planning decisions.,Opinyon gide desizyon planifikasyon.,education
+767,en,ht,Families are encouraged to share input.,Fanmi yo ankouraje pataje opinyon.,education
+768,en,ht,Survey links will be shared.,Lyen sondaj yo pral pataje.,education
+769,en,ht,Deadlines will be communicated clearly.,Dat limit yo pral kominike klè.,education
+770,en,ht,Thank you for sharing your feedback.,Mèsi paske w pataje opinyon ou.,education
+771,en,ht,School leadership oversees daily operations.,Direksyon lekòl sipèvize operasyon chak jou.,education
+772,en,ht,Administrators support staff and students.,Administratè yo sipòte anplwaye ak elèv.,education
+773,en,ht,Leadership decisions follow policy.,Desizyon direksyon swiv règleman.,education
+774,en,ht,Transparency is valued.,Transparans apresye.,education
+775,en,ht,Updates from leadership are shared regularly.,Mizajou direksyon pataje regilyèman.,education
+776,en,ht,Families are informed of major changes.,Fanmi yo enfòme sou gwo chanjman.,education
+777,en,ht,Questions may be directed to administration.,Kesyon yo ka adrese administrasyon.,education
+778,en,ht,Meetings may be scheduled as needed.,Reyinyon ka pwograme si sa nesesè.,education
+779,en,ht,Collaboration supports strong leadership.,Kolaborasyon sipòte bon direksyon.,education
+780,en,ht,Thank you for trusting our school leadership.,Mèsi paske w fè konfyans direksyon lekòl la.,education
+781,en,ht,School improvement plans are reviewed annually.,Plan amelyorasyon lekòl revize chak ane.,education
+782,en,ht,Goals are set based on data.,Objektif yo fikse selon done.,education
+783,en,ht,Progress toward goals is monitored.,Pwogrè sou objektif yo siveye.,education
+784,en,ht,Adjustments are made as needed.,Ajisteman fèt lè sa nesesè.,education
+785,en,ht,Stakeholder input is considered.,Opinyon patnè yo konsidere.,education
+786,en,ht,Families are informed of progress.,Fanmi yo enfòme sou pwogrè.,education
+787,en,ht,School improvement is ongoing.,Amelyorasyon lekòl kontinyèl.,education
+788,en,ht,Success is a shared responsibility.,Siksè se responsablite pataje.,education
+789,en,ht,Community support strengthens schools.,Sipò kominotè ranfòse lekòl.,education
+790,en,ht,Thank you for being part of our growth.,Mèsi paske w fè pati kwasans nou.,education
+791,en,ht,Please plan for upcoming school deadlines.,Tanpri planifye pou dat limit lekòl k ap vini.,education
+792,en,ht,Deadlines help keep processes organized.,Dat limit ede kenbe pwosesis òganize.,education
+793,en,ht,Late submissions may delay processing.,Soumisyon an reta ka lakòz reta.,education
+794,en,ht,Reminders will be sent in advance.,Rapèl yo pral voye davans.,education
+795,en,ht,Calendars are available for reference.,Kalandriye disponib pou referans.,education
+796,en,ht,Please review important dates regularly.,Tanpri revize dat enpòtan regilyèman.,education
+797,en,ht,Planning ahead reduces stress.,Planifye davans diminye estrès.,education
+798,en,ht,Families are encouraged to stay organized.,Fanmi yo ankouraje rete òganize.,education
+799,en,ht,Questions about deadlines are welcome.,Kesyon sou dat limit yo byenveni.,education
+800,en,ht,Thank you for helping us stay on schedule.,Mèsi paske w ede nou respekte orè.,education
+801,en,ht,Please encourage daily reading at home.,Tanpri ankouraje lekti chak jou lakay.,education
+802,en,ht,Reading builds vocabulary and comprehension.,Lekti devlope vokabilè ak konpreyansyon.,education
+803,en,ht,Short reading sessions are effective.,Sesyon lekti kout efikas.,education
+804,en,ht,Discuss stories together.,Diskite istwa yo ansanm.,education
+805,en,ht,Ask questions about what was read.,Poze kesyon sou sa ki te li.,education
+806,en,ht,Reading aloud supports fluency.,Li awotvwa sipòte flitans.,education
+807,en,ht,Consistent reading habits support success.,Abitid lekti regilye sipòte siksè.,education
+808,en,ht,Library books may be sent home.,Liv bibliyotèk ka voye lakay.,education
+809,en,ht,Please return books on time.,Tanpri retounen liv yo alè.,education
+810,en,ht,Thank you for supporting literacy.,Mèsi paske w sipòte alfabetizasyon.,education
+811,en,ht,Math skills improve with practice.,Konpetans matematik amelyore ak pratik.,education
+812,en,ht,Daily math routines are encouraged.,Woutin matematik chak jou ankouraje.,education
+813,en,ht,Real-life examples support math learning.,Egzanp lavi reyèl sipòte matematik.,education
+814,en,ht,Encourage problem-solving discussions.,Ankouraje diskisyon rezoud pwoblèm.,education
+815,en,ht,Mistakes help identify learning needs.,Erè ede idantifye bezwen aprantisaj.,education
+816,en,ht,Math games reinforce skills.,Jwèt matematik ranfòse konpetans.,education
+817,en,ht,Positive attitudes toward math matter.,Atitid pozitif sou matematik enpòtan.,education
+818,en,ht,Homework reinforces classroom learning.,Devwa ranfòse aprantisaj nan klas.,education
+819,en,ht,Support effort rather than speed.,Sipòte efò olye de vitès.,education
+820,en,ht,Thank you for supporting math learning.,Mèsi paske w sipòte aprantisaj matematik.,education
+821,en,ht,Writing skills develop over time.,Konpetans ekriti devlope ak tan.,education
+822,en,ht,Students practice organizing ideas.,Elèv yo pratike òganize ide.,education
+823,en,ht,Drafting and revising are part of writing.,Redaksyon ak revizyon fè pati ekriti.,education
+824,en,ht,Encourage writing for different purposes.,Ankouraje ekri pou diferan objektif.,education
+825,en,ht,Spelling improves with regular practice.,Òtograf amelyore ak pratik regilye.,education
+826,en,ht,Handwriting skills are supported.,Konpetans ekriti alamen sipòte.,education
+827,en,ht,Typing skills may also be practiced.,Konpetans tape ka pratike tou.,education
+828,en,ht,Writing confidence grows with encouragement.,Konfyans nan ekriti grandi ak ankourajman.,education
+829,en,ht,Celebrate writing progress.,Selebre pwogrè nan ekriti.,education
+830,en,ht,Thank you for encouraging writing.,Mèsi paske w ankouraje ekriti.,education
+831,en,ht,Science lessons encourage curiosity.,Leson syans ankouraje kiryozite.,education
+832,en,ht,Students ask questions and explore ideas.,Elèv yo poze kesyon epi eksplore ide.,education
+833,en,ht,Hands-on experiments support understanding.,Eksperyans pratik sipòte konpreyansyon.,education
+834,en,ht,Safety rules are reviewed before experiments.,Règ sekirite revize anvan eksperyans.,education
+835,en,ht,Observation skills are developed.,Konpetans obsèvasyon devlope.,education
+836,en,ht,Students record findings.,Elèv yo note rezilta yo.,education
+837,en,ht,Discussion follows scientific activities.,Diskisyon swiv aktivite syantifik.,education
+838,en,ht,Scientific thinking is encouraged.,Panse syantifik ankouraje.,education
+839,en,ht,Curiosity drives discovery.,Kiryozite pouse dekouvèt.,education
+840,en,ht,Thank you for supporting science learning.,Mèsi paske w sipòte aprantisaj syans.,education
+841,en,ht,Social studies explore communities and history.,Syans sosyal eksplore kominote ak istwa.,education
+842,en,ht,Students learn about civic responsibility.,Elèv yo aprann responsablite sivik.,education
+843,en,ht,Respect for others is emphasized.,Respè pou lòt moun mete an valè.,education
+844,en,ht,Discussions include diverse perspectives.,Diskisyon enkli pèspektiv divès.,education
+845,en,ht,Critical thinking is encouraged.,Panse kritik ankouraje.,education
+846,en,ht,Students connect lessons to real life.,Elèv yo konekte leson ak lavi reyèl.,education
+847,en,ht,Geography skills are introduced.,Konpetans jeyografi prezante.,education
+848,en,ht,Maps and visuals support understanding.,Kat ak vizyèl sipòte konpreyansyon.,education
+849,en,ht,Class discussions deepen understanding.,Diskisyon klas apwofondi konpreyansyon.,education
+850,en,ht,Thank you for supporting social studies.,Mèsi paske w sipòte syans sosyal.,education
+851,en,ht,Physical activity is part of the school day.,Aktivite fizik fè pati jounen lekòl.,education
+852,en,ht,Movement supports focus and health.,Mouvman sipòte konsantrasyon ak sante.,education
+853,en,ht,Students practice coordination skills.,Elèv yo pratike kowòdinasyon.,education
+854,en,ht,Team activities encourage cooperation.,Aktivite ekip ankouraje koperasyon.,education
+855,en,ht,Safety rules are followed during activities.,Règ sekirite swiv pandan aktivite.,education
+856,en,ht,Participation is encouraged at all levels.,Patisipasyon ankouraje pou tout nivo.,education
+857,en,ht,Effort matters more than performance.,Efò pi enpòtan pase pèfòmans.,education
+858,en,ht,Healthy habits are reinforced.,Bon abitid sante ranfòse.,education
+859,en,ht,Rest and hydration are emphasized.,Repo ak idratasyon mete an valè.,education
+860,en,ht,Thank you for supporting physical wellness.,Mèsi paske w sipòte byennèt fizik.,education
+861,en,ht,Art activities encourage creativity.,Aktivite atistik ankouraje kreyativite.,education
+862,en,ht,Students explore different art materials.,Elèv yo eksplore diferan materyèl atizay.,education
+863,en,ht,Creative expression is valued.,Ekspresyon kreyatif apresye.,education
+864,en,ht,Art projects may be displayed.,Pwojè atizay ka ekspoze.,education
+865,en,ht,Students reflect on their artwork.,Elèv yo reflechi sou atizay yo.,education
+866,en,ht,Art supports fine motor skills.,Atizay sipòte motrisite amann.,education
+867,en,ht,Original ideas are encouraged.,Ide orijinal ankouraje.,education
+868,en,ht,Respect for others’ work is taught.,Respè pou travay lòt moun anseye.,education
+869,en,ht,Creativity builds confidence.,Kreyativite bati konfyans.,education
+870,en,ht,Thank you for supporting the arts.,Mèsi paske w sipòte atizay.,education
+871,en,ht,Music lessons develop listening skills.,Leson mizik devlope kapasite koute.,education
+872,en,ht,Students explore rhythm and melody.,Elèv yo eksplore ritm ak melodi.,education
+873,en,ht,Group music builds cooperation.,Mizik an gwoup devlope koperasyon.,education
+874,en,ht,Practice improves musical skills.,Pratik amelyore konpetans mizikal.,education
+875,en,ht,Students learn to follow a conductor.,Elèv yo aprann swiv dirijan.,education
+876,en,ht,Music supports memory and focus.,Mizik sipòte memwa ak konsantrasyon.,education
+877,en,ht,Participation is encouraged regardless of ability.,Patisipasyon ankouraje kèlkeswa kapasite.,education
+878,en,ht,Performances may be shared with families.,Pèfòmans ka pataje ak fanmi.,education
+879,en,ht,Encouragement boosts confidence.,Ankourajman ranfòse konfyans.,education
+880,en,ht,Thank you for supporting music education.,Mèsi paske w sipòte edikasyon mizik.,education
+881,en,ht,Library time supports independent reading.,Tan bibliyotèk sipòte lekti endepandan.,education
+882,en,ht,Students learn how to choose books.,Elèv yo aprann chwazi liv.,education
+883,en,ht,Respect for library materials is expected.,Respè pou materyèl bibliyotèk atann.,education
+884,en,ht,Quiet behavior is practiced in the library.,Konpòtman trankil pratike nan bibliyotèk.,education
+885,en,ht,Books should be handled carefully.,Liv yo dwe manyen ak atansyon.,education
+886,en,ht,Reading interests may change over time.,Enterè lekti ka chanje ak tan.,education
+887,en,ht,Students are encouraged to explore genres.,Elèv yo ankouraje eksplore jan literè.,education
+888,en,ht,Library skills support lifelong learning.,Konpetans bibliyotèk sipòte aprantisaj lavi.,education
+889,en,ht,Families may visit local libraries.,Fanmi yo ka vizite bibliyotèk lokal.,education
+890,en,ht,Thank you for supporting library habits.,Mèsi paske w sipòte abitid bibliyotèk.,education
+891,en,ht,School expectations help students succeed.,Atant lekòl ede elèv reyisi.,education
+892,en,ht,Clear expectations reduce confusion.,Atant klè diminye konfizyon.,education
+893,en,ht,Students review expectations regularly.,Elèv yo revize atant regilyèman.,education
+894,en,ht,Families can reinforce expectations at home.,Fanmi yo ka ranfòse atant lakay.,education
+895,en,ht,Consistency supports positive behavior.,Konsistans sipòte bon konpòtman.,education
+896,en,ht,Students learn accountability.,Elèv yo aprann rann kont.,education
+897,en,ht,Positive reinforcement is used.,Ranforse pozitif itilize.,education
+898,en,ht,Growth is recognized over time.,Pwogrè rekonèt ak tan.,education
+899,en,ht,Shared expectations build community.,Atant pataje bati kominote.,education
+900,en,ht,Thank you for reinforcing expectations.,Mèsi paske w ranfòse atant yo.,education
+901,en,ht,End-of-year activities celebrate learning.,Aktivite fen ane selebre aprantisaj.,education
+902,en,ht,Students reflect on achievements.,Elèv yo reflechi sou reyalizasyon.,education
+903,en,ht,Memories of learning are shared.,Souvenir aprantisaj yo pataje.,education
+904,en,ht,Closure activities support transitions.,Aktivite fèmen sipòte tranzisyon.,education
+905,en,ht,Students say goodbye respectfully.,Elèv yo di orevwa avèk respè.,education
+906,en,ht,Celebrations are inclusive.,Selebrasyon yo enklizif.,education
+907,en,ht,Effort and growth are highlighted.,Efò ak pwogrè mete an valè.,education
+908,en,ht,Families may be invited to events.,Fanmi yo ka envite nan evènman.,education
+909,en,ht,Details will be communicated clearly.,Detay yo pral kominike klèman.,education
+910,en,ht,Thank you for a successful school year.,Mèsi pou yon ane lekòl reyisi.,education
+911,en,ht,Summer learning helps retain skills.,Aprantisaj pandan ete ede kenbe konpetans.,education
+912,en,ht,Reading over the break is encouraged.,Lekti pandan vakans ankouraje.,education
+913,en,ht,Short practice sessions are helpful.,Sesyon pratik kout itil.,education
+914,en,ht,Learning can be fun and informal.,Aprantisaj ka amizan ak enfòmèl.,education
+915,en,ht,Daily routines support retention.,Woutin chak jou sipòte retansyon.,education
+916,en,ht,Educational games support learning.,Jwèt edikatif sipòte aprantisaj.,education
+917,en,ht,Real-life experiences build skills.,Eksperyans lavi reyèl devlope konpetans.,education
+918,en,ht,Families play a key role in summer learning.,Fanmi yo gen wòl kle nan aprantisaj ete.,education
+919,en,ht,Resources may be shared for support.,Resous ka pataje pou sipò.,education
+920,en,ht,Thank you for supporting continued learning.,Mèsi paske w sipòte aprantisaj kontinyèl.,education
+921,en,ht,School staff prepare for the new year.,Anplwaye lekòl prepare pou nouvo ane.,education
+922,en,ht,Classrooms are organized in advance.,Sal klas yo òganize davans.,education
+923,en,ht,Materials are reviewed and updated.,Materyèl yo revize epi mete ajou.,education
+924,en,ht,Staff plan engaging lessons.,Anplwaye planifye leson enteresan.,education
+925,en,ht,Professional collaboration supports readiness.,Kolaborasyon pwofesyonèl sipòte preparasyon.,education
+926,en,ht,New strategies may be introduced.,Nouvo estrateji ka prezante.,education
+927,en,ht,Families will receive welcome information.,Fanmi yo pral resevwa enfòmasyon akey.,education
+928,en,ht,Back-to-school communication will be shared.,Kominikasyon retou lekòl pral pataje.,education
+929,en,ht,Questions are welcome before school starts.,Kesyon yo byenveni anvan lekòl kòmanse.,education
+930,en,ht,We look forward to a strong start.,Nou swete yon bon kòmansman.,education
+931,en,ht,School partnerships strengthen learning.,Patenarya lekòl ranfòse aprantisaj.,education
+932,en,ht,Families are essential partners.,Fanmi yo se patnè esansyèl.,education
+933,en,ht,Open communication supports collaboration.,Kominikasyon ouvè sipòte kolaborasyon.,education
+934,en,ht,Mutual respect builds trust.,Respè mityèl bati konfyans.,education
+935,en,ht,Shared goals support student success.,Objektif pataje sipòte siksè elèv.,education
+936,en,ht,Input from families is valued.,Opinyon fanmi apresye.,education
+937,en,ht,Together we support growth.,Ansanm nou sipòte devlopman.,education
+938,en,ht,Strong relationships benefit students.,Bon relasyon benefisye elèv.,education
+939,en,ht,Collaboration strengthens outcomes.,Kolaborasyon ranfòse rezilta.,education
+940,en,ht,Thank you for partnering with our school.,Mèsi paske w patnè ak lekòl nou an.,education
+941,en,ht,Student well-being is a priority.,Byennèt elèv se priyorite.,education
+942,en,ht,Emotional learning is supported.,Aprantisaj emosyonèl sipòte.,education
+943,en,ht,Students practice self-regulation.,Elèv yo pratike oto-kontwòl.,education
+944,en,ht,Calm spaces are available when needed.,Espas trankil disponib lè sa nesesè.,education
+945,en,ht,Feelings are discussed respectfully.,Santiman diskite ak respè.,education
+946,en,ht,Students learn coping strategies.,Elèv yo aprann estrateji adaptasyon.,education
+947,en,ht,Support is available when challenges arise.,Sipò disponib lè gen defi.,education
+948,en,ht,Families are informed of concerns.,Fanmi yo enfòme sou enkyetid.,education
+949,en,ht,Well-being supports academic success.,Byennèt sipòte siksè akademik.,education
+950,en,ht,Thank you for supporting student well-being.,Mèsi paske w sipòte byennèt elèv.,education
+951,en,ht,School routines promote stability.,Woutin lekòl ankouraje estabilite.,education
+952,en,ht,Predictable schedules reduce stress.,Orè previzib diminye estrès.,education
+953,en,ht,Students feel secure with structure.,Elèv yo santi yo an sekirite ak estrikti.,education
+954,en,ht,Daily routines are practiced consistently.,Woutin chak jou pratike regilyèman.,education
+955,en,ht,Visual cues support understanding.,Siy vizyèl sipòte konpreyansyon.,education
+956,en,ht,Routines help maximize learning time.,Woutin ede maksimize tan aprantisaj.,education
+957,en,ht,Flexibility is used when appropriate.,Fleksibilite itilize lè sa apwopriye.,education
+958,en,ht,Balance supports student needs.,Balans sipòte bezwen elèv.,education
+959,en,ht,Consistency builds confidence.,Konsistans bati konfyans.,education
+960,en,ht,Thank you for supporting daily routines.,Mèsi paske w sipòte woutin chak jou.,education
+961,en,ht,School communication aims to be clear.,Kominikasyon lekòl vize klè.,education
+962,en,ht,Messages are shared in plain language.,Mesaj yo pataje nan lang senp.,education
+963,en,ht,Important information is highlighted.,Enfòmasyon enpòtan mete an valè.,education
+964,en,ht,Please read messages carefully.,Tanpri li mesaj yo ak atansyon.,education
+965,en,ht,Follow-up may be required.,Swivi ka nesesè.,education
+966,en,ht,Questions help clarify information.,Kesyon ede klarifye enfòmasyon.,education
+967,en,ht,Timely responses support efficiency.,Repons alè sipòte efikasite.,education
+968,en,ht,Communication strengthens partnerships.,Kominikasyon ranfòse patenarya.,education
+969,en,ht,We welcome ongoing dialogue.,Nou akeyi dyalòg kontinyèl.,education
+970,en,ht,Thank you for staying informed.,Mèsi paske w rete enfòme.,education
+971,en,ht,Student success is our shared goal.,Siksè elèv se objektif pataje nou.,education
+972,en,ht,High expectations support achievement.,Atant wo sipòte reyalizasyon.,education
+973,en,ht,Support systems are in place.,Sistèm sipò an plas.,education
+974,en,ht,Progress is monitored thoughtfully.,Pwogrè siveye ak refleksyon.,education
+975,en,ht,Students are encouraged to try their best.,Elèv yo ankouraje bay pi bon yo.,education
+976,en,ht,Effort is recognized consistently.,Efò rekonèt regilyèman.,education
+977,en,ht,Learning is a continuous journey.,Aprantisaj se yon vwayaj kontinyèl.,education
+978,en,ht,Growth happens at different paces.,Devlopman fèt a vitès diferan.,education
+979,en,ht,Patience supports learning.,Pasyans sipòte aprantisaj.,education
+980,en,ht,Thank you for supporting student success.,Mèsi paske w sipòte siksè elèv.,education
+981,en,ht,We appreciate your ongoing support.,Nou apresye sipò kontinyèl ou.,education
+982,en,ht,Your involvement makes a difference.,Angajman ou fè diferans.,education
+983,en,ht,Together we build strong foundations.,Ansanm nou bati fondasyon solid.,education
+984,en,ht,Partnership strengthens our community.,Patenarya ranfòse kominote nou.,education
+985,en,ht,Collaboration benefits every student.,Kolaborasyon benefisye chak elèv.,education
+986,en,ht,Thank you for your trust and cooperation.,Mèsi pou konfyans ak koperasyon ou.,education
+987,en,ht,We value open and respectful communication.,Nou apresye kominikasyon ouvè ak respè.,education
+988,en,ht,Shared responsibility leads to success.,Responsablite pataje mennen siksè.,education
+989,en,ht,We look forward to continued collaboration.,Nou swete kontinye kolabore.,education
+990,en,ht,Thank you for being part of our school community.,Mèsi paske w fè pati kominote lekòl la.,education
+991,en,ht,This message concludes our update.,Mesaj sa a fini mizajou nou an.,education
+992,en,ht,Additional information will follow if needed.,Lòt enfòmasyon ap vini si sa nesesè.,education
+993,en,ht,Please keep this message for reference.,Tanpri kenbe mesaj sa a pou referans.,education
+994,en,ht,Do not hesitate to reach out.,Pa ezite kontakte nou.,education
+995,en,ht,We are here to support your family.,Nou la pou sipòte fanmi ou.,education
+996,en,ht,Communication helps us serve you better.,Kominikasyon ede nou sèvi ou pi byen.,education
+997,en,ht,Your feedback is always welcome.,Opinyon ou toujou byenveni.,education
+998,en,ht,Thank you for your time and attention.,Mèsi pou tan ak atansyon ou.,education
+999,en,ht,We appreciate your partnership.,Nou apresye patenarya ou.,education
+1000,en,ht,End of message.,Fen mesaj la.,education
+1001,en,ht,Your child is demonstrating steady academic growth.,Pitit ou a ap montre pwogrè akademik regilye.,education
+1002,en,ht,Recent assessments indicate improved comprehension.,Evalyasyon resan montre konpreyansyon amelyore.,education
+1003,en,ht,Progress varies across subject areas.,Pwogrè a varye selon matyè yo.,education
+1004,en,ht,Targeted support will address specific gaps.,Sipò vize pral adrese mank espesifik yo.,education
+1005,en,ht,Instruction is adjusted based on student data.,Ansèyman adapte selon done elèv yo.,education
+1006,en,ht,Data-informed instruction guides lesson planning.,Ansèyman ki baze sou done gide planifikasyon leson.,education
+1007,en,ht,We monitor both strengths and challenges.,Nou suiv fòs ak defi yo.,education
+1008,en,ht,Growth trends are reviewed regularly.,Tandans pwogrè revize regilyèman.,education
+1009,en,ht,Feedback supports continuous improvement.,Retwoalimantasyon sipòte amelyorasyon kontinyèl.,education
+1010,en,ht,Academic progress is a shared responsibility.,Pwogrè akademik se yon responsablite pataje.,education
+1011,en,ht,Instructional strategies are aligned to standards.,Estrateji ansèyman aliyen ak estanda yo.,education
+1012,en,ht,Lessons are designed with clear learning objectives.,Leson yo fèt ak objektif aprantisaj klè.,education
+1013,en,ht,Students are expected to demonstrate mastery.,Elèv yo atann pou montre metrize.,education
+1014,en,ht,Formative assessments guide instruction.,Evalyasyon fòmatif gide ansèyman.,education
+1015,en,ht,Summative assessments measure overall achievement.,Evalyasyon somatif mezire reyalizasyon jeneral.,education
+1016,en,ht,Multiple measures inform academic decisions.,Plizyè mezi enfòme desizyon akademik.,education
+1017,en,ht,Learning outcomes are clearly defined.,Rezilta aprantisaj yo defini klèman.,education
+1018,en,ht,Instruction emphasizes higher-order thinking.,Ansèyman mete aksan sou panse avanse.,education
+1019,en,ht,Students are challenged at appropriate levels.,Elèv yo defi nan nivo apwopriye.,education
+1020,en,ht,Academic rigor is balanced with support.,Rijè akademik balanse ak sipò.,education
+1021,en,ht,Intervention services are provided as needed.,Sèvis entèvansyon bay selon bezwen.,education
+1022,en,ht,Support plans are reviewed collaboratively.,Plan sipò revize an kolaborasyon.,education
+1023,en,ht,Small-group instruction targets specific skills.,Ansèyman an ti gwoup vize konpetans espesifik.,education
+1024,en,ht,Individualized strategies support learning needs.,Estrateji endividyalize sipòte bezwen aprantisaj.,education
+1025,en,ht,Progress monitoring informs next steps.,Siveyans pwogrè enfòme pwochen etap yo.,education
+1026,en,ht,Interventions are adjusted based on response.,Entèvansyon adapte selon repons elèv.,education
+1027,en,ht,Support is provided within the classroom.,Sipò bay andedan klas la.,education
+1028,en,ht,Additional resources may be recommended.,Resous siplemantè ka rekòmande.,education
+1029,en,ht,Collaboration ensures consistent support.,Kolaborasyon asire sipò konsistan.,education
+1030,en,ht,We will communicate progress updates regularly.,Nou pral kominike mizajou pwogrè regilyèman.,education
+1031,en,ht,Attendance patterns impact academic outcomes.,Modèl prezans afekte rezilta akademik.,education
+1032,en,ht,Consistent attendance supports learning continuity.,Prezans regilye sipòte kontinite aprantisaj.,education
+1033,en,ht,Missed instruction can affect progress.,Ansèyman rate ka afekte pwogrè.,education
+1034,en,ht,We monitor attendance trends carefully.,Nou swiv tandans prezans ak atansyon.,education
+1035,en,ht,Please notify the school of absences promptly.,Tanpri fè lekòl la konnen absans rapidman.,education
+1036,en,ht,Timely arrival supports instructional flow.,Arive alè sipòte koule ansèyman.,education
+1037,en,ht,Instruction begins at the scheduled time.,Ansèyman kòmanse lè pwograme a.,education
+1038,en,ht,Chronic absences may require follow-up.,Absans kwonik ka mande swivi.,education
+1039,en,ht,We value your partnership in attendance matters.,Nou apresye patenarya ou sou prezans.,education
+1040,en,ht,Regular attendance contributes to success.,Prezans regilye kontribye nan siksè.,education
+1041,en,ht,Behavior expectations are clearly communicated.,Atant konpòtman kominike klèman.,education
+1042,en,ht,Positive behavior supports learning environments.,Bon konpòtman sipòte anviwònman aprantisaj.,education
+1043,en,ht,Restorative practices guide behavior support.,Pratik restoratif gide sipò konpòtman.,education
+1044,en,ht,Students reflect on their choices.,Elèv yo reflechi sou chwa yo.,education
+1045,en,ht,Accountability is taught with empathy.,Responsablite anseye ak anpati.,education
+1046,en,ht,Behavior interventions are instructional.,Entèvansyon konpòtman yo pedagojik.,education
+1047,en,ht,Consistent expectations support fairness.,Atant konsistan sipòte jistis.,education
+1048,en,ht,Families are informed of behavior concerns.,Fanmi yo enfòme sou pwoblèm konpòtman.,education
+1049,en,ht,We collaborate to support positive growth.,Nou kolabore pou sipòte devlopman pozitif.,education
+1050,en,ht,Behavior growth is monitored over time.,Pwogrè konpòtman swiv sou tan.,education
+1051,en,ht,Social-emotional learning is embedded in instruction.,Aprantisaj sosyal-emosyonèl entegre nan ansèyman.,education
+1052,en,ht,Students develop self-awareness skills.,Elèv yo devlope konpetans konsyans pwòp tèt yo.,education
+1053,en,ht,Relationship-building is a classroom priority.,Bati relasyon se yon priyorite nan klas.,education
+1054,en,ht,Conflict resolution skills are explicitly taught.,Konpetans rezolisyon konfli anseye dirèkteman.,education
+1055,en,ht,Students practice respectful communication.,Elèv yo pratike kominikasyon respekte.,education
+1056,en,ht,Emotional regulation strategies are modeled.,Estrateji kontwòl emosyon montre kòm modèl.,education
+1057,en,ht,Safe environments support emotional growth.,Anviwònman sekirize sipòte devlopman emosyonèl.,education
+1058,en,ht,Families are partners in social-emotional development.,Fanmi yo se patnè nan devlopman sosyal-emosyonèl.,education
+1059,en,ht,Consistent messaging supports skill transfer.,Mesaj konsistan sipòte transfè konpetans.,education
+1060,en,ht,Social-emotional skills support academic learning.,Konpetans sosyal-emosyonèl sipòte aprantisaj akademik.,education
+1061,en,ht,Curriculum alignment ensures instructional coherence.,Aliyman kourikoulòm asire koerans ansèyman.,education
+1062,en,ht,Vertical alignment supports skill progression.,Aliyman vètikal sipòte pwogresyon konpetans.,education
+1063,en,ht,Instruction builds upon prior knowledge.,Ansèyman bati sou konesans anvan.,education
+1064,en,ht,Scaffolding supports complex learning.,Eskafodaj sipòte aprantisaj konplèks.,education
+1065,en,ht,Students gradually assume greater independence.,Elèv yo pran plis endepandans piti piti.,education
+1066,en,ht,Explicit instruction supports clarity.,Ansèyman eksplisit sipòte klè.,education
+1067,en,ht,Practice opportunities reinforce learning.,Opòtinite pratik ranfòse aprantisaj.,education
+1068,en,ht,Feedback is timely and specific.,Retwoalimantasyon alè ak presi.,education
+1069,en,ht,Reflection deepens understanding.,Refleksyon apwofondi konpreyansyon.,education
+1070,en,ht,Curriculum design prioritizes depth over speed.,Kourikoulòm la bay priyorite pwofondè sou vitès.,education
+1071,en,ht,Family engagement strengthens instructional impact.,Angajman fanmi ranfòse enpak ansèyman.,education
+1072,en,ht,Home support aligns with classroom goals.,Sipò lakay aliyen ak objektif klas.,education
+1073,en,ht,Clear guidance supports home learning.,Gid klè sipòte aprantisaj lakay.,education
+1074,en,ht,Learning routines can be reinforced at home.,Woutin aprantisaj ka ranfòse lakay.,education
+1075,en,ht,Questions at home deepen understanding.,Kesyon lakay apwofondi konpreyansyon.,education
+1076,en,ht,Encouragement supports student motivation.,Ankourajman sipòte motivasyon elèv.,education
+1077,en,ht,Positive reinforcement builds confidence.,Ranforse pozitif bati konfyans.,education
+1078,en,ht,Shared language supports consistency.,Langaj pataje sipòte konsistans.,education
+1079,en,ht,Family-school alignment benefits students.,Aliyman fanmi-lekòl benefisye elèv.,education
+1080,en,ht,Your involvement reinforces learning goals.,Patisipasyon ou ranfòse objektif aprantisaj.,education
+1081,en,ht,Technology tools support instructional delivery.,Zouti teknoloji sipòte livrezon ansèyman.,education
+1082,en,ht,Digital platforms extend classroom learning.,Platfòm dijital pwolonje aprantisaj klas.,education
+1083,en,ht,Students are taught responsible technology use.,Elèv yo anseye itilizasyon teknoloji responsab.,education
+1084,en,ht,Online assignments align with classroom instruction.,Devwa sou entènèt aliyen ak ansèyman klas.,education
+1085,en,ht,Technical issues should be reported promptly.,Pwoblèm teknik dwe rapòte rapidman.,education
+1086,en,ht,Digital access supports equity.,Aksè dijital sipòte ekite.,education
+1087,en,ht,Screen time is balanced with offline learning.,Tan ekran balanse ak aprantisaj san ekran.,education
+1088,en,ht,Clear expectations guide online behavior.,Atant klè gide konpòtman sou entènèt.,education
+1089,en,ht,Families support safe digital practices.,Fanmi yo sipòte pratik dijital an sekirite.,education
+1090,en,ht,Technology enhances but does not replace instruction.,Teknoloji amelyore men pa ranplase ansèyman.,education
+1091,en,ht,Long-term goals guide instructional planning.,Objektif alontèm gide planifikasyon ansèyman.,education
+1092,en,ht,Short-term objectives support measurable progress.,Objektif kout tèm sipòte pwogrè mezirab.,education
+1093,en,ht,Instruction balances immediate needs and future goals.,Ansèyman balanse bezwen imedya ak objektif lavni.,education
+1094,en,ht,Students track their own learning progress.,Elèv yo swiv pwòp pwogrè aprantisaj yo.,education
+1095,en,ht,Goal-setting supports motivation.,Fikse objektif sipòte motivasyon.,education
+1096,en,ht,Reflection informs goal adjustment.,Refleksyon enfòme ajisteman objektif.,education
+1097,en,ht,Teachers guide students in planning strategies.,Pwofesè gide elèv yo nan estrateji planifikasyon.,education
+1098,en,ht,Families may discuss goals at home.,Fanmi yo ka diskite objektif lakay.,education
+1099,en,ht,Shared goals support accountability.,Objektif pataje sipòte responsabilite.,education
+1100,en,ht,Progress toward goals is reviewed periodically.,Pwogrè sou objektif revize detanzantan.,education
+1101,en,ht,Academic planning considers individual pathways.,Planifikasyon akademik konsidere chemen endividyèl.,education
+1102,en,ht,Students develop responsibility for their learning.,Elèv yo devlope responsablite pou aprantisaj yo.,education
+1103,en,ht,Instruction fosters independent thinking.,Ansèyman ankouraje panse endepandan.,education
+1104,en,ht,Problem-solving skills are explicitly developed.,Konpetans rezoud pwoblèm devlope dirèkteman.,education
+1105,en,ht,Students are encouraged to ask thoughtful questions.,Elèv yo ankouraje poze kesyon reflechi.,education
+1106,en,ht,Discussion-based learning deepens understanding.,Aprantisaj pa diskisyon apwofondi konpreyansyon.,education
+1107,en,ht,Evidence-based reasoning is emphasized.,Rezònman ki baze sou prèv mete an valè.,education
+1108,en,ht,Students support claims with examples.,Elèv yo soutni agiman ak egzanp.,education
+1109,en,ht,Instruction promotes analytical skills.,Ansèyman devlope konpetans analiz.,education
+1110,en,ht,Critical thinking prepares students for future learning.,Panse kritik prepare elèv pou aprantisaj lavni.,education
+1111,en,ht,Classroom culture supports academic risk-taking.,Kilti klas sipòte pran risk akademik.,education
+1112,en,ht,Mistakes are treated as learning opportunities.,Erè trete kòm opòtinite aprantisaj.,education
+1113,en,ht,Students are encouraged to persist through challenges.,Elèv yo ankouraje pèsiste atravè defi.,education
+1114,en,ht,Teacher feedback guides improvement.,Retwoalimantasyon pwofesè gide amelyorasyon.,education
+1115,en,ht,Peer collaboration supports deeper learning.,Kolaborasyon ant elèv sipòte aprantisaj pwofon.,education
+1116,en,ht,Group work builds communication skills.,Travay an gwoup devlope konpetans kominikasyon.,education
+1117,en,ht,Clear roles support effective collaboration.,Wòl klè sipòte kolaborasyon efikas.,education
+1118,en,ht,Reflection follows collaborative tasks.,Refleksyon swiv travay kolaboratif.,education
+1119,en,ht,Students learn from multiple perspectives.,Elèv yo aprann nan plizyè pèspektiv.,education
+1120,en,ht,Collaboration prepares students for future environments.,Kolaborasyon prepare elèv pou anviwònman lavni.,education
+1121,en,ht,Instructional pacing is adjusted thoughtfully.,Ritm ansèyman ajiste ak refleksyon.,education
+1122,en,ht,Lessons allow time for processing information.,Leson yo bay tan pou trete enfòmasyon.,education
+1123,en,ht,Complex concepts are revisited as needed.,Konsèp konplèks revize selon bezwen.,education
+1124,en,ht,Spiral review reinforces long-term retention.,Revizyon espiral ranfòse retansyon alontèm.,education
+1125,en,ht,Instruction balances review and new learning.,Ansèyman balanse revizyon ak nouvo aprantisaj.,education
+1126,en,ht,Time is allocated intentionally.,Tan distribye entansyonèlman.,education
+1127,en,ht,Instructional adjustments respond to student needs.,Ajisteman ansèyman reponn a bezwen elèv.,education
+1128,en,ht,Flexible grouping supports differentiated instruction.,Gwoupman fleksib sipòte ansèyman diferansye.,education
+1129,en,ht,Learning pathways may differ among students.,Chemen aprantisaj ka diferan ant elèv.,education
+1130,en,ht,All students are held to high expectations.,Tout elèv kenbe ak atant wo.,education
+1131,en,ht,Family conferences support shared understanding.,Konferans fanmi sipòte konpreyansyon pataje.,education
+1132,en,ht,Meetings focus on student growth and needs.,Reyinyon konsantre sou pwogrè ak bezwen elèv.,education
+1133,en,ht,Preparation ensures productive discussions.,Preparasyon asire diskisyon pwodiktif.,education
+1134,en,ht,Questions are encouraged during conferences.,Kesyon ankouraje pandan konferans.,education
+1135,en,ht,Action steps may be identified collaboratively.,Etap aksyon ka idantifye an kolaborasyon.,education
+1136,en,ht,Follow-up ensures accountability.,Swivi asire responsabilite.,education
+1137,en,ht,Documentation supports continuity.,Dokimantasyon sipòte kontinite.,education
+1138,en,ht,Progress is reviewed after implementation.,Pwogrè revize apre aplikasyon.,education
+1139,en,ht,Ongoing dialogue strengthens partnerships.,Dyalòg kontinyèl ranfòse patenarya.,education
+1140,en,ht,Thank you for engaging in collaborative planning.,Mèsi paske w angaje nan planifikasyon kolaboratif.,education
+1141,en,ht,School policies are designed to support equity.,Politik lekòl fèt pou sipòte ekite.,education
+1142,en,ht,Policies are applied consistently.,Politik yo aplike konsistan.,education
+1143,en,ht,Clear guidelines support transparency.,Gid klè sipòte transparans.,education
+1144,en,ht,Families are informed of policy updates.,Fanmi yo enfòme sou mizajou politik.,education
+1145,en,ht,Questions about policies are welcome.,Kesyon sou politik yo byenveni.,education
+1146,en,ht,Policy implementation is reviewed regularly.,Aplikasyon politik revize regilyèman.,education
+1147,en,ht,Feedback informs policy refinement.,Retwoalimantasyon enfòme rafinman politik.,education
+1148,en,ht,Policies support safe learning environments.,Politik sipòte anviwònman aprantisaj an sekirite.,education
+1149,en,ht,Consistency builds trust in school systems.,Konsistans bati konfyans nan sistèm lekòl.,education
+1150,en,ht,Thank you for your understanding and cooperation.,Mèsi pou konpreyansyon ak koperasyon ou.,education
+1151,en,ht,Instruction reflects culturally responsive practices.,Ansèyman reflete pratik ki respekte kilti.,education
+1152,en,ht,Diverse perspectives are intentionally included.,Pèspektiv divès enkli entansyonèlman.,education
+1153,en,ht,Students see themselves reflected in learning.,Elèv yo wè tèt yo reflete nan aprantisaj.,education
+1154,en,ht,Inclusive practices support belonging.,Pratik enklizif sipòte sans apatenans.,education
+1155,en,ht,Respect for identity is emphasized.,Respè pou idantite mete an valè.,education
+1156,en,ht,Class discussions honor diverse experiences.,Diskisyon klas onore eksperyans divès.,education
+1157,en,ht,Instruction promotes equity and access.,Ansèyman ankouraje ekite ak aksè.,education
+1158,en,ht,Families’ cultures are valued.,Kilti fanmi yo apresye.,education
+1159,en,ht,Community knowledge enriches learning.,Konesans kominote anrichi aprantisaj.,education
+1160,en,ht,Culturally responsive teaching supports engagement.,Ansèyman ki respekte kilti sipòte angajman.,education
+1161,en,ht,Transitions between grades are carefully planned.,Tranzisyon ant nivo yo planifye ak swen.,education
+1162,en,ht,Students are prepared for increased expectations.,Elèv yo prepare pou atant ki ogmante.,education
+1163,en,ht,Orientation activities support adjustment.,Aktivite oryantasyon sipòte adaptasyon.,education
+1164,en,ht,Information is shared to reduce uncertainty.,Enfòmasyon pataje pou diminye ensètitid.,education
+1165,en,ht,Students practice new routines gradually.,Elèv yo pratike nouvo woutin piti piti.,education
+1166,en,ht,Support systems remain in place during transitions.,Sistèm sipò rete an plas pandan tranzisyon.,education
+1167,en,ht,Families receive guidance during changes.,Fanmi yo resevwa gid pandan chanjman.,education
+1168,en,ht,Communication supports smooth transitions.,Kominikasyon sipòte tranzisyon dous.,education
+1169,en,ht,Questions are welcomed throughout the process.,Kesyon yo byenveni pandan pwosesis la.,education
+1170,en,ht,Transitions are viewed as opportunities for growth.,Tranzisyon wè kòm opòtinite pou devlopman.,education
+1171,en,ht,Long-term academic planning supports readiness.,Planifikasyon akademik alontèm sipòte preparasyon.,education
+1172,en,ht,Skills are developed progressively across years.,Konpetans devlope pwogresivman atravè ane yo.,education
+1173,en,ht,Foundational skills support advanced learning.,Konpetans fondamantal sipòte aprantisaj avanse.,education
+1174,en,ht,Instruction builds toward future academic demands.,Ansèyman bati pou demand akademik lavni.,education
+1175,en,ht,Students learn to manage increasing responsibility.,Elèv yo aprann jere responsablite ki ogmante.,education
+1176,en,ht,Time-management skills are explicitly taught.,Konpetans jesyon tan anseye dirèkteman.,education
+1177,en,ht,Organizational strategies support independence.,Estrateji òganizasyon sipòte endepandans.,education
+1178,en,ht,Students reflect on learning strategies.,Elèv yo reflechi sou estrateji aprantisaj.,education
+1179,en,ht,Self-assessment supports metacognition.,Oto-evalyasyon sipòte metakognisyon.,education
+1180,en,ht,Preparation today supports success tomorrow.,Preparasyon jodi a sipòte siksè demen.,education
+1181,en,ht,Communication remains ongoing and responsive.,Kominikasyon rete kontinyèl ak reyaktif.,education
+1182,en,ht,Updates are shared as new information emerges.,Mizajou pataje lè nouvo enfòmasyon parèt.,education
+1183,en,ht,Clarity and consistency guide messaging.,Klè ak konsistans gide mesaj yo.,education
+1184,en,ht,Multiple channels support accessibility.,Plizyè chanèl sipòte aksè.,education
+1185,en,ht,Families are encouraged to stay engaged.,Fanmi yo ankouraje rete angaje.,education
+1186,en,ht,Two-way communication strengthens trust.,Kominikasyon de-sans ranfòse konfyans.,education
+1187,en,ht,Feedback is reviewed thoughtfully.,Retwoalimantasyon revize ak refleksyon.,education
+1188,en,ht,Communication practices are continuously improved.,Pratik kominikasyon amelyore kontinyèlman.,education
+1189,en,ht,Transparency supports strong partnerships.,Transparans sipòte patenarya solid.,education
+1190,en,ht,We appreciate your continued engagement.,Nou apresye angajman kontinyèl ou.,education
+1191,en,ht,Student achievement reflects collective effort.,Reyalizasyon elèv reflete efò kolektif.,education
+1192,en,ht,Success is built through sustained collaboration.,Siksè bati atravè kolaborasyon soutni.,education
+1193,en,ht,Learning outcomes improve with alignment.,Rezilta aprantisaj amelyore ak aliyman.,education
+1194,en,ht,Shared commitment supports excellence.,Angajman pataje sipòte ekselans.,education
+1195,en,ht,We remain focused on continuous improvement.,Nou rete konsantre sou amelyorasyon kontinyèl.,education
+1196,en,ht,Evidence guides instructional decisions.,Prèv gide desizyon ansèyman.,education
+1197,en,ht,Reflection informs future planning.,Refleksyon enfòme planifikasyon lavni.,education
+1198,en,ht,Adaptability supports evolving student needs.,Adaptabilite sipòte bezwen elèv k ap chanje.,education
+1199,en,ht,Partnership is essential to sustained success.,Patenarya esansyèl pou siksè dirab.,education
+1200,en,ht,Thank you for your continued collaboration and trust.,Mèsi pou kolaborasyon ak konfyans kontinyèl ou.,education
