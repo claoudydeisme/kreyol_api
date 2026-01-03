@@ -9,3 +9,12 @@ sentencepiece
 slowapi
 gunicorn
 python-jose
+# Pydantic with email validation
+pydantic[email]==2.12.5
+email-validator==2.3.0
+# Email Support
+dnspython==2.8.0
+idna==3.11
+# Type Hints
+typing-extensions==4.15.0
+annotated-types==0.7.0
