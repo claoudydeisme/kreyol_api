@@ -18,3 +18,5 @@ idna==3.11
 # Type Hints
 typing-extensions==4.15.0
 annotated-types==0.7.0
+#env
+dotenv
