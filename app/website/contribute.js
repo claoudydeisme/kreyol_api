@@ -1,7 +1,7 @@
 // Contribute.js - KreyolAPI Contribution System
 
 // Configuration
-const API_BASE_URL = 'http://localhost:8000'; // Change this to your actual API URL
+const API_BASE_URL = 'https://api.kreyolapi.org'; // Change this to your actual API URL
 const EMAIL_ENDPOINT = `${API_BASE_URL}/send-contribution`; // Email endpoint
 
 // State management
