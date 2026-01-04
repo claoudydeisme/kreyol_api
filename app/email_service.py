@@ -11,7 +11,7 @@ router = APIRouter()
 
 # Email configuration
 RESEND_API_KEY ="re_gr49c4Hz_7JtJLSzWVi62igojH7F321iD"
-SENDER_EMAIL ="onboarding@resend.dev"
+SENDER_EMAIL ="contact@kreyolapi.org"
 RECEIVER_EMAIL ="claoudy.deisme@estudiantes.unahur.edu.ar"
 
 # Models
