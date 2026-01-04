@@ -193,8 +193,8 @@ Submission Time: ${new Date().toISOString()}
 `;
 
   return {
-    to_email: 'psechein@gmail.com',
-    subject: `[KreyolAPI] New Contribution: ${source_lang}→${target_lang} - ${currentDomain}`,
+    to_email: 'claoudy.deisme@estudiantes.unahur.edu.ar',
+    subject: `[Vokal Kreyol] New Contribution: ${source_lang}→${target_lang} - ${currentDomain}`,
     contribution_note: contributionNote,
     csv_data: csvRow,
     contributor_name: name
