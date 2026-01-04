@@ -10,9 +10,9 @@ import httpx
 router = APIRouter()
 
 # Email configuration
-RESEND_API_KEY = os.getenv("RESEND_API_KEY", "re_gr49c4Hz_7JtJLSzWVi62igojH7F321iD")
-SENDER_EMAIL = os.getenv("SENDER_EMAIL", "onboarding@resend.dev")
-RECEIVER_EMAIL = os.getenv("RECEIVER_EMAIL", "claoudy.deisme@estudiantes.unahur.edu.ar")
+RESEND_API_KEY ="re_gr49c4Hz_7JtJLSzWVi62igojH7F321iD"
+SENDER_EMAIL ="onboarding@resend.dev"
+RECEIVER_EMAIL ="claoudy.deisme@estudiantes.unahur.edu.ar"
 
 # Models
 class FeedbackRequest(BaseModel):
